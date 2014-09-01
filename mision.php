@@ -82,6 +82,7 @@
            <p>Sin embargo, en estos dos últimos siglos hemos vivido de espaldas a la Naturaleza. Debido al formidable desarrollo de la tecnología, el crecimiento de las ciudades y el vaciamiento de los campos, nos cuesta entender que pertenecemos a ella, en una intrincada red, vital para nuestra supervivencia como especie.La Naturaleza nos alimenta, nos abriga y nos inspira. </p>
 	   <p>Podemos amar y proteger, solo aquello que conocemos.</p> 
 	   <p>Por esto, mi Misión es contribuir a la preservación de la Naturaleza y de la Patagonia, mediante la publicación  de estas imágenes ante grandes audiencias.</p>
+<p><a class="btn" href="collections-index.php">Proseguir el viaje »</a></p>
 	          </div>
 		</div>
 	      </div>
