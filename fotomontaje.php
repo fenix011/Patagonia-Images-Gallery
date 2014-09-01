@@ -36,70 +36,47 @@
 
       body#home {
         background-color: #4e9258;
-      }
-
-
-      div#content {
-      
-
-        color: #D6D6D6;
-        width: 100%;
-        margin: 0 auto;
-        padding: 10px;
-        background-color: #f8f8f8;
-        background-color: rgba(50, 50, 50,.6);
-
-        border: 1px solid #999;
-        padding: 10px;
-        border-radius: 15px;
-        -border-radius: 3px;
-        -webkit-border-radius: 10px;
-        box-shadow: 5px 5px 10px #999;
-
-      }
+      } 
 
     </style>
 
 <!-- ++ as per Bootstrap-Images-Gallery -->
 
-    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="http://blueimp.github.io/Gallery/css/blueimp-gallery.min.css">
+<!--    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"> -->
     <link rel="stylesheet" href="css/bootstrap-image-gallery.min.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
 
-<!-- ++ Blueimp-g. <- galleryGen -->
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="css/blueimp-gallery.css">
-<link rel="stylesheet" href="css/blueimp-gallery-indicator.css">
-<link rel="stylesheet" href="css/blueimp-gallery-video.css">
-<link rel="stylesheet" href="css/demo.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/demo.css">
     
 
   </head>
 
   <body id="home">
+    <!-- { navbar-->
+    <?php include "components/php/navbar.php"; ?>
 
-	<!-- { navbar-->
-	<?php include "components/php/navbar.php"; ?>
+    <!-- espacio en blanco para evitar solapamiento -->
 
-<!-- espacio en blanco para evitar solapamiento -->
+    <pre>
 
-<pre>
+    </pre>
 
-</pre>
-
-<h2><i>"Un viaje por la Patagonia"</i></h2>
-
+    <h2><i>"Un viaje por la Patagonia"</i></h2>
 
 
-	<video style="max-width:100%; height: auto;" autoplay="autoplay" loop>
-	    <source src="http://dev.librebits.info/video/webm/Un%20viaje%20por%20patagonia_480p.webm" type="video/ogg" />
-	        Your browser does not support the HTML5 video tag.
-	</video>
 
-<!-- <script src="js/jquery.blueimp-gallery.js"></script> -->
+    <video style="max-width:100%; height: auto;" autoplay="autoplay" loop>
+      <source src="http://dev.librebits.info/video/webm/Un%20viaje%20por%20patagonia_480p.webm" type="video/ogg" />
+      Your browser does not support the HTML5 video tag.
+    </video>
 
-<footer> <!-- /container -->
-  <?php include "components/php/footer.php"; ?>
-</footer> <!-- /container -->
+    <p><a class="btn" href="collections-index.php">Proseguir el viaje... »</a></p>
+
+    <!-- <script src="js/jquery.blueimp-gallery.js"></script> -->
+
+    <footer> <!-- /container -->
+      <?php include "components/php/footer.php"; ?>
+    </footer> <!-- /container -->
