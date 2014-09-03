@@ -36,7 +36,7 @@
 
       body#home {
         background-color: #4e9258;
-      } 
+      }
 
     </style>
 
@@ -60,15 +60,7 @@
 
     <!-- espacio en blanco para evitar solapamiento -->
 
-    <pre>
-
-    </pre>
-
-    <h2><i>"Un viaje por la Patagonia"</i></h2>
-
-
-
-    <video style="max-width:100%; height: auto;" autoplay="autoplay" loop>
+    <video style="margin-top: 100px; max-width:100%; height: auto;" autoplay="autoplay" loop>
       <source src="http://dev.librebits.info/video/webm/Un%20viaje%20por%20patagonia_480p.webm" type="video/ogg" />
       Your browser does not support the HTML5 video tag.
     </video>
@@ -77,6 +69,6 @@
 
     <!-- <script src="js/jquery.blueimp-gallery.js"></script> -->
 
-    <footer> <!-- /container -->
+    <footer style="margin-top: 100px";> <!-- /container -->
       <?php include "components/php/footer.php"; ?>
     </footer> <!-- /container -->

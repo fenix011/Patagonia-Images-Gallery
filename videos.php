@@ -67,13 +67,13 @@
     <link rel="stylesheet" href="css/bootstrap-image-gallery.min.css">
     <link rel="stylesheet" href="css/style.css">
 
-<!-- ++ Blueimp-g. <- galleryGen -->
+    <!-- ++ Blueimp-g. <- galleryGen -->
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="css/blueimp-gallery.css">
-<link rel="stylesheet" href="css/blueimp-gallery-indicator.css">
-<link rel="stylesheet" href="css/blueimp-gallery-video.css">
-<link rel="stylesheet" href="css/demo.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/blueimp-gallery.css">
+    <link rel="stylesheet" href="css/blueimp-gallery-indicator.css">
+    <link rel="stylesheet" href="css/blueimp-gallery-video.css">
+    <link rel="stylesheet" href="css/demo.css">
     
 
   </head>
@@ -85,15 +85,11 @@
 
 <!-- espacio en blanco para evitar solapamiento -->
 
-<pre>
-
-</pre>
 
 <!-- .. -->
 
-<h2>Carousel video gallery</h2>
 <!-- The Gallery as inline carousel, can be positioned anywhere on the page -->
-<div id="blueimp-video-carousel" class="blueimp-gallery blueimp-gallery-controls blueimp-gallery-carousel">
+<div id="blueimp-video-carousel" style="margin-top: 100px"  class="blueimp-gallery blueimp-gallery-controls blueimp-gallery-carousel">
     <div class="slides"></div>
     <h3 class="title"></h3>
     <a class="prev">‹</a>
@@ -198,6 +194,6 @@ blueimp.Gallery([
 </script>
 
 
-<footer> <!-- /container -->
+<footer style="margin-top: 100px"> <!-- /container -->
   <?php include "components/php/footer.php"; ?>
 </footer> <!-- /container -->
