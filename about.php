@@ -79,6 +79,7 @@
 		    <p>Me gusta estar en el campo produciendo solo, en contacto intimo y personal con la Naturaleza y al momento de editar, de desarrollar una idea, me gusta aun mas trabajar en equipo. A mi entender, una edición dice mucho mas que una colección de imágenes separadas</p> 
 		    <p> Las imágenes que realice en estos 37 años estuvieron desde un principio, pensadas para publicar  y por esto he investigado, ideado y sostenido una estructura documental en mis producciones.</p>
 		    <p>Como autor también estoy trabajando activamente en la <a href="http://tierraviva.tv"> Televisión Documental</a> , realizamos las ediciones de video orientados a proyectos educativos y de divulgación de la Naturaleza en multiplataforma y de productos audiovisuales para museos. </p>
+<p><a class="collections-index.php" href="#">Proseguir el viaje »</a></p>
 	          </div>
 		</div>
 	      </div>
