@@ -85,13 +85,6 @@
 		</div>
 	      </div>
 
-
-
-
-	      <!-- here goes main-content.php comp. -->
-
-
-
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
