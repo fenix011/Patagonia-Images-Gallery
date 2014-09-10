@@ -82,7 +82,7 @@
 	<div id="wrapper">
 	  <div id="gallery" class="clearfix">
 	    <figure>
-              <a href="collection-AAT.php"> <img src="img/collections-index/AAT-017_Patagonia_Atradecer en el mar_Peninsula Valdes-th.jpg" ></a>
+              <a href="collection-AAT.php"> <img src="http://dev.librebits.info/images/collections-index-thumbs/AAT-017_Patagonia_Atradecer en el mar_Peninsula Valdes-th.jpg" ></a>
               <figcaption>
 		Amaneceres y Atardeceres
               </figcaption>
@@ -214,26 +214,50 @@
 <!-- 4ª -->
 
 
-<figure>
-              <a href="collection-AAT.php"> <img src="img/collections-index/AAT-001_Patagonia_-Amanecer-en-la-Torre-Principal_cerro-Catedral.jpg" alt="Amanecer-en-la-Torre-Principal_cerro-Catedral"></a>
+            <figure>
+              <a href="collection-LAG.php"> <img src="img/collections-index/LAG-001_Patagonia_Nahuel Huapi en Angostura_Neuquen-th.jpg"></a>
               <figcaption>
-		Amaneceres y Atardeceres
+		Los Lagos
               </figcaption>
 	    </figure>
 	    
 	    <figure>
-              <a href="collection-AMR.php"> <img src="img/collections-index/AMR-001_Patagonia_Gaviotas-de-Olrog_Chubut.jpg" alt="Patagonia_Gaviotas-de-Olrog_Chubut"></a>
+              <a href="collection-MOV.php"> <img src="img/collections-index/MOV-018_Patagonia_el Monte Tronador desde el Otto Meiling_Rio Negro-th.jpg"></a>
               <figcaption class="light">
-		Aves Marinas
+		Montañas y Valles
               </figcaption>
 	    </figure>
 	    
 	    <figure>
-              <a href="collection-AYO.php"><img src="img/collections-index/AYO-004_Patagonia_-Cosechando-frambuesas_Cabaña-Mico_El-Bolson.jpg" alt="Patagonia_-Cosechando-frambuesas_Cabaña-Mico_El-Bolson"></a>
+              <a href="collection-OTO.php"><img src="img/collections-index/OTO-002__Patagonia_Lenga en otoño_bosque andino patagonico_Rio Negro-th.jpg"></a>
               <figcaption>
-		Artesanos y Oficios
+		El Otoño
               </figcaption>
 	    </figure>
+
+      
+            <figure>
+              <a href="collection-PIN.php"> <img src="img/collections-index/OTO-002__Patagonia_Lenga en otoño_bosque andino patagonico_Rio Negro-th.jpg"></a>
+              <figcaption class="light">
+		Pingüino de Magallanes
+              </figcaption>
+	    </figure>
+	    
+	    <figure>
+              <a href="collection-TDO.php"><img src="img/collections-index/TDO-031_Patagonia_ski de travesia_Bariloche-th.jpg"></a>
+              <figcaption>
+		Trekking y Deportes Outdoor
+              </figcaption>
+	    </figure>
+
+            <figure>
+              <a href="collection-TEX.php"><img src="img/collections-index/TEX-018_Patagonia_ultima nive de primavera-th.jpg"></a>
+              <figcaption>
+		Texturas y Abstractas
+              </figcaption>
+	    </figure>
+
+
 	   
 	  </div> <!-- end img gallery wrapper -->
 
