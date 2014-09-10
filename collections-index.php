@@ -82,60 +82,104 @@
 	<div id="wrapper">
 	  <div id="gallery" class="clearfix">
 	    <figure>
-              <a href="collection-AAT.php"> <img src="img/collections-index/AAT-001_Patagonia_-Amanecer-en-la-Torre-Principal_cerro-Catedral.jpg" alt="Amanecer-en-la-Torre-Principal_cerro-Catedral"></a>
+              <a href="collection-AAT.php"> <img src="img/collections-index/AAT-017_Patagonia_Atradecer en el mar_Peninsula Valdes-th.jpg" ></a>
               <figcaption>
 		Amaneceres y Atardeceres
               </figcaption>
 	    </figure>
 	    
 	    <figure>
-              <a href="collection-AMR.php"> <img src="img/collections-index/AMR-001_Patagonia_Gaviotas-de-Olrog_Chubut.jpg" alt="Patagonia_Gaviotas-de-Olrog_Chubut"></a>
+              <a href="collection-AMR.php"> <img src="img/collections-index/AMR-002_Patagonia_Gaviotas Cocineras_Chubut-th.jpg"></a>
               <figcaption class="light">
 		Aves Marinas
               </figcaption>
 	    </figure>
 	    
 	    <figure>
-              <a href="collection-AYO.php"><img src="img/collections-index/AYO-004_Patagonia_-Cosechando-frambuesas_Cabaña-Mico_El-Bolson.jpg" alt="Patagonia_-Cosechando-frambuesas_Cabaña-Mico_El-Bolson"></a>
+              <a href="collection-AYO.php"><img src="img/collections-index/AYO-006_Patagonia_Cosecha de Frambuesas_Granja Humus_El Bolson-th"></a>
               <figcaption>
 		Artesanos y Oficios
               </figcaption>
 	    </figure>
 	    
 	    <figure>
-              <a href="collection-BAM.php"><img src="img/collections-index/BAM-002_Patagonia_Cola-de-la-ballena-Franca-Austral_-Peninsula-Valdes.jpg" alt="Cola-de-la-ballena-Franca-Austral_-Peninsula-Valdes"></a>
+              <a href="collection-AMR.php"><img src="img/collections-index/AMR-002_Patagonia_Gaviotas Cocineras_Chubut-th.jpg"></a>
+              <figcaption>
+		Aves Marinas
+              </figcaption>
+	    </figure>
+	    
+	    <figure>
+              <a href="collection-AYO.php"><img src="img/collections-index/AYO-006_Patagonia_Cosecha de Frambuesas_Granja Humus_El Bols-th.jpg"></a>
+              <figcaption>
+		Artesanos y Oficios
+              </figcaption>
+	    </figure>
+	    
+	    <figure>
+              <a href="collection-BAM.php"><img src="img/collections-index/BAM-001_Patagonia_Salto Ballena Franca Austral_Peninsula Valdes-th.jpg"></a>
               <figcaption>
 		Ballenas y Mamíferos
-              </figcaption>
-	    </figure>
-	    
-	    <figure>
-              <a href="collection-BAN.php"><img src="img/collections-index/BAN-001_Patagonia_Bosque-de-Coihues-en-la-niebla_Selva-Valdiviana.jpg" alt="Bosque-de-Coihues-en-la-niebla_Selva-Valdiviana"></a>
-              <figcaption>
-		Bosques Andinos
-              </figcaption>
-	    </figure>
-	    
-	    <figure>
-              <a href="collection-CAM.php"><img src="img/collections-index/CAM-011_Patagonia_Camino-a-casa_Chubut.jpg" alt="Patagonia_Camino-a-casa_Chubut"></a>
-              <figcaption>
-		Caminos
               </figcaption>
 	    </figure>
 
 <!-- 2ª 3x2 --> 
 
-<figure>
-              <a href="collection-AAT.php"> <img src="img/collections-index/AAT-001_Patagonia_-Amanecer-en-la-Torre-Principal_cerro-Catedral.jpg" alt="Amanecer-en-la-Torre-Principal_cerro-Catedral"></a>
+             <figure>
+             <a href="collection-BAN.php"> <img src="img/collections-index/BAN-022_Patagonia_No-thofagus pumilio_Area Chalten_Santa Cruz-th.jpg"></a>
               <figcaption>
-		Amaneceres y Atardeceres
+		Bosques Andinos
               </figcaption>
 	    </figure>
 	    
 	    <figure>
-              <a href="collection-AMR.php"> <img src="img/collections-index/AMR-001_Patagonia_Gaviotas-de-Olrog_Chubut.jpg" alt="Patagonia_Gaviotas-de-Olrog_Chubut"></a>
+              <a href="collection-CAM.php"> <img src="img/collections-index/CAM-017_Patagonia_hacia el lago Puelo_Cubut-th.jpg"></a>
               <figcaption class="light">
-		Aves Marinas
+		Caminos
+              </figcaption>
+	    </figure>
+	    
+	    <figure>
+              <a href="collection-CIC.php"><img src="img/collections-index/CIC-007_Patagonia_los deshielos en la primavera_area refugio Frey-th.jpg"></a>
+              <figcaption>
+		Ciclo del Agua
+              </figcaption>
+	    </figure>
+	    
+	    <figure>
+              <a href="collection-CIE.php"><img src="img/collections-index/CIE-021_Patagonia_cerca del glaciar Moreno_Santa Cruz-th.jpg"></a>
+              <figcaption>
+		Cielos y Luces
+              </figcaption>
+	    </figure>
+	    
+	    <figure>
+              <a href="collection-COM.php"><img src="img/collections-index/COM-017_Patagonia_Mar abierto_Peninsula Valdes-th.jpg"></a>
+              <figcaption>
+		Costa Marina
+              </figcaption>
+	    </figure>
+ <!--   STOPped -->
+	    <figure>
+              <a href="collection-ESH.php"><img src="img/collections-index/ESH-012_Patagonia_Paisaje estepario en lago Argentino_Santa Cruz-th.jpg"></a>
+              <figcaption>
+		Estepas y Humedales
+              </figcaption>
+	    </figure>
+
+<!-- 3ª  3x2  \!/ -->
+
+<figure>
+              <a href="collection-FAU.php"> <img src="img/collections-index/FAU-004.Carpintero Magallanico - Magellanic Woodpecker-th.jpg" ></a>
+              <figcaption>
+		Fauna Cordillerana
+              </figcaption>
+	    </figure>
+	    
+	    <figure>
+              <a href="collection-FLO.php"> <img src="img/collections-index/FLO-016_Patagonia_Amancay. Alstroemeria aurea_Valle del Challhuaco-th.jpg" alt="Patagonia_Gaviotas-de-Olrog_Chubut"></a>
+              <figcaption class="light">
+		Flores y Flora Nativa
               </figcaption>
 	    </figure>
 	    
@@ -147,67 +191,23 @@
 	    </figure>
 	    
 	    <figure>
-              <a href="collection-BAM.php"><img src="img/collections-index/BAM-002_Patagonia_Cola-de-la-ballena-Franca-Austral_-Peninsula-Valdes.jpg" alt="Cola-de-la-ballena-Franca-Austral_-Peninsula-Valdes"></a>
+              <a href="collection-GLA.php"><img src="img/collections-index/GLA-023_Patagonia_pequeño iceberg del glaciar Perito Moreno varado en la costa_Santa Cruz-th.jpg"></a>
               <figcaption>
-		Ballenas y Mamíferos
+		Glaciares
               </figcaption>
 	    </figure>
 	    
 	    <figure>
-              <a href="collection-BAN.php"><img src="img/collections-index/BAN-001_Patagonia_Bosque-de-Coihues-en-la-niebla_Selva-Valdiviana.jpg" alt="Bosque-de-Coihues-en-la-niebla_Selva-Valdiviana"></a>
+              <a href="collection-GYP.php"><img src="img/collections-index/GYP-001_Patagonia_Valle del Rio Azul_El Bolson_Rio Negro-th.jpg" alt="Bosque-de-Coihues-en-la-niebla_Selva-Valdiviana"></a>
               <figcaption>
-		Bosques Andinos
+		Gente y Paisaje
               </figcaption>
 	    </figure>
 	    
 	    <figure>
-              <a href="collection-CAM.php"><img src="img/collections-index/CAM-011_Patagonia_Camino-a-casa_Chubut.jpg" alt="Patagonia_Camino-a-casa_Chubut"></a>
+              <a href="collection-HIS.php"><img src="img/collections-index/HIS-024_Patagonia_epoca fundacional_La Trochita u old patagonian express_circa 1972_Rio Negro-th.jpg"></a>
               <figcaption>
-		Caminos
-              </figcaption>
-	    </figure>
-
-<!-- 3ª  3x2 -->
-
-<figure>
-              <a href="collection-AAT.php"> <img src="img/collections-index/AAT-001_Patagonia_-Amanecer-en-la-Torre-Principal_cerro-Catedral.jpg" alt="Amanecer-en-la-Torre-Principal_cerro-Catedral"></a>
-              <figcaption>
-		Amaneceres y Atardeceres
-              </figcaption>
-	    </figure>
-	    
-	    <figure>
-              <a href="collection-AMR.php"> <img src="img/collections-index/AMR-001_Patagonia_Gaviotas-de-Olrog_Chubut.jpg" alt="Patagonia_Gaviotas-de-Olrog_Chubut"></a>
-              <figcaption class="light">
-		Aves Marinas
-              </figcaption>
-	    </figure>
-	    
-	    <figure>
-              <a href="collection-AYO.php"><img src="img/collections-index/AYO-004_Patagonia_-Cosechando-frambuesas_Cabaña-Mico_El-Bolson.jpg" alt="Patagonia_-Cosechando-frambuesas_Cabaña-Mico_El-Bolson"></a>
-              <figcaption>
-		Artesanos y Oficios
-              </figcaption>
-	    </figure>
-	    
-	    <figure>
-              <a href="collection-BAM.php"><img src="img/collections-index/BAM-002_Patagonia_Cola-de-la-ballena-Franca-Austral_-Peninsula-Valdes.jpg" alt="Cola-de-la-ballena-Franca-Austral_-Peninsula-Valdes"></a>
-              <figcaption>
-		Ballenas y Mamíferos
-              </figcaption>
-	    </figure>
-	    
-	    <figure>
-              <a href="collection-BAN.php"><img src="img/collections-index/BAN-001_Patagonia_Bosque-de-Coihues-en-la-niebla_Selva-Valdiviana.jpg" alt="Bosque-de-Coihues-en-la-niebla_Selva-Valdiviana"></a>
-              <figcaption>
-		Bosques Andinos
-              </figcaption>
-	    </figure>
-	    
-	    <figure>
-              <a href="collection-CAM.php"><img src="img/collections-index/CAM-011_Patagonia_Camino-a-casa_Chubut.jpg" alt="Patagonia_Camino-a-casa_Chubut"></a>
-              <figcaption>
-		Caminos
+		Historia
               </figcaption>
 	    </figure>
 
