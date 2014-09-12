@@ -140,7 +140,7 @@ blueimp.Gallery([
                 type: 'video/mp4'
             }
         ]
-    }
+    },
 
 
 <!-- aqui va los links en JSON , as per https://github.com/blueimp/Gallery#multiple-video-sources  -->
