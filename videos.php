@@ -143,69 +143,7 @@ blueimp.Gallery([
     },
 
 
-<!-- aqui va los links en JSON , as per https://github.com/blueimp/Gallery#multiple-video-sources  -->
-
-    {
-        title: 'Apertura del Amancay, 36 horas',
-        href: 'http://dev.librebits.info/video/mp4/01.mp4',
-        type: 'video/mp4',
-        poster: 'img/foto_quiensoy.jpg'
-    },
-
- <!-- 02 video -->
-    {
-        title: 'Ballenas en la Península Valdés',
-        href: 'http://dev.librebits.info/video/mp4/02.mp4',
-        type: 'video/mp4',
-        poster: 'img/foto_quiensoy.jpg'
-    },
-
- <!-- 03 video -->
-    {
-        title: 'Las aves marinas',
-        href: 'http://dev.librebits.info/video/mp4/03.mp4',
-        type: 'video/mp4',
-        poster: 'img/foto_quiensoy.jpg'
-    },
-
- <!-- 04 video -->
-    {
-        title: 'Condores en la Buitrera',
-        href: 'http://dev.librebits.info/video/mp4/04.mp4',
-        type: 'video/mp4',
-        poster: 'img/foto_quiensoy.jpg'
-    },
-
- <!-- 05 video -->
-    {
-        title: 'El mar, las olas',
-        href: 'http://dev.librebits.info/video/mp4/05.mp4',
-        type: 'video/mp4',
-        poster: 'img/foto_quiensoy.jpg'
-    },
-
-
-
-    
-<!-- test videos, poster-->
         {
-            title: 'Big Buck Bunny',
-            href: 'http://upload.wikimedia.org/wikipedia/commons/7/75/' +
-                'Big_Buck_Bunny_Trailer_400p.ogg',
-            type: 'video/ogg',
-            poster: 'http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/' +
-                'Big.Buck.Bunny.-.Opening.Screen.png/' +
-                '800px-Big.Buck.Bunny.-.Opening.Screen.png'
-        },
-        {
-            title: 'Elephants Dream',
-            href: 'http://upload.wikimedia.org/wikipedia/commons/transcoded/8/83/' +
-                'Elephants_Dream_%28high_quality%29.ogv/' +
-                'Elephants_Dream_%28high_quality%29.ogv.360p.webm',
-            type: 'video/webm',
-            poster: 'http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/' +
-                'Elephants_Dream_s1_proog.jpg/800px-Elephants_Dream_s1_proog.jpg'
-        }],{
         container: '#blueimp-video-carousel',
             carousel: false
     });
