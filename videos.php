@@ -126,7 +126,7 @@ blueimp.Gallery([
 
 <!-- test multiformat -->
 
-{
+   {
         title: 'Amancay del desierto, Valle Pinturas',
         type: 'video/*',
         poster: 'img/foto_quiensoy.jpg'
@@ -143,7 +143,7 @@ blueimp.Gallery([
     },
 
 
-        {
+    ],{
         container: '#blueimp-video-carousel',
             carousel: false
     });
