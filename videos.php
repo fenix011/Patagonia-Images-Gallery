@@ -123,6 +123,26 @@ $(function () {
     'use strict';
 
 blueimp.Gallery([
+
+<!-- test multiformat -->
+
+{
+        title: 'Amancay del desierto, Valle Pinturas',
+        type: 'video/*',
+        poster: 'img/foto_quiensoy.jpg'
+        sources: [
+            {
+                href: 'http://dev.librebits.info/video/mp4/01%20apertura%20del%20Amancay%2036%20horas.mp4',
+                type: 'video/mp4'
+            },
+            {
+                href: 'http://dev.librebits.info/video/mp4/01%20apertura%20del%20Amancay%2036%20horas.mp4',
+                type: 'video/mp4'
+            }
+        ]
+    }
+
+
 <!-- aqui va los links en JSON , as per https://github.com/blueimp/Gallery#multiple-video-sources  -->
 
     {
