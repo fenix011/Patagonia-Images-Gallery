@@ -132,12 +132,12 @@ blueimp.Gallery([
         poster: 'img/foto_quiensoy.jpg'
         sources: [
             {
-                href: 'http://dev.librebits.info/video/mp4/01%20apertura%20del%20Amancay%2036%20horas.mp4',
+                href: 'http://dev.librebits.info/video/mp4/12.%20Eclipse%20de%20Venus%20en%20la%20Luna.mp4',
                 type: 'video/mp4'
             },
             {
-                href: 'http://dev.librebits.info/video/mp4/01%20apertura%20del%20Amancay%2036%20horas.mp4',
-                type: 'video/mp4'
+                href: 'http://dev.librebits.info/video/ogvwebm/04.%20Condores%20en%20la%20Buitrera.%20720p.webm',
+                type: 'video/webm'
             }
         ]
     },
