@@ -91,7 +91,7 @@
 	    
 	    <figure>
               <a href="collection-AMR.php"> <img src="http://librebits.info/images/collections-index-thumbs/AMR-002_Patagonia_Gaviotas Cocineras_Chubut-th.jpg"></a>
-              <figcaption class="light">
+              <figcaption>
 		Aves Marinas
               </figcaption>
 	    </figure>
@@ -113,7 +113,7 @@
 	    </figure>
 
              <figure>
-             <a href="collection-BAN.php"> <img src="http://librebits.info/images/collections-index-thumbs/BAN-022_Patagonia_No-thofagus pumilio_Area Chalten_Santa Cruz-th.jpg"></a>
+             <a href="collection-BAN.php"> <img src="http://librebits.info/images/collections-index-thumbs/BAN-022_Patagonia_Nothofagus pumilio_Area Chalten_Santa Cruz-th.jpg"></a>
               <figcaption>
 		Bosques Andinos
               </figcaption>
@@ -160,14 +160,14 @@
 
 	    <figure>
               <a href="collection-FAU.php"> <img src="http://librebits.info/images/collections-index-thumbs/FAU-004.Carpintero Magallanico - Magellanic Woodpecker-th.jpg" ></a>
-              <figcaption>
+              <figcaption class="light">
 		Fauna Cordillerana
               </figcaption>
 	    </figure>
 	    
 	    <figure>
               <a href="collection-FLO.php"> <img src="http://librebits.info/images/collections-index-thumbs/FLO-016_Patagonia_Amancay. Alstroemeria aurea_Valle del Challhuaco-th.jpg" alt="Patagonia_Gaviotas-de-Olrog_Chubut"></a>
-              <figcaption class="light">
+              <figcaption>
 		Flores y Flora Nativa
               </figcaption>
 	    </figure>
@@ -176,7 +176,7 @@
 	    
 	    <figure>
               <a href="collection-GLA.php"><img src="http://librebits.info/images/collections-index-thumbs/GLA-023_Patagonia_pequeño iceberg del glaciar Perito Moreno varado en la costa_Santa Cruz-th.jpg"></a>
-              <figcaption>
+              <figcaption class="light">
 		Glaciares
               </figcaption>
 	    </figure>
@@ -221,22 +221,22 @@
 <!-- 7ª file [3x2] --> 
 
             <figure>
-              <a href="collection-PIN.php"> <img src="http://librebits.info/images/collections-index-thumbs/OTO-002__Patagonia_Lenga en otoño_bosque andino patagonico_Rio Negro-th.jpg"></a>
-              <figcaption class="light">
+              <a href="collection-PIN.php"> <img src="http://librebits.info/images/collections-index-thumbs/PIN-008_Patagonia_pinguino asomando de su nido_Ea San Lorenzo_Peninsula Valdes_Chubut-th.jpg"></a>
+              <figcaption>
 		Pingüino de Magallanes
               </figcaption>
 	    </figure>
 	    
 	    <figure>
               <a href="collection-TDO.php"><img src="http://librebits.info/images/collections-index-thumbs/TDO-031_Patagonia_ski de travesia_Bariloche-th.jpg"></a>
-              <figcaption>
+              <figcaption class="light">
 		Trekking y Deportes Outdoor
               </figcaption>
 	    </figure>
 
             <figure>
               <a href="collection-TEX.php"><img src="http://librebits.info/images/collections-index-thumbs/TEX-018_Patagonia_ultima nive de primavera-th.jpg"></a>
-              <figcaption>
+              <figcaption class="light">
 		Texturas y Abstractas
               </figcaption>
 	    </figure>
@@ -244,11 +244,6 @@
 
 	   
 	  </div> <!-- end img gallery wrapper -->
-
-
-      </section>
-
-            
 
 
  	     <!-- here goes main-content.php comp. -->
@@ -261,3 +256,5 @@
     <footer> <!-- /container -->
 	      <?php include "components/php/footer.php"; ?>
     </footer> <!-- /container -->
+
+</section>
