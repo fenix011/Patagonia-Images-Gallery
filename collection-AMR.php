@@ -111,92 +111,37 @@
     </div>
 </div>
 
- <!--++  here goes links: (fruits, vegetables) gallery. -->
+ <!--++  here goes new links: AMR gallery. -->
 
-  <div id="links">
-
-    <a href="http://placehold.it/500x333/333" title="Amaneceres y Atardeceres" >
-	<img src="http://placehold.it/250x167/333" alt="Amaneceres y Atardeceres">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Artesanos y Oficios" >
-	<img src="http://placehold.it/250x167" alt="Artesanos y Oficios">
-    </a>
-
-    <a href="http://placehold.it/500x333/aaa" title="Costa" >
-	<img src="http://placehold.it/250x167/aaa" alt="Costa">
-    </a>
-
-    <a  href="http://placehold.it/500x333/ccc" title="Estepa" >
-	<img src="http://placehold.it/250x167/ccc" alt="Estepa">
-    </a>
-    
-    <a href="http://placehold.it/500x333/333" title="Banana" >
-	<img src="http://placehold.it/250x167/333" alt="BAnana">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Melon" >
-	<img src="http://placehold.it/250x167" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/eee" title="Maracuya" >
-	<img src="http://placehold.it/250x167/eee" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/fff" title="Banana" >
-	<img src="http://placehold.it/250x167/fff" alt="BAnana">
-    </a>
-
-    <a href="http://placehold.it/500x333/aaa" title="Melon" >
-	<img src="http://placehold.it/250x167/aaa" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/ccc" title="Maracuya" >
-	<img src="http://placehold.it/250x167/ccc" alt="Maracuya">
-    </a>
-
-
-    <a href="http://placehold.it/500x333/333" title="Banana" >
-	<img src="http://placehold.it/250x167/333" alt="BAnana">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Melon" >
-	<img src="http://placehold.it/250x167" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/eee" title="Maracuya" >
-	<img src="http://placehold.it/250x167/eee" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/fff" title="Lemmon" >
-	<img src="http://placehold.it/250x167/fff" alt="Lemmon">
-    </a>
-
-    <a href="http://placehold.it/500x333/aaa" title="Melon" >
-	<img src="http://placehold.it/250x167/aaa" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/ccc" title="Maracuya" >
-	<img src="http://placehold.it/250x167/ccc" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/333" title="Orange" >
-	<img src="http://placehold.it/250x167/333" alt="Orange">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Melon" >
-	<img src="http://placehold.it/250x167" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/eee" title="Maracuya" >
-	<img src="http://placehold.it/250x167/eee" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/fff" title="Pera" >
-	<img src="http://placehold.it/250x167/fff" alt="Pera">
-    </a>
-  </div>
-
+   <div id='links'>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-001_Patagonia_Gaviotas de Olrog_Chubut.jpg' title='AMR-001_Patagonia_Gaviotas de Olrog_Chubut.jpg'>
+        <img src='/images/collections-miniaturas/AMR/AMR-001_Patagonia_Gaviotas de Olrog_Chubut.jpg' alt='AMR-001_Patagonia_Gaviotas de Olrog_Chubut.jpg'>
+      </a>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-002_Patagonia_Gaviotas Cocineras_Chubut.jpg' title='AMR-002_Patagonia_Gaviotas Cocineras_Chubut.jpg'>
+        <img src='/images/collections-miniaturas/AMR/AMR-002_Patagonia_Gaviotas Cocineras_Chubut.jpg' alt='AMR-002_Patagonia_Gaviotas Cocineras_Chubut.jpg'>
+      </a>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-003_Patagonia_Cormoranes nidificando_Punta Loma_Chubut.jpg' title='AMR-003_Patagonia_Cormoranes nidificando_Punta Loma_Chubut.jpg'>
+        <img src='/images/collections-miniaturas/AMR/AMR-003_Patagonia_Cormoranes nidificando_Punta Loma_Chubut.jpg' alt='AMR-003_Patagonia_Cormoranes nidificando_Punta Loma_Chubut.jpg'>
+      </a>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-004_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz.jpg' title='AMR-004_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz.jpg'>
+        <img src='/images/collections-miniaturas/AMR/AMR-004_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz.jpg' alt='AMR-004_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz.jpg'>
+      </a>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg' title='AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg'>
+        <img src='/images/collections-miniaturas/AMR/AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg' alt='AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg'>
+      </a>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-009_Patagonia_golondrina_Chubut.jpg' title='AMR-009_Patagonia_golondrina_Chubut.jpg'>
+        <img src='/images/collections-miniaturas/AMR/AMR-009_Patagonia_golondrina_Chubut.jpg' alt='AMR-009_Patagonia_golondrina_Chubut.jpg'>
+      </a>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR_010_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi.jpg' title='AMR_010_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi.jpg'>
+        <img src='/images/collections-miniaturas/AMR/AMR_010_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi.jpg' alt='AMR_010_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi.jpg'>
+      </a>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-011_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut.jpg' title='AMR-011_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut.jpg'>
+        <img src='/images/collections-miniaturas/AMR/AMR-011_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut.jpg' alt='AMR-011_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut.jpg'>
+      </a>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-012_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal.jpg' title='AMR-012_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal.jpg'>
+        <img src='/images/collections-miniaturas/AMR/AMR-012_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal.jpg' alt='AMR-012_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal.jpg'>
+      </a>
+    </div>
 
  	     <!-- here goes main-content.php comp. -->
 
