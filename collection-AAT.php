@@ -111,92 +111,73 @@
     </div>
 </div>
 
- <!--++  here goes links: (fruits, vegetables) gallery. -->
+<!-- ++ new links ! ----------------------------------------->
 
-  <div id="links">
-
-    <a href="http://placehold.it/500x333/333" title="Amaneceres y Atardeceres" >
-	<img src="http://placehold.it/250x167/333" alt="Amaneceres y Atardeceres">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Artesanos y Oficios" >
-	<img src="http://placehold.it/250x167" alt="Artesanos y Oficios">
-    </a>
-
-    <a href="http://placehold.it/500x333/aaa" title="Costa" >
-	<img src="http://placehold.it/250x167/aaa" alt="Costa">
-    </a>
-
-    <a  href="http://placehold.it/500x333/ccc" title="Estepa" >
-	<img src="http://placehold.it/250x167/ccc" alt="Estepa">
-    </a>
-    
-    <a href="http://placehold.it/500x333/333" title="Banana" >
-	<img src="http://placehold.it/250x167/333" alt="BAnana">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Melon" >
-	<img src="http://placehold.it/250x167" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/eee" title="Maracuya" >
-	<img src="http://placehold.it/250x167/eee" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/fff" title="Banana" >
-	<img src="http://placehold.it/250x167/fff" alt="BAnana">
-    </a>
-
-    <a href="http://placehold.it/500x333/aaa" title="Melon" >
-	<img src="http://placehold.it/250x167/aaa" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/ccc" title="Maracuya" >
-	<img src="http://placehold.it/250x167/ccc" alt="Maracuya">
-    </a>
-
-
-    <a href="http://placehold.it/500x333/333" title="Banana" >
-	<img src="http://placehold.it/250x167/333" alt="BAnana">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Melon" >
-	<img src="http://placehold.it/250x167" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/eee" title="Maracuya" >
-	<img src="http://placehold.it/250x167/eee" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/fff" title="Lemmon" >
-	<img src="http://placehold.it/250x167/fff" alt="Lemmon">
-    </a>
-
-    <a href="http://placehold.it/500x333/aaa" title="Melon" >
-	<img src="http://placehold.it/250x167/aaa" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/ccc" title="Maracuya" >
-	<img src="http://placehold.it/250x167/ccc" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/333" title="Orange" >
-	<img src="http://placehold.it/250x167/333" alt="Orange">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Melon" >
-	<img src="http://placehold.it/250x167" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/eee" title="Maracuya" >
-	<img src="http://placehold.it/250x167/eee" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/fff" title="Pera" >
-	<img src="http://placehold.it/250x167/fff" alt="Pera">
-    </a>
-  </div>
-
+    <div id='links'>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-001_Patagonia_ Amanecer en la Torre Principal_cerro Cate.jpg' title='AAT-001_Patagonia_ Amanecer en la Torre Principal_cerro Cate.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-001_Patagonia_ Amanecer en la Torre Principal_cerro Cate.jpg' alt='AAT-001_Patagonia_ Amanecer en la Torre Principal_cerro Cate.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-002_Patagonia_Amanecer en las Agujas del Catedral_Barilo.jpg' title='AAT-002_Patagonia_Amanecer en las Agujas del Catedral_Barilo.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-002_Patagonia_Amanecer en las Agujas del Catedral_Barilo.jpg' alt='AAT-002_Patagonia_Amanecer en las Agujas del Catedral_Barilo.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-003_Ibera_Antes del atardecer_Corrientes.jpg' title='AAT-003_Ibera_Antes del atardecer_Corrientes.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-003_Ibera_Antes del atardecer_Corrientes.jpg' alt='AAT-003_Ibera_Antes del atardecer_Corrientes.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-004_ Patagonia_Atardecer en el Golfo Nuevo_Peninsula Val.jpg' title='AAT-004_ Patagonia_Atardecer en el Golfo Nuevo_Peninsula Val.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-004_ Patagonia_Atardecer en el Golfo Nuevo_Peninsula Val.jpg' alt='AAT-004_ Patagonia_Atardecer en el Golfo Nuevo_Peninsula Val.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-005_Patagonia_Atardece en lago Cholila_Chubut.jpg' title='AAT-005_Patagonia_Atardece en lago Cholila_Chubut.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-005_Patagonia_Atardece en lago Cholila_Chubut.jpg' alt='AAT-005_Patagonia_Atardece en lago Cholila_Chubut.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-006_Patagonia_Atardecer en Puerto Piramides_Peninsula Va.jpg' title='AAT-006_Patagonia_Atardecer en Puerto Piramides_Peninsula Va.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-006_Patagonia_Atardecer en Puerto Piramides_Peninsula Va.jpg' alt='AAT-006_Patagonia_Atardecer en Puerto Piramides_Peninsula Va.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-007_Patagonia_Ulimas luces del atradecer en lago Cholila.jpg' title='AAT-007_Patagonia_Ulimas luces del atradecer en lago Cholila.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-007_Patagonia_Ulimas luces del atradecer en lago Cholila.jpg' alt='AAT-007_Patagonia_Ulimas luces del atradecer en lago Cholila.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-008_Patagonia_Atardecer con Luna llena sobre el Nahuel H.jpg' title='AAT-008_Patagonia_Atardecer con Luna llena sobre el Nahuel H.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-008_Patagonia_Atardecer con Luna llena sobre el Nahuel H.jpg' alt='AAT-008_Patagonia_Atardecer con Luna llena sobre el Nahuel H.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-009_Ibera_ atardecer con primeros planos_Corrientes.jpg' title='AAT-009_Ibera_ atardecer con primeros planos_Corrientes.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-009_Ibera_ atardecer con primeros planos_Corrientes.jpg' alt='AAT-009_Ibera_ atardecer con primeros planos_Corrientes.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-010_Ibera_Ultimas horas del atardecer_Corrientes.jpg' title='AAT-010_Ibera_Ultimas horas del atardecer_Corrientes.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-010_Ibera_Ultimas horas del atardecer_Corrientes.jpg' alt='AAT-010_Ibera_Ultimas horas del atardecer_Corrientes.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-011_Ibera_Tormenta electrica_Corrientes.jpg' title='AAT-011_Ibera_Tormenta electrica_Corrientes.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-011_Ibera_Tormenta electrica_Corrientes.jpg' alt='AAT-011_Ibera_Tormenta electrica_Corrientes.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-012_Patagonia_Puesta de sol desde una cueva 2_Peninsula .jpg' title='AAT-012_Patagonia_Puesta de sol desde una cueva 2_Peninsula .jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-012_Patagonia_Puesta de sol desde una cueva 2_Peninsula .jpg' alt='AAT-012_Patagonia_Puesta de sol desde una cueva 2_Peninsula .jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-013_Patagonia_Puesta de sol en la Torre Principal del Ca.jpg' title='AAT-013_Patagonia_Puesta de sol en la Torre Principal del Ca.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-013_Patagonia_Puesta de sol en la Torre Principal del Ca.jpg' alt='AAT-013_Patagonia_Puesta de sol en la Torre Principal del Ca.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-014_Rio de la Plata_Amanecer_Buenos Aires.jpg' title='AAT-014_Rio de la Plata_Amanecer_Buenos Aires.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-014_Rio de la Plata_Amanecer_Buenos Aires.jpg' alt='AAT-014_Rio de la Plata_Amanecer_Buenos Aires.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-015_Patagonia_atardecer con cipreses_El Bolson.jpg' title='AAT-015_Patagonia_atardecer con cipreses_El Bolson.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-015_Patagonia_atardecer con cipreses_El Bolson.jpg' alt='AAT-015_Patagonia_atardecer con cipreses_El Bolson.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-016_Patagonia_Cielo nocturno en el Lanin_Neuquen.jpg' title='AAT-016_Patagonia_Cielo nocturno en el Lanin_Neuquen.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-016_Patagonia_Cielo nocturno en el Lanin_Neuquen.jpg' alt='AAT-016_Patagonia_Cielo nocturno en el Lanin_Neuquen.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-017_Patagonia_Atradecer en el mar_Peninsula Valdes.jpg' title='AAT-017_Patagonia_Atradecer en el mar_Peninsula Valdes.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-017_Patagonia_Atradecer en el mar_Peninsula Valdes.jpg' alt='AAT-017_Patagonia_Atradecer en el mar_Peninsula Valdes.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-018_Patagonia_Atardecer en el mar_Peninsula Valdes.jpg' title='AAT-018_Patagonia_Atardecer en el mar_Peninsula Valdes.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-018_Patagonia_Atardecer en el mar_Peninsula Valdes.jpg' alt='AAT-018_Patagonia_Atardecer en el mar_Peninsula Valdes.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-019_Patagonia_Puesta de sol_Peninsula Valdes_Chubut.jpg' title='AAT-019_Patagonia_Puesta de sol_Peninsula Valdes_Chubut.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-019_Patagonia_Puesta de sol_Peninsula Valdes_Chubut.jpg' alt='AAT-019_Patagonia_Puesta de sol_Peninsula Valdes_Chubut.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-020_Patagonia_atardecer en el mar_Peninsula Valdes_Cubut.jpg' title='AAT-020_Patagonia_atardecer en el mar_Peninsula Valdes_Cubut.jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-020_Patagonia_atardecer en el mar_Peninsula Valdes_Cubut.jpg' alt='AAT-020_Patagonia_atardecer en el mar_Peninsula Valdes_Cubut.jpg'>
+      </a>
+      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-021_Patagonia_Puesta de sol desde una cueva 1_Peninsula .jpg' title='AAT-021_Patagonia_Puesta de sol desde una cueva 1_Peninsula .jpg'>
+        <img src='/images/collections-thumbs/AAT/AAT-021_Patagonia_Puesta de sol desde una cueva 1_Peninsula .jpg' alt='AAT-021_Patagonia_Puesta de sol desde una cueva 1_Peninsula .jpg'>
+      </a>
+    </div>
 
  	     <!-- here goes main-content.php comp. -->
 
@@ -206,8 +187,8 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
  
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="http://blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
+    <script src="http:/ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="http:/blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
     <script src="js/bootstrap-image-gallery.min.js"></script>
 
 <!-- triggering the whole thing -->
