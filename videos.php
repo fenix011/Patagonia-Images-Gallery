@@ -145,7 +145,7 @@ blueimp.Gallery([
 
     ],{
         container: '#blueimp-video-carousel',
-            carousel: false
+            carousel: true
     });
 
 });
