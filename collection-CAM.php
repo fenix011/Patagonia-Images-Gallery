@@ -111,95 +111,74 @@
     </div>
 </div>
 
- <!--++  here goes links: (fruits, vegetables) gallery. -->
+ <!--++   here goes links ------------------------------->
 
-  <div id="links">
-
-    <a href="http://placehold.it/500x333/333" title="Amaneceres y Atardeceres" >
-	<img src="http://placehold.it/250x167/333" alt="Amaneceres y Atardeceres">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Artesanos y Oficios" >
-	<img src="http://placehold.it/250x167" alt="Artesanos y Oficios">
-    </a>
-
-    <a href="http://placehold.it/500x333/aaa" title="Costa" >
-	<img src="http://placehold.it/250x167/aaa" alt="Costa">
-    </a>
-
-    <a  href="http://placehold.it/500x333/ccc" title="Estepa" >
-	<img src="http://placehold.it/250x167/ccc" alt="Estepa">
-    </a>
-    
-    <a href="http://placehold.it/500x333/333" title="Banana" >
-	<img src="http://placehold.it/250x167/333" alt="BAnana">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Melon" >
-	<img src="http://placehold.it/250x167" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/eee" title="Maracuya" >
-	<img src="http://placehold.it/250x167/eee" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/fff" title="Banana" >
-	<img src="http://placehold.it/250x167/fff" alt="BAnana">
-    </a>
-
-    <a href="http://placehold.it/500x333/aaa" title="Melon" >
-	<img src="http://placehold.it/250x167/aaa" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/ccc" title="Maracuya" >
-	<img src="http://placehold.it/250x167/ccc" alt="Maracuya">
-    </a>
-
-
-    <a href="http://placehold.it/500x333/333" title="Banana" >
-	<img src="http://placehold.it/250x167/333" alt="BAnana">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Melon" >
-	<img src="http://placehold.it/250x167" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/eee" title="Maracuya" >
-	<img src="http://placehold.it/250x167/eee" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/fff" title="Lemmon" >
-	<img src="http://placehold.it/250x167/fff" alt="Lemmon">
-    </a>
-
-    <a href="http://placehold.it/500x333/aaa" title="Melon" >
-	<img src="http://placehold.it/250x167/aaa" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/ccc" title="Maracuya" >
-	<img src="http://placehold.it/250x167/ccc" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/333" title="Orange" >
-	<img src="http://placehold.it/250x167/333" alt="Orange">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Melon" >
-	<img src="http://placehold.it/250x167" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/eee" title="Maracuya" >
-	<img src="http://placehold.it/250x167/eee" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/fff" title="Pera" >
-	<img src="http://placehold.it/250x167/fff" alt="Pera">
-    </a>
-  </div>
+    <div id='links'>
+      <a href='/images/collections/CAM_Caminos/CAM-001_Patagonia_Estepa_Santa Cruz.jpg' title='CAM-001_Patagonia_Estepa_Santa Cruz.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-001_Patagonia_Estepa_Santa Cruz.jpg' alt='CAM-001_Patagonia_Estepa_Santa Cruz.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-002_Patagonia_entrada a un campo_Chubut.jpg' title='CAM-002_Patagonia_entrada a un campo_Chubut.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-002_Patagonia_entrada a un campo_Chubut.jpg' alt='CAM-002_Patagonia_entrada a un campo_Chubut.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-003_Patagonia_Pichi Leufu_Rio Negro.jpg' title='CAM-003_Patagonia_Pichi Leufu_Rio Negro.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-003_Patagonia_Pichi Leufu_Rio Negro.jpg' alt='CAM-003_Patagonia_Pichi Leufu_Rio Negro.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-004_Patagonia_Antiguo puente en ruta 40.jpg' title='CAM-004_Patagonia_Antiguo puente en ruta 40.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-004_Patagonia_Antiguo puente en ruta 40.jpg' alt='CAM-004_Patagonia_Antiguo puente en ruta 40.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-005_Patagonia_Camino hacia el Neumeyer_Bariloche.jpg' title='CAM-005_Patagonia_Camino hacia el Neumeyer_Bariloche.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-005_Patagonia_Camino hacia el Neumeyer_Bariloche.jpg' alt='CAM-005_Patagonia_Camino hacia el Neumeyer_Bariloche.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-006_Patagonia_Camino al cerro Otto_Bariloche.jpg' title='CAM-006_Patagonia_Camino al cerro Otto_Bariloche.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-006_Patagonia_Camino al cerro Otto_Bariloche.jpg' alt='CAM-006_Patagonia_Camino al cerro Otto_Bariloche.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-007_Patagonia_Lago Puelo_Chubut.jpg' title='CAM-007_Patagonia_Lago Puelo_Chubut.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-007_Patagonia_Lago Puelo_Chubut.jpg' alt='CAM-007_Patagonia_Lago Puelo_Chubut.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-008_Patagonia_En medio de la nada_Santa Cruz.jpg' title='CAM-008_Patagonia_En medio de la nada_Santa Cruz.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-008_Patagonia_En medio de la nada_Santa Cruz.jpg' alt='CAM-008_Patagonia_En medio de la nada_Santa Cruz.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-009_Patagonia_Ruta 40 Sur.jpg' title='CAM-009_Patagonia_Ruta 40 Sur.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-009_Patagonia_Ruta 40 Sur.jpg' alt='CAM-009_Patagonia_Ruta 40 Sur.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-010_Patagonia_Ruta 40_Lago Gutierrez_Bariloche.jpg' title='CAM-010_Patagonia_Ruta 40_Lago Gutierrez_Bariloche.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-010_Patagonia_Ruta 40_Lago Gutierrez_Bariloche.jpg' alt='CAM-010_Patagonia_Ruta 40_Lago Gutierrez_Bariloche.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-011_Patagonia_Camino a casa_Chubut.jpg' title='CAM-011_Patagonia_Camino a casa_Chubut.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-011_Patagonia_Camino a casa_Chubut.jpg' alt='CAM-011_Patagonia_Camino a casa_Chubut.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-012_Patagonia_camino al glaciar Moreno_Santa Cruz.jpg' title='CAM-012_Patagonia_camino al glaciar Moreno_Santa Cruz.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-012_Patagonia_camino al glaciar Moreno_Santa Cruz.jpg' alt='CAM-012_Patagonia_camino al glaciar Moreno_Santa Cruz.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-013_Patagonia_Los Altares_Chubut.jpg' title='CAM-013_Patagonia_Los Altares_Chubut.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-013_Patagonia_Los Altares_Chubut.jpg' alt='CAM-013_Patagonia_Los Altares_Chubut.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-014_Patagonia_camino de estancia.jpg' title='CAM-014_Patagonia_camino de estancia.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-014_Patagonia_camino de estancia.jpg' alt='CAM-014_Patagonia_camino de estancia.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-015_Patagonia_Camino a la cordillera.jpg' title='CAM-015_Patagonia_Camino a la cordillera.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-015_Patagonia_Camino a la cordillera.jpg' alt='CAM-015_Patagonia_Camino a la cordillera.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-016_Patagonia_saliendo de Epuyen_Chubut.jpg' title='CAM-016_Patagonia_saliendo de Epuyen_Chubut.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-016_Patagonia_saliendo de Epuyen_Chubut.jpg' alt='CAM-016_Patagonia_saliendo de Epuyen_Chubut.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-017_Patagonia_hacia el lago Puelo_Cubut.jpg' title='CAM-017_Patagonia_hacia el lago Puelo_Cubut.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-017_Patagonia_hacia el lago Puelo_Cubut.jpg' alt='CAM-017_Patagonia_hacia el lago Puelo_Cubut.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-018_Patagonia_Paso Los Molles_Rio Negro.jpg' title='CAM-018_Patagonia_Paso Los Molles_Rio Negro.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-018_Patagonia_Paso Los Molles_Rio Negro.jpg' alt='CAM-018_Patagonia_Paso Los Molles_Rio Negro.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-019_Patagonia_Camino al Mascardi_Rio Negro.jpg' title='CAM-019_Patagonia_Camino al Mascardi_Rio Negro.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-019_Patagonia_Camino al Mascardi_Rio Negro.jpg' alt='CAM-019_Patagonia_Camino al Mascardi_Rio Negro.jpg'>
+      </a>
+      <a href='/images/collections/CAM_Caminos/CAM-021_Patagonia_ruta al glaciar Moreno antes de pavimentar.jpg' title='CAM-021_Patagonia_ruta al glaciar Moreno antes de pavimentar.jpg'>
+        <img src='/images/collections-thumbs/CAM/CAM-021_Patagonia_ruta al glaciar Moreno antes de pavimentar.jpg' alt='CAM-021_Patagonia_ruta al glaciar Moreno antes de pavimentar.jpg'>
+      </a>
+    </div>
+    <script src="js/blueimp-gallery.min.js"></script>
 
 
- 	     <!-- here goes main-content.php comp. -->
-
+ <!--++   /here goes links ------------------------------->
 
 
     <!-- Bootstrap core JavaScript
