@@ -5,7 +5,7 @@
 
     <link rel="icon" href="http://getbootstrap.com/favicon.ico">
 
-    <title>Patagonia Images |   Misión   </title>
+    <title>Patagonia Images |   Gente y Paisajes   </title>
 
     <!-- Bootstrap core CSS -->
     <link href="grid-template_files/bootstrap.css" rel="stylesheet">
@@ -112,7 +112,7 @@
 </div>
 <!-- ++ nuevos links ---------------------------------------->
 
-div id='links'>
+    <div id='links'>
       <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-001_Patagonia_Valle del Rio Azul_El Bolson_Rio Negro.jpg' title='GYP-001_Patagonia_Valle del Rio Azul_El Bolson_Rio Negro.jpg'>
         <img src='/images/collections-thumbs/GYP/GYP-001_Patagonia_Valle del Rio Azul_El Bolson_Rio Negro.jpg' alt='GYP-001_Patagonia_Valle del Rio Azul_El Bolson_Rio Negro.jpg'>
       </a>

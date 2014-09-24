@@ -5,7 +5,7 @@
 
     <link rel="icon" href="http://getbootstrap.com/favicon.ico">
 
-    <title>Patagonia Images |   Misión   </title>
+    <title>Patagonia Images |   Historia y Civilización   </title>
 
     <!-- Bootstrap core CSS -->
     <link href="grid-template_files/bootstrap.css" rel="stylesheet">
@@ -113,7 +113,7 @@
 
 <!-- ++ nuevos links ---------------------------------------->
 
-div id='links'>
+    <div id='links'>
       <a href='/images/collections/HIS_Historia-y-Civilización/HIS-001_Patagonia_Casa Book en colonia Suiza_Epoca fundacion.jpg' title='HIS-001_Patagonia_Casa Book en colonia Suiza_Epoca fundacion.jpg'>
         <img src='/images/collections-thumbs/HIS/HIS-001_Patagonia_Casa Book en colonia Suiza_Epoca fundacion.jpg' alt='HIS-001_Patagonia_Casa Book en colonia Suiza_Epoca fundacion.jpg'>
       </a>

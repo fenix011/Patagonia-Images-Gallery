@@ -5,7 +5,7 @@
 
     <link rel="icon" href="http://getbootstrap.com/favicon.ico">
 
-    <title>Patagonia Images |   Misión   </title>
+    <title>Patagonia Images |   Ballenas y Mamíferos   </title>
 
     <!-- Bootstrap core CSS -->
     <link href="grid-template_files/bootstrap.css" rel="stylesheet">
@@ -111,95 +111,72 @@
     </div>
 </div>
 
- <!--++  here goes links: (fruits, vegetables) gallery. -->
-
-  <div id="links">
-
-    <a href="http://placehold.it/500x333/333" title="Amaneceres y Atardeceres" >
-	<img src="http://placehold.it/250x167/333" alt="Amaneceres y Atardeceres">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Artesanos y Oficios" >
-	<img src="http://placehold.it/250x167" alt="Artesanos y Oficios">
-    </a>
-
-    <a href="http://placehold.it/500x333/aaa" title="Costa" >
-	<img src="http://placehold.it/250x167/aaa" alt="Costa">
-    </a>
-
-    <a  href="http://placehold.it/500x333/ccc" title="Estepa" >
-	<img src="http://placehold.it/250x167/ccc" alt="Estepa">
-    </a>
-    
-    <a href="http://placehold.it/500x333/333" title="Banana" >
-	<img src="http://placehold.it/250x167/333" alt="BAnana">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Melon" >
-	<img src="http://placehold.it/250x167" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/eee" title="Maracuya" >
-	<img src="http://placehold.it/250x167/eee" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/fff" title="Banana" >
-	<img src="http://placehold.it/250x167/fff" alt="BAnana">
-    </a>
-
-    <a href="http://placehold.it/500x333/aaa" title="Melon" >
-	<img src="http://placehold.it/250x167/aaa" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/ccc" title="Maracuya" >
-	<img src="http://placehold.it/250x167/ccc" alt="Maracuya">
-    </a>
-
-
-    <a href="http://placehold.it/500x333/333" title="Banana" >
-	<img src="http://placehold.it/250x167/333" alt="BAnana">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Melon" >
-	<img src="http://placehold.it/250x167" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/eee" title="Maracuya" >
-	<img src="http://placehold.it/250x167/eee" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/fff" title="Lemmon" >
-	<img src="http://placehold.it/250x167/fff" alt="Lemmon">
-    </a>
-
-    <a href="http://placehold.it/500x333/aaa" title="Melon" >
-	<img src="http://placehold.it/250x167/aaa" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/ccc" title="Maracuya" >
-	<img src="http://placehold.it/250x167/ccc" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/333" title="Orange" >
-	<img src="http://placehold.it/250x167/333" alt="Orange">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Melon" >
-	<img src="http://placehold.it/250x167" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/eee" title="Maracuya" >
-	<img src="http://placehold.it/250x167/eee" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/fff" title="Pera" >
-	<img src="http://placehold.it/250x167/fff" alt="Pera">
-    </a>
-  </div>
+ <!--++  here goes links --------------------->
+    <div id='links'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-001_Patagonia_Salto Ballena Franca Austral_Peninsula Val.jpg' title='BAM-001_Patagonia_Salto Ballena Franca Austral_Peninsula Valdés.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-001_Patagonia_Salto Ballena Franca Austral_Peninsula Val.jpg' alt='BAM-001_Patagonia_Salto Ballena Franca Austral_Peninsula Val.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-002_Patagonia_Cola de la ballena Franca Austral_ Peninsu.jpg' title='BAM-002_Patagonia_Cola de la ballena Franca Austral_ Peninsula_Valdés.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-002_Patagonia_Cola de la ballena Franca Austral_ Peninsu.jpg' alt='BAM-002_Patagonia_Cola de la ballena Franca Austral_ Peninsu.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-003_Patagonia_soplido Ballena Franca_ Puerto Piramides.jpg' title='BAM-003_Patagonia_soplido Ballena Franca_ Puerto Piramides.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-003_Patagonia_soplido Ballena Franca_ Puerto Piramides.jpg' alt='BAM-003_Patagonia_soplido Ballena Franca_ Puerto Piramides.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-004_Patagonia_Salto Ballena y lancha_Puerto Piramides.jpg' title='BAM-004_Patagonia_Salto Ballena y lancha_Puerto Piramides.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-004_Patagonia_Salto Ballena y lancha_Puerto Piramides.jpg' alt='BAM-004_Patagonia_Salto Ballena y lancha_Puerto Piramides.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-005_Patagonia_Ballena Franca sumergiendose_Puerto Pirami.jpg' title='BAM-005_Patagonia_Ballena Franca sumergiendose_Puerto Pirámides.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-005_Patagonia_Ballena Franca sumergiendose_Puerto Pirami.jpg' alt='BAM-005_Patagonia_Ballena Franca sumergiendose_Puerto Pirami.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-006_Patagonia_placenta de ballena_Puerto Piramides.jpg' title='BAM-006_Patagonia_placenta de ballena_Puerto Piramides.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-006_Patagonia_placenta de ballena_Puerto Piramides.jpg' alt='BAM-006_Patagonia_placenta de ballena_Puerto Piramides.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-007_Patagonia_cola Ballena Franca_Puerto Piramides.jpg' title='BAM-007_Patagonia_cola Ballena Franca_Puerto Piramides.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-007_Patagonia_cola Ballena Franca_Puerto Piramides.jpg' alt='BAM-007_Patagonia_cola Ballena Franca_Puerto Piramides.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-008_Patagonia_Ballena Franca y turistas_Peninsula Valdes.jpg' title='BAM-008_Patagonia_Ballena Franca y turistas_Peninsula Valdes.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-008_Patagonia_Ballena Franca y turistas_Peninsula Valdes.jpg' alt='BAM-008_Patagonia_Ballena Franca y turistas_Peninsula Valdes.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-009_Patagonia_Ballena Franca_Salto a contraluz_Peninsula.jpg' title='BAM-009_Patagonia_Ballena Franca_Salto a contraluz_Peninsula.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-009_Patagonia_Ballena Franca_Salto a contraluz_Peninsula.jpg' alt='BAM-009_Patagonia_Ballena Franca_Salto a contraluz_Peninsula.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-010_Patagonia_Elefante Marino cachorro_amamantando_Penis.jpg' title='BAM-010_Patagonia_Elefante Marino cachorro_amamantando_Peninsula_Valdés.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-010_Patagonia_Elefante Marino cachorro_amamantando_Penis.jpg' alt='BAM-010_Patagonia_Elefante Marino cachorro_amamantando_Penis.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-011_Patagonia_Orca respirando_Pensinsula Valdes .jpg' title='BAM-011_Patagonia_Orca respirando_Pensinsula Valdes .jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-011_Patagonia_Orca respirando_Pensinsula Valdes .jpg' alt='BAM-011_Patagonia_Orca respirando_Pensinsula Valdes .jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-012_Patagonia_Orcas y lobos marinos_Peninsula Valdes.jpg' title='BAM-012_Patagonia_Orcas y lobos marinos_Peninsula Valdes.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-012_Patagonia_Orcas y lobos marinos_Peninsula Valdes.jpg' alt='BAM-012_Patagonia_Orcas y lobos marinos_Peninsula Valdes.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-013_Patagonia_Orcas en Caleta Valdes_Peninsula Valdes.jpg' title='BAM-013_Patagonia_Orcas en Caleta Valdes_Peninsula Valdes.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-013_Patagonia_Orcas en Caleta Valdes_Peninsula Valdes.jpg' alt='BAM-013_Patagonia_Orcas en Caleta Valdes_Peninsula Valdes.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-015_Patagonia-Elefantes marinos en la playa_Punta Delgad.jpg' title='BAM-015_Patagonia-Elefantes marinos en la playa_Punta Delgada.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-015_Patagonia-Elefantes marinos en la playa_Punta Delgad.jpg' alt='BAM-015_Patagonia-Elefantes marinos en la playa_Punta Delgad.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-016_Patagonia_Elefantes marinos juveniles_Punta Delgada.jpg' title='BAM-016_Patagonia_Elefantes marinos juveniles_Punta Delgada.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-016_Patagonia_Elefantes marinos juveniles_Punta Delgada.jpg' alt='BAM-016_Patagonia_Elefantes marinos juveniles_Punta Delgada.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-017_Patagonia_Elefante marino hembra_durmiendo_Punta Del.jpg' title='BAM-017_Patagonia_Elefante marino hembra_durmiendo_Punta Del.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-017_Patagonia_Elefante marino hembra_durmiendo_Punta Del.jpg' alt='BAM-017_Patagonia_Elefante marino hembra_durmiendo_Punta Del.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-018_Patagonia_Colonia de lobos marinos_Punta Loma.jpg' title='BAM-018_Patagonia_Colonia de lobos marinos_Punta Loma.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-018_Patagonia_Colonia de lobos marinos_Punta Loma.jpg' alt='BAM-018_Patagonia_Colonia de lobos marinos_Punta Loma.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-019_Patagonia_Tonina Overa_individuo_Puerto Rawson.jpg' title='BAM-019_Patagonia_Tonina Overa_individuo_Puerto Rawson.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-019_Patagonia_Tonina Overa_individuo_Puerto Rawson.jpg' alt='BAM-019_Patagonia_Tonina Overa_individuo_Puerto Rawson.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-020_Patagonia_Toninas overas-grupo_Puerto Rawson.jpg' title='BAM-020_Patagonia_Toninas overas-grupo_Puerto Rawson.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-020_Patagonia_Toninas overas-grupo_Puerto Rawson.jpg' alt='BAM-020_Patagonia_Toninas overas-grupo_Puerto Rawson.jpg'>
+      </a>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-021_Patagonia_Elefante Marino macho adulto_Peninsula Val.jpg' title='BAM-021_Patagonia_Elefante Marino macho adulto_Peninsula Valdés.jpg'>
+        <img src='/images/collections-thumbs/BAM/BAM-021_Patagonia_Elefante Marino macho adulto_Peninsula Val.jpg' alt='BAM-021_Patagonia_Elefante Marino macho adulto_Peninsula Valdés.jpg'>
+      </a>
+    </div>
 
 
- 	     <!-- here goes main-content.php comp. -->
-
+ <!--++  / here goes links --------------------->
 
 
     <!-- Bootstrap core JavaScript
