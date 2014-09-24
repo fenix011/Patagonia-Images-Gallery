@@ -5,7 +5,7 @@
 
     <link rel="icon" href="http://getbootstrap.com/favicon.ico">
 
-    <title>Patagonia Images |   Misión   </title>
+    <title>Patagonia Images |   Flores y  Flora   </title>
 
     <!-- Bootstrap core CSS -->
     <link href="grid-template_files/bootstrap.css" rel="stylesheet">
