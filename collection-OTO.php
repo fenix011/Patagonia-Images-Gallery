@@ -113,7 +113,7 @@
 
 <!-- nuevos links ! ---------------------------------------->
 
-div id='links'>
+    <div id='links'>
       <a href='/images/collections/OTO_El-Otoño/OTO-001_Patagonia_Lengas_ panoramica del bosque_Rio Negro.jpg' title='OTO-001_Patagonia_Lengas_ panoramica del bosque_Rio Negro.jpg'>
         <img src='/images/collections-thumbs/OTO/OTO-001_Patagonia_Lengas_ panoramica del bosque_Rio Negro.jpg' alt='OTO-001_Patagonia_Lengas_ panoramica del bosque_Rio Negro.jpg'>
       </a>
