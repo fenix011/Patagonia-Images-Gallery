@@ -5,7 +5,7 @@
 
     <link rel="icon" href="http://getbootstrap.com/favicon.ico">
 
-    <title>Patagonia Images |   Misión   </title>
+    <title>Patagonia Images |   Glaciares   </title>
 
     <!-- Bootstrap core CSS -->
     <link href="grid-template_files/bootstrap.css" rel="stylesheet">
@@ -111,7 +111,6 @@
     </div>
 </div>
 
-<!---  ++ nuevos links! ------------------------------------ >
 
     <div id='links'>
       <a href='/images/collections/GLA_Glaciares/GLA-001_Patagoniaburbujas del tiempo en una grieta del glaci.jpg' title='GLA-001_Patagoniaburbujas del tiempo en una grieta del glaci.jpg'>
@@ -188,6 +187,7 @@
       </a>
     </div>
 
+ 
 <!-- / new links ! ----------------------------------------->
 
 
