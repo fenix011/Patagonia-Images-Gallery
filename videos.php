@@ -126,26 +126,25 @@ blueimp.Gallery([
 
 <!-- test multiformat -->
 
-   {
-        title: 'Amancay del desierto, Valle Pinturas',
-        type: 'video/*',
-        poster: 'img/foto_quiensoy.jpg'
-        sources: [
             {
-                href: 'http://dev.librebits.info/video/mp4/12.%20Eclipse%20de%20Venus%20en%20la%20Luna.mp4',
-                type: 'video/mp4'
-            },
-            {
-                href: 'http://dev.librebits.info/video/ogvwebm/04.%20Condores%20en%20la%20Buitrera.%20720p.webm',
-                type: 'video/webm'
-            }
+            title: 'Test',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://patagonia-images.com/videos/mp4/01.mp4',
+                    type: 'video/mp4'
+                },
+                {
+                    href: 'http://librebits.info/videos/ogvwebm/Un%20viaje%20por%20patagonia_480p.webm',
+                    type: 'video/ogg'
+                }
         ]
-    },
+        },
 
 
     ],{
         container: '#blueimp-video-carousel',
-            carousel: false
+            carousel: true
     });
 
 });
