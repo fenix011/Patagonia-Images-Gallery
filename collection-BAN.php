@@ -111,96 +111,72 @@
     </div>
 </div>
 
- <!--++  here goes links: (fruits, vegetables) gallery. -->
+ <!--++  here goes links  --------------------------->
 
-  <div id="links">
+    <div id='links'>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-001_Patagonia_Bosque de Coihues en la niebla_Selva Valdi.jpg' title='BAN-001_Patagonia_Bosque de Coihues en la niebla_Selva Valdiviana.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-001_Patagonia_Bosque de Coihues en la niebla_Selva Valdi.jpg' alt='BAN-001_Patagonia_Bosque de Coihues en la niebla_Selva Valdiviana.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-002_Patagonia_ Araucarias en la niebla_Neuquen.jpg' title='BAN-002_Patagonia_ Araucarias en la niebla_Neuquen.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-002_Patagonia_ Araucarias en la niebla_Neuquen.jpg' alt='BAN-002_Patagonia_ Araucarias en la niebla_Neuquen.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-003_Patagonia_Bosque de Lengas_Otoño_Tierra del Fuego.jpg' title='BAN-003_Patagonia_Bosque de Lengas_Otoño_Tierra del Fuego.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-003_Patagonia_Bosque de Lengas_Otoño_Tierra del Fuego.jpg' alt='BAN-003_Patagonia_Bosque de Lengas_Otoño_Tierra del Fuego.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-005_Patagonia_Cañas Coligue una sub especie  de bamboo.jpg' title='BAN-005_Patagonia_Cañas Coligue una sub especie  de bamboo.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-005_Patagonia_Cañas Coligue una sub especie  de bamboo.jpg' alt='BAN-005_Patagonia_Cañas Coligue una sub especie  de bamboo.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-006_Patagonia_El Bosque de Lengas en Otoño_Tierra del Fu.jpg' title='BAN-006_Patagonia_El Bosque de Lengas en Otoño_Tierra del Fuego.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-006_Patagonia_El Bosque de Lengas en Otoño_Tierra del Fu.jpg' alt='BAN-006_Patagonia_El Bosque de Lengas en Otoño_Tierra del Fu.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-007_Patagonia_El Bosque reflejandose en el Lago Quillen_.jpg' title='BAN-007_Patagonia_El Bosque reflejandose en el Lago Quillen_.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-007_Patagonia_El Bosque reflejandose en el Lago Quillen_.jpg' alt='BAN-007_Patagonia_El Bosque reflejandose en el Lago Quillen_.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-008_Patagonia_Primeras Araucarias, rio Quillen_Neuquen.jpg' title='BAN-008_Patagonia_Primeras Araucarias, rio Quillen_Neuquen.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-008_Patagonia_Primeras Araucarias, rio Quillen_Neuquen.jpg' alt='BAN-008_Patagonia_Primeras Araucarias, rio Quillen_Neuquen.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-009_Patagonia_Bosque de Lengas_Santa Cruz.jpg' title='BAN-009_Patagonia_Bosque de Lengas_Santa Cruz.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-009_Patagonia_Bosque de Lengas_Santa Cruz.jpg' alt='BAN-009_Patagonia_Bosque de Lengas_Santa Cruz.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-010_Patagonia_Cipres con liquenes_El Bolson.jpg' title='BAN-010_Patagonia_Cipres con liquenes_El Bolson.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-010_Patagonia_Cipres con liquenes_El Bolson.jpg' alt='BAN-010_Patagonia_Cipres con liquenes_El Bolson.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-011_Patagonia_Bosque de Pataguas y helechos_Lago Puelo.jpg' title='BAN-011_Patagonia_Bosque de Pataguas y helechos_Lago Puelo.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-011_Patagonia_Bosque de Pataguas y helechos_Lago Puelo.jpg' alt='BAN-011_Patagonia_Bosque de Pataguas y helechos_Lago Puelo.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-012_Patagonia_Bosuqe de Pataguas y pantano_Lago Puelo.jpg' title='BAN-012_Patagonia_Bosuqe de Pataguas y pantano_Lago Puelo.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-012_Patagonia_Bosuqe de Pataguas y pantano_Lago Puelo.jpg' alt='BAN-012_Patagonia_Bosuqe de Pataguas y pantano_Lago Puelo.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-013_Patagonia_Bosque de helechos_Lago Puelo.jpg' title='BAN-013_Patagonia_Bosque de helechos_Lago Puelo.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-013_Patagonia_Bosque de helechos_Lago Puelo.jpg' alt='BAN-013_Patagonia_Bosque de helechos_Lago Puelo.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-014_Patagonia_Bosque y cascada_Neuquen.jpg' title='BAN-014_Patagonia_Bosque y cascada_Neuquen.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-014_Patagonia_Bosque y cascada_Neuquen.jpg' alt='BAN-014_Patagonia_Bosque y cascada_Neuquen.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-015_Patagonia_La fuerza del viento_Santa Cruz.jpg' title='BAN-015_Patagonia_La fuerza del viento_Santa Cruz.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-015_Patagonia_La fuerza del viento_Santa Cruz.jpg' alt='BAN-015_Patagonia_La fuerza del viento_Santa Cruz.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-016_Patagonia_Cañas Coligue florecidas_Bariloche.jpg' title='BAN-016_Patagonia_Cañas Coligue florecidas_Bariloche.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-016_Patagonia_Cañas Coligue florecidas_Bariloche.jpg' alt='BAN-016_Patagonia_Cañas Coligue florecidas_Bariloche.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-017_Patagonia_Detalle floracion caña Coligue_Bariloche.jpg' title='BAN-017_Patagonia_Detalle floracion caña Coligue_Bariloche.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-017_Patagonia_Detalle floracion caña Coligue_Bariloche.jpg' alt='BAN-017_Patagonia_Detalle floracion caña Coligue_Bariloche.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-018_Patagonia_Cañas que ya florecieron y se secaron_Bari.jpg' title='BAN-018_Patagonia_Cañas que ya florecieron y se secaron_Bariloche.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-018_Patagonia_Cañas que ya florecieron y se secaron_Bari.jpg' alt='BAN-018_Patagonia_Cañas que ya florecieron y se secaron_Bari.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-019_Patagonia_Ejemplar de Arrayan centenario_Lago Nahuel.jpg' title='BAN-019_Patagonia_Ejemplar de Arrayan centenario_Lago Nahuel.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-019_Patagonia_Ejemplar de Arrayan centenario_Lago Nahuel.jpg' alt='BAN-019_Patagonia_Ejemplar de Arrayan centenario_Lago Nahuel.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-020_Patagonia_Lengas en Otoño_Valle del Van Titter.jpg' title='BAN-020_Patagonia_Lengas en Otoño_Valle del Van Titter.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-020_Patagonia_Lengas en Otoño_Valle del Van Titter.jpg' alt='BAN-020_Patagonia_Lengas en Otoño_Valle del Van Titter.jpg'>
+      </a>
+      <a href='/images/collections/BAN_Bosques-Andinos/BAN-021_Patagonia_Maitén_ Maytenus boaria_PN Los Alerces.jpg' title='BAN-021_Patagonia_Maitén_ Maytenus boaria_PN Los Alerces.jpg'>
+        <img src='/images/collections-thumbs/BAN/BAN-021_Patagonia_Maitén_ Maytenus boaria_PN Los Alerces.jpg' alt='BAN-021_Patagonia_Maitén_ Maytenus boaria_PN Los Alerces.jpg'>
+      </a>>
+    </div>
 
-    <a href="http://placehold.it/500x333/333" title="Amaneceres y Atardeceres" >
-	<img src="http://placehold.it/250x167/333" alt="Amaneceres y Atardeceres">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Artesanos y Oficios" >
-	<img src="http://placehold.it/250x167" alt="Artesanos y Oficios">
-    </a>
-
-    <a href="http://placehold.it/500x333/aaa" title="Costa" >
-	<img src="http://placehold.it/250x167/aaa" alt="Costa">
-    </a>
-
-    <a  href="http://placehold.it/500x333/ccc" title="Estepa" >
-	<img src="http://placehold.it/250x167/ccc" alt="Estepa">
-    </a>
-    
-    <a href="http://placehold.it/500x333/333" title="Banana" >
-	<img src="http://placehold.it/250x167/333" alt="BAnana">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Melon" >
-	<img src="http://placehold.it/250x167" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/eee" title="Maracuya" >
-	<img src="http://placehold.it/250x167/eee" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/fff" title="Banana" >
-	<img src="http://placehold.it/250x167/fff" alt="BAnana">
-    </a>
-
-    <a href="http://placehold.it/500x333/aaa" title="Melon" >
-	<img src="http://placehold.it/250x167/aaa" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/ccc" title="Maracuya" >
-	<img src="http://placehold.it/250x167/ccc" alt="Maracuya">
-    </a>
-
-
-    <a href="http://placehold.it/500x333/333" title="Banana" >
-	<img src="http://placehold.it/250x167/333" alt="BAnana">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Melon" >
-	<img src="http://placehold.it/250x167" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/eee" title="Maracuya" >
-	<img src="http://placehold.it/250x167/eee" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/fff" title="Lemmon" >
-	<img src="http://placehold.it/250x167/fff" alt="Lemmon">
-    </a>
-
-    <a href="http://placehold.it/500x333/aaa" title="Melon" >
-	<img src="http://placehold.it/250x167/aaa" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/ccc" title="Maracuya" >
-	<img src="http://placehold.it/250x167/ccc" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/333" title="Orange" >
-	<img src="http://placehold.it/250x167/333" alt="Orange">
-    </a>
-
-    <a href="http://placehold.it/500x333" title="Melon" >
-	<img src="http://placehold.it/250x167" alt="Melon">
-    </a>
-
-    <a  href="http://placehold.it/500x333/eee" title="Maracuya" >
-	<img src="http://placehold.it/250x167/eee" alt="Maracuya">
-    </a>
-
-    <a href="http://placehold.it/500x333/fff" title="Pera" >
-	<img src="http://placehold.it/250x167/fff" alt="Pera">
-    </a>
-  </div>
-
-
- 	     <!-- here goes main-content.php comp. -->
-
-
+<!---  / links  -------------------------------->
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
