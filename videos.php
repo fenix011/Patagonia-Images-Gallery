@@ -124,7 +124,72 @@ $(function () {
 
 blueimp.Gallery([
 
-<!-- video multi source - formats : WebM & MP4 -->
+<!-- video multi source - formats : WebM, MP4 fallback -->
+
+
+
+
+          {
+            poster: 'img/foto_quiensoy.jpg',
+            title: '01. Apertura del Amancay, 36 hs.',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/01.%20Apertura%20del%20Amancay,%2036%20hs.%20720p.webm',
+                    type: 'video/webm'
+                },
+                       
+                {
+                    href: 'http://dev.librebits.info/video/mp4/01%20apertura%20del%20Amancay%2036%20horas.mp4',
+                    type: 'video/mp4'
+                },
+                                    
+             ]
+          },
+
+   <!-- Video 2 ?! -->
+
+      <!-- Video 3 ?! -->
+
+           <!-- Video 4  -->
+
+          {
+            poster: 'img/foto_quiensoy.jpg',
+            title: '04. Condores en la Buitrera',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/04.%20Condores%20en%20la%20Buitrera.%20720p.webm',
+                    type: 'video/webm'
+                },
+                       
+                {
+                    href: 'http://dev.librebits.info/video/mp4/04.%20Condores%20en%20la%20Buitrera.mp4',
+                    type: 'video/mp4'
+                },
+                                    
+             ]
+          },
+
+
+          {
+            poster: 'img/foto_quiensoy.jpg',
+            title: '05. El mar, las olas',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/05.%20El%20mar,%20las%20olas.%20720p.webm',
+                    type: 'video/webm'
+                },
+                       
+                {
+                    href: 'http://dev.librebits.info/video/mp4/05.%20El%20mar,%20las%20olas.mp4',
+                    type: 'video/mp4'
+                },
+                                    
+             ]
+          },
+
 
           {
             poster: 'img/foto_quiensoy.jpg',
