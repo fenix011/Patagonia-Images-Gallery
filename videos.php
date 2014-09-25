@@ -343,6 +343,25 @@ blueimp.Gallery([
 
              ]
           },
+
+
+          {
+            poster: 'img/foto_quiensoy.jpg',
+              title: '18. Tormenta en el mar',
+              type: 'video/*',
+              sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/18.%20Tormenta%20en%20el%20mar%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/18.%20Tormenta%20en%20el%20mar.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
           
            
 
