@@ -131,7 +131,7 @@ blueimp.Gallery([
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://dev.librebits.info/video/ogvwebm/06.%20El%20pato%20del%20Torrente.%20720p.webm',
+                    href: 'http://dev.librebits.info/video/webm/06.%20El%20pato%20del%20Torrente.%20720p.webm',
                     type: 'video/ogg'
                 },
                        
@@ -148,7 +148,7 @@ blueimp.Gallery([
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://dev.librebits.info/video/ogvwebm/07.%20Picorocos%20en%20Punta%20Quiroga.%20720p.webm',
+                    href: 'http://dev.librebits.info/video/webm/07.%20Picorocos%20en%20Punta%20Quiroga.%20720p.webm',
                     type: 'video/ogg'
                 },
                        
