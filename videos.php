@@ -219,7 +219,7 @@ blueimp.Gallery([
 
           {
             poster: 'img/foto_quiensoy.jpg',
-            title: '11. Nevada se septiembre',
+            title: '11. Nevada de septiembre',
             type: 'video/*',
             sources: [
                 {
@@ -308,7 +308,42 @@ blueimp.Gallery([
              ]
           },
 
+          {
+            poster: 'img/foto_quiensoy.jpg',
+              title: '16. Secuencia de la marea. Peninsula Valdes',
+              type: 'video/*',
+              sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/16.%20Secuencia%20de%20la%20marea%20Peninsula%20Valdes.%20720p.webm',
+                    type: 'video/webm'
+                },
 
+                {
+                    href: 'http://dev.librebits.info/video/mp4/16.%20Secuencia%20de%20la%20marea.%20Peninsula%20Valdes.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+
+          {
+            poster: 'img/foto_quiensoy.jpg',
+              title: '17. Atardecer',
+              type: 'video/*',
+              sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/17.%20Atardecer%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/17.%20Atardecer.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+          
            
 
     ],{
