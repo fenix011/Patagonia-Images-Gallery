@@ -127,6 +127,7 @@ blueimp.Gallery([
 <!-- video multi source - formats : WebM & MP4 -->
 
           {
+            poster: 'img/foto_quiensoy.jpg',
             title: '06. El Pato del Torrente',
             type: 'video/*',
             sources: [
@@ -144,6 +145,7 @@ blueimp.Gallery([
           },
 
           {
+            poster: 'img/foto_quiensoy.jpg',
             title: '07. Picorocos en Punta Quiroga',
             type: 'video/*',
             sources: [
@@ -162,6 +164,7 @@ blueimp.Gallery([
 
 
           {
+            poster: 'img/foto_quiensoy.jpg',
             title: '08. Amanecer en el Chalten',
             type: 'video/*',
             sources: [
@@ -179,6 +182,7 @@ blueimp.Gallery([
           },
 
           {
+            poster: 'img/foto_quiensoy.jpg',
             title: '09. El Glaciar Viedma',
             type: 'video/*',
             sources: [
@@ -196,6 +200,7 @@ blueimp.Gallery([
           },
 
           {
+            poster: 'img/foto_quiensoy.jpg',
             title: '10. Historia del Agua',
             type: 'video/*',
             sources: [
@@ -213,6 +218,7 @@ blueimp.Gallery([
           },
 
           {
+            poster: 'img/foto_quiensoy.jpg',
             title: '11. Nevada se septiembre',
             type: 'video/*',
             sources: [
@@ -231,6 +237,7 @@ blueimp.Gallery([
 
 
           {
+            poster: 'img/foto_quiensoy.jpg',
             title: '12. Eclipse de Venus en la Luna',
             type: 'video/*',
             sources: [
@@ -249,6 +256,7 @@ blueimp.Gallery([
 
 
           {
+            poster: 'img/foto_quiensoy.jpg',
             title: '13. Pajaros carpinteros en el otoño',
             type: 'video/*',
             sources: [
@@ -259,6 +267,41 @@ blueimp.Gallery([
 
                 {
                     href: 'http://dev.librebits.info/video/mp4/13.%20Pajaros%20carpinteros%20en%20el%20oto%c3%b1o.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+
+          {
+            poster: 'img/foto_quiensoy.jpg',
+            title: '14. Poza de marea. Cangrejos',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/14.%20Poza%20de%20marea.%20Cangrejos%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/14.%20Poza%20de%20marea.%20Cangrejos.mp4',
+                    type: 'video/mp4'
+                },
+              ]
+            },
+
+            {
+              poster: 'img/foto_quiensoy.jpg',
+              title: '15.Secuencia de un amanecer',
+              type: 'video/*',
+              sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/15.Secuencia%20de%20un%20amanecer%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/15.%20Secuencia%20de%20un%20amanecer.mp4',
                     type: 'video/mp4'
                 },
 
