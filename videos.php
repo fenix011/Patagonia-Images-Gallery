@@ -124,10 +124,10 @@ $(function () {
 
 blueimp.Gallery([
 
-<!-- test multiformat -->
+<!-- video multi source - formats : WebM & MP4 -->
 
           {
-            title: '06 El Pato del Torrente',
+            title: '06. El Pato del Torrente',
             type: 'video/*',
             sources: [
                 {
@@ -142,6 +142,24 @@ blueimp.Gallery([
                                     
              ]
           },
+
+          {
+            title: '07. Picorocos en Punta Quiroga',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/ogvwebm/07.%20Picorocos%20en%20Punta%20Quiroga.%20720p.webm',
+                    type: 'video/ogg'
+                },
+                       
+                {
+                    href: 'http://dev.librebits.info/video/mp4/07.%20Picorocos%20en%20Punta%20Quiroga.mp4',
+                    type: 'video/mp4'
+                },
+                                    
+             ]
+          },
+
 
 
     ],{
