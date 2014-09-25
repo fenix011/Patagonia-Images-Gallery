@@ -161,6 +161,24 @@ blueimp.Gallery([
           },
 
 
+          {
+            title: '08. Amanecer en el Chalten. 720p',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/08.%20Amanecer%20en%20el%20Chalten.%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/08.%20Amanecer%20en%20el%20Chalten.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+
+
 
     ],{
         container: '#blueimp-video-carousel',
