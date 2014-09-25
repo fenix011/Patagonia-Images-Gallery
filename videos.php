@@ -126,20 +126,22 @@ blueimp.Gallery([
 
 <!-- test multiformat -->
 
-            {
-            title: 'Test',
+          {
+            title: '06 El Pato del Torrente',
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://patagonia-images.com/videos/mp4/01.mp4',
+                    href: 'http://dev.librebits.info/video/ogvwebm/06.%20El%20pato%20del%20Torrente.%20720p.webm',
+                    type: 'video/ogg'
+                },
+                       
+                {
+                    href: 'http://dev.librebits.info/video/mp4/06.%20El%20pato%20del%20Torrente.mp4',
                     type: 'video/mp4'
                 },
-                {
-                    href: 'http://librebits.info/videos/ogvwebm/Un%20viaje%20por%20patagonia_480p.webm',
-                    type: 'video/ogg'
-                }
-        ]
-        },
+                                    
+             ]
+          },
 
 
     ],{
