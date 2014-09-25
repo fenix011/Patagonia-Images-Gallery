@@ -131,8 +131,8 @@ blueimp.Gallery([
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://dev.librebits.info/video/ogvwebm/06.%20El%20pato%20del%20Torrente.%20720p.webm',
-                    type: 'video/ogg'
+                    href: 'http://dev.librebits.info/video/webm/06.%20El%20pato%20del%20Torrente.%20720p.webm',
+                    type: 'video/webm'
                 },
                        
                 {
@@ -148,8 +148,8 @@ blueimp.Gallery([
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://dev.librebits.info/video/ogvwebm/07.%20Picorocos%20en%20Punta%20Quiroga.%20720p.webm',
-                    type: 'video/ogg'
+                    href: 'http://dev.librebits.info/video/webm/07.%20Picorocos%20en%20Punta%20Quiroga.%20720p.webm',
+                    type: 'video/webm'
                 },
                        
                 {
@@ -161,6 +161,74 @@ blueimp.Gallery([
           },
 
 
+          {
+            title: '08. Amanecer en el Chalten. 720p',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/08.%20Amanecer%20en%20el%20Chalten.%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/08.%20Amanecer%20en%20el%20Chalten.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+
+          {
+            title: '09. El Glaciar Viedma',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/09.%20El%20Glaciar%20Viedma.%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/09.%20El%20Glaciar%20Viedma.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+
+          {
+            title: '10. Historia del Agua',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/10.%20Historia%20del%20Agua.%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/10.%20Historia%20del%20Agua.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+
+          {
+            title: '11. Nevada se septiembre',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/11.%20Nevada%20de%20septiembre%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/11.%20Nevada%20se%20septiembre.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+           
 
     ],{
         container: '#blueimp-video-carousel',
