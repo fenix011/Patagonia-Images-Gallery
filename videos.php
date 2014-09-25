@@ -162,7 +162,7 @@ blueimp.Gallery([
 
 
           {
-            title: '08. Amanecer en el Chalten. 720p',
+            title: '08. Amanecer en el Chalten',
             type: 'video/*',
             sources: [
                 {
@@ -228,6 +228,44 @@ blueimp.Gallery([
 
              ]
           },
+
+
+          {
+            title: '12. Eclipse de Venus en la Luna',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/12.%20Eclipse%20de%20Venus%20en%20la%20Luna%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/12.%20Eclipse%20de%20Venus%20en%20la%20Luna.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+
+
+          {
+            title: '13. Pajaros carpinteros en el otoño',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/13.%20Pajaros%20carpinteros%20en%20el%20oto%c3%b1o%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/13.%20Pajaros%20carpinteros%20en%20el%20oto%c3%b1o.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+
+
            
 
     ],{
