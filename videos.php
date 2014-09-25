@@ -124,9 +124,75 @@ $(function () {
 
 blueimp.Gallery([
 
-<!-- video multi source - formats : WebM & MP4 -->
+<!-- video multi source - formats : WebM, MP4 fallback -->
+
+
+
 
           {
+            poster: 'img/foto_quiensoy.jpg',
+            title: '01. Apertura del Amancay, 36 hs.',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/01.%20Apertura%20del%20Amancay,%2036%20hs.%20720p.webm',
+                    type: 'video/webm'
+                },
+                       
+                {
+                    href: 'http://dev.librebits.info/video/mp4/01%20apertura%20del%20Amancay%2036%20horas.mp4',
+                    type: 'video/mp4'
+                },
+                                    
+             ]
+          },
+
+   <!-- Video 2 ?! -->
+
+      <!-- Video 3 ?! -->
+
+           <!-- Video 4  -->
+
+          {
+            poster: 'img/foto_quiensoy.jpg',
+            title: '04. Condores en la Buitrera',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/04.%20Condores%20en%20la%20Buitrera.%20720p.webm',
+                    type: 'video/webm'
+                },
+                       
+                {
+                    href: 'http://dev.librebits.info/video/mp4/04.%20Condores%20en%20la%20Buitrera.mp4',
+                    type: 'video/mp4'
+                },
+                                    
+             ]
+          },
+
+
+          {
+            poster: 'img/foto_quiensoy.jpg',
+            title: '05. El mar, las olas',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/05.%20El%20mar,%20las%20olas.%20720p.webm',
+                    type: 'video/webm'
+                },
+                       
+                {
+                    href: 'http://dev.librebits.info/video/mp4/05.%20El%20mar,%20las%20olas.mp4',
+                    type: 'video/mp4'
+                },
+                                    
+             ]
+          },
+
+
+          {
+            poster: 'img/foto_quiensoy.jpg',
             title: '06. El Pato del Torrente',
             type: 'video/*',
             sources: [
@@ -144,6 +210,7 @@ blueimp.Gallery([
           },
 
           {
+            poster: 'img/foto_quiensoy.jpg',
             title: '07. Picorocos en Punta Quiroga',
             type: 'video/*',
             sources: [
@@ -162,7 +229,8 @@ blueimp.Gallery([
 
 
           {
-            title: '08. Amanecer en el Chalten. 720p',
+            poster: 'img/foto_quiensoy.jpg',
+            title: '08. Amanecer en el Chalten',
             type: 'video/*',
             sources: [
                 {
@@ -179,6 +247,7 @@ blueimp.Gallery([
           },
 
           {
+            poster: 'img/foto_quiensoy.jpg',
             title: '09. El Glaciar Viedma',
             type: 'video/*',
             sources: [
@@ -196,6 +265,7 @@ blueimp.Gallery([
           },
 
           {
+            poster: 'img/foto_quiensoy.jpg',
             title: '10. Historia del Agua',
             type: 'video/*',
             sources: [
@@ -213,7 +283,8 @@ blueimp.Gallery([
           },
 
           {
-            title: '11. Nevada se septiembre',
+            poster: 'img/foto_quiensoy.jpg',
+            title: '11. Nevada de septiembre',
             type: 'video/*',
             sources: [
                 {
@@ -228,6 +299,135 @@ blueimp.Gallery([
 
              ]
           },
+
+
+          {
+            poster: 'img/foto_quiensoy.jpg',
+            title: '12. Eclipse de Venus en la Luna',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/12.%20Eclipse%20de%20Venus%20en%20la%20Luna%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/12.%20Eclipse%20de%20Venus%20en%20la%20Luna.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+
+
+          {
+            poster: 'img/foto_quiensoy.jpg',
+            title: '13. Pajaros carpinteros en el otoño',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/13.%20Pajaros%20carpinteros%20en%20el%20oto%c3%b1o%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/13.%20Pajaros%20carpinteros%20en%20el%20oto%c3%b1o.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+
+          {
+            poster: 'img/foto_quiensoy.jpg',
+            title: '14. Poza de marea. Cangrejos',
+            type: 'video/*',
+            sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/14.%20Poza%20de%20marea.%20Cangrejos%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/14.%20Poza%20de%20marea.%20Cangrejos.mp4',
+                    type: 'video/mp4'
+                },
+              ]
+            },
+
+            {
+              poster: 'img/foto_quiensoy.jpg',
+              title: '15.Secuencia de un amanecer',
+              type: 'video/*',
+              sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/15.Secuencia%20de%20un%20amanecer%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/15.%20Secuencia%20de%20un%20amanecer.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+
+          {
+            poster: 'img/foto_quiensoy.jpg',
+              title: '16. Secuencia de la marea. Peninsula Valdes',
+              type: 'video/*',
+              sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/16.%20Secuencia%20de%20la%20marea%20Peninsula%20Valdes.%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/16.%20Secuencia%20de%20la%20marea.%20Peninsula%20Valdes.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+
+          {
+            poster: 'img/foto_quiensoy.jpg',
+              title: '17. Atardecer',
+              type: 'video/*',
+              sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/17.%20Atardecer%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/17.%20Atardecer.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+
+
+          {
+            poster: 'img/foto_quiensoy.jpg',
+              title: '18. Tormenta en el mar',
+              type: 'video/*',
+              sources: [
+                {
+                    href: 'http://dev.librebits.info/video/webm/18.%20Tormenta%20en%20el%20mar%20720p.webm',
+                    type: 'video/webm'
+                },
+
+                {
+                    href: 'http://dev.librebits.info/video/mp4/18.%20Tormenta%20en%20el%20mar.mp4',
+                    type: 'video/mp4'
+                },
+
+             ]
+          },
+          
            
 
     ],{
