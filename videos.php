@@ -130,7 +130,7 @@ blueimp.Gallery([
 
 
           {
-            poster: 'img/foto_quiensoy.jpg',
+            poster: 'images/posters/01_video_poster_19.png',
             title: '01. Apertura del Amancay, 36 hs.',
             type: 'video/*',
             sources: [
@@ -154,7 +154,7 @@ blueimp.Gallery([
            <!-- Video 4  -->
 
           {
-            poster: 'img/foto_quiensoy.jpg',
+            poster: 'images/poster/04_video_poster_48.png',
             title: '04. Condores en la Buitrera',
             type: 'video/*',
             sources: [
@@ -173,7 +173,7 @@ blueimp.Gallery([
 
 
           {
-            poster: 'img/foto_quiensoy.jpg',
+            poster: 'img/posters/05_video_poster_40.png',
             title: '05. El mar, las olas',
             type: 'video/*',
             sources: [
@@ -192,7 +192,7 @@ blueimp.Gallery([
 
 
           {
-            poster: 'img/foto_quiensoy.jpg',
+            poster: 'images/posters/06_video_poster_19.png',
             title: '06. El Pato del Torrente',
             type: 'video/*',
             sources: [
@@ -210,7 +210,7 @@ blueimp.Gallery([
           },
 
           {
-            poster: 'img/foto_quiensoy.jpg',
+            poster: 'images/posters/07_video_poster_19.png',
             title: '07. Picorocos en Punta Quiroga',
             type: 'video/*',
             sources: [
@@ -229,7 +229,7 @@ blueimp.Gallery([
 
 
           {
-            poster: 'img/foto_quiensoy.jpg',
+            poster: 'images/posters/08_video_poster_65.png',
             title: '08. Amanecer en el Chalten',
             type: 'video/*',
             sources: [
@@ -247,7 +247,7 @@ blueimp.Gallery([
           },
 
           {
-            poster: 'img/foto_quiensoy.jpg',
+            poster: 'images/09_video_poster_58.png',
             title: '09. El Glaciar Viedma',
             type: 'video/*',
             sources: [
@@ -265,7 +265,7 @@ blueimp.Gallery([
           },
 
           {
-            poster: 'img/foto_quiensoy.jpg',
+            poster: 'images/posters/10_video_poster_74.png',
             title: '10. Historia del Agua',
             type: 'video/*',
             sources: [
@@ -283,7 +283,7 @@ blueimp.Gallery([
           },
 
           {
-            poster: 'img/foto_quiensoy.jpg',
+            poster: 'images/posters/11_video_poster_74.png',
             title: '11. Nevada de septiembre',
             type: 'video/*',
             sources: [
@@ -302,7 +302,7 @@ blueimp.Gallery([
 
 
           {
-            poster: 'img/foto_quiensoy.jpg',
+            poster: 'images/posters/12_video_poster_32.png',
             title: '12. Eclipse de Venus en la Luna',
             type: 'video/*',
             sources: [
@@ -321,7 +321,7 @@ blueimp.Gallery([
 
 
           {
-            poster: 'img/foto_quiensoy.jpg',
+            poster: 'images/posters/13_video_poster_61.png',
             title: '13. Pajaros carpinteros en el otoño',
             type: 'video/*',
             sources: [
@@ -339,7 +339,7 @@ blueimp.Gallery([
           },
 
           {
-            poster: 'img/foto_quiensoy.jpg',
+            poster: 'images/posters/14_video_poster_108.png',
             title: '14. Poza de marea. Cangrejos',
             type: 'video/*',
             sources: [
@@ -356,7 +356,7 @@ blueimp.Gallery([
             },
 
             {
-              poster: 'img/foto_quiensoy.jpg',
+              poster: 'images/posters/15_video_poster_59.png',
               title: '15.Secuencia de un amanecer',
               type: 'video/*',
               sources: [
@@ -374,7 +374,7 @@ blueimp.Gallery([
           },
 
           {
-            poster: 'img/foto_quiensoy.jpg',
+            poster: 'images/posters/16_video_poster_20.png',
               title: '16. Secuencia de la marea. Peninsula Valdes',
               type: 'video/*',
               sources: [
@@ -392,7 +392,7 @@ blueimp.Gallery([
           },
 
           {
-            poster: 'img/foto_quiensoy.jpg',
+            poster: 'images/posters/17_video_poster_64.png',
               title: '17. Atardecer',
               type: 'video/*',
               sources: [
@@ -411,7 +411,7 @@ blueimp.Gallery([
 
 
           {
-            poster: 'img/foto_quiensoy.jpg',
+            poster: 'images/posters/18_video_poster_73.png',
               title: '18. Tormenta en el mar',
               type: 'video/*',
               sources: [
