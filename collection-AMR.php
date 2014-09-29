@@ -126,6 +126,17 @@
       <a href='/images/collections/AMR_Aves-Marinas/AMR-004_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz.jpg' title='AMR-004_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz.jpg'>
         <img src='/images/collections-thumbs/AMR/AMR-004_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz.jpg' alt='AMR-004_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz.jpg'>
       </a>
+
+<!-- fix  5. 6.  --> 
+
+<a href='/images/collections/AMR_Aves-Marinas/AMR-005_Patagonia_Bandada de gaviotines_Chubut.jpg' title='AMR-005_Patagonia_Bandada de gaviotines_Chubut.jpg'>
+        <img src='/images/collections-thumbs/AMR/AMR-005_Patagonia_Bandada de gaviotines_Chubut.jpg' alt='AMR-005_Patagonia_Bandada de gaviotines_Chubut.jpg'>
+      </a>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-006_Patagonia_ Gaviotines Sudamericanos_Chubut.jpg' title='AMR-006_Patagonia_ Gaviotines Sudamericanos_Chubut.jpg'>
+        <img src='/images/collections-thumbs/AMR/AMR-006_Patagonia_ Gaviotines Sudamericanos_Chubut.jpg' alt='AMR-006_Patagonia_ Gaviotines Sudamericanos_Chubut.jpg'>
+      </a>
+
+<!-- /fix -->
       <a href='/images/collections/AMR_Aves-Marinas/AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg' title='AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg'>
         <img src='/images/collections-thumbs/AMR/AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg' alt='AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg'>
       </a>
