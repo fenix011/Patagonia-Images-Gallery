@@ -151,29 +151,29 @@ blueimp.Gallery([
 
       <!-- Video 3 ?! -->
 
-           <!-- Video 4  -->
+           <!-- Video 4  |             poster: 'images/poster/04_video_poster_48.png',  -->
 
           {
             poster: 'images/poster/04_video_poster_48.png',
             title: '04. Condores en la Buitrera',
             type: 'video/*',
             sources: [
-                {
-                    href: 'http://dev.librebits.info/video/webm/04.%20Condores%20en%20la%20Buitrera.%20720p.webm',
+	           {
+                    href: 'http://dev.librebits.info/video/webm/04.webm',
                     type: 'video/webm'
                 },
-                       
+
                 {
-                    href: 'http://dev.librebits.info/video/mp4/04.%20Condores%20en%20la%20Buitrera.mp4',
+                    href: 'http://dev.librebits.info/video/mp4/04.mp4',
                     type: 'video/mp4'
                 },
-                                    
+
              ]
           },
 
 
           {
-            poster: 'img/posters/05_video_poster_40.png',
+            poster: 'images/posters/05_video_poster_40.png',
             title: '05. El mar, las olas',
             type: 'video/*',
             sources: [
