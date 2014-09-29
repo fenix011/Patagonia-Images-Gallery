@@ -135,11 +135,13 @@
       <a href='/images/collections/AMR_Aves-Marinas/AMR-006_Patagonia_ Gaviotines Sudamericanos_Chubut.jpg' title='AMR-006_Patagonia_ Gaviotines Sudamericanos_Chubut.jpg'>
         <img src='/images/collections-thumbs/AMR/AMR-006_Patagonia_ Gaviotines Sudamericanos_Chubut.jpg' alt='AMR-006_Patagonia_ Gaviotines Sudamericanos_Chubut.jpg'>
       </a>
-
-<!-- /fix -->
       <a href='/images/collections/AMR_Aves-Marinas/AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg' title='AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg'>
         <img src='/images/collections-thumbs/AMR/AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg' alt='AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg'>
       </a>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-008_Patagonia_grupo de golondrinas_Rio negro.jpg' title='AMR-008_Patagonia_grupo de golondrinas_Rio negro.jpg'>
+        <img src='/images/collections-thumbs/AMR/AMR-008_Patagonia_grupo de golondrinas_Rio negro.jpg' alt='AMR-008_Patagonia_grupo de golondrinas_Rio negro.jpg'>
+      </a>
+<!-- /fix -->
       <a href='/images/collections/AMR_Aves-Marinas/AMR-009_Patagonia_golondrina_Chubut.jpg' title='AMR-009_Patagonia_golondrina_Chubut.jpg'>
         <img src='/images/collections-thumbs/AMR/AMR-009_Patagonia_golondrina_Chubut.jpg' alt='AMR-009_Patagonia_golondrina_Chubut.jpg'>
       </a>
