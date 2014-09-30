@@ -147,15 +147,16 @@ blueimp.Gallery([
              ]
           },
 
-   <!-- Video 2 ?! -->
-02. Ballenas en Peninsula Valdes. 720p
+   <!-- Video 2 ?! http://patagonia-images.com/videos.php -->
+
 
 
       <!-- Video 3 ?! -->
 
-           <!-- Video 4  |             poster: 'images/poster/04_video_poster_48.png',  -->
+           <!-- Video 4  |               -->
 
           {
+            poster: 'images/poster/04_video_poster_48.png',
             title: '04. Condores en la Buitrera',
             type: 'video/*',
             sources: [
