@@ -148,7 +148,23 @@ blueimp.Gallery([
           },
 
    <!-- Video 2 ?! http://patagonia-images.com/videos.php -->
-
+          {
+            poster: 'images/posters/02_video_poster_74.png',
+            title: '02. Ballenas en la Península Valdés',
+            type: 'video/*',
+            sources: [
+                {
+                    href: '/videos/webm/02.%20Ballenas%20en%20Peninsula%20Valdes.%20720p.webm',
+                    type: 'video/webm'
+                },
+                       
+                {
+                    href: '/videos/mp4/02-Ballenas.mp4',
+                    type: 'video/mp4'
+                },
+                                    
+             ]
+          },
 
 
       <!-- Video 3 ?! -->
