@@ -167,7 +167,16 @@ blueimp.Gallery([
           },
 
 
-      <!-- Video 3 ?! -->
+          <!-- Video 3 ?! -->
+
+
+	  {
+	    poster: 'images/posters/03_video_poster_43.png',
+            title: '03. Las Aves Marinas',
+            href: '/videos/webm/03.%20Las%20aves%20marinas.%20720p.webm',
+            type: 'video/webm'
+	  },
+
 
            <!-- Video 4  |               -->
 
