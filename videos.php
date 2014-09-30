@@ -465,6 +465,14 @@ blueimp.Gallery([
             href: '/videos/mp4/19.%20Cielo%20nocturno%20en%20el%20Tronador.mp4',
             type: 'video/mp4'
 	  },
+
+
+	  {
+	    poster: 'images/posters/20_video_poster_19.png',
+            title: '20. Deshielo matinal',
+            href: '/videos/mp4/20.%20Deshielo%20matinal.mp4',
+            type: 'video/mp4'
+	  }
           
            
 
