@@ -147,15 +147,41 @@ blueimp.Gallery([
              ]
           },
 
-   <!-- Video 2 ?! -->
-02. Ballenas en Peninsula Valdes. 720p
+   <!-- Video 2 ?! http://patagonia-images.com/videos.php -->
+          {
+            poster: 'images/posters/02_video_poster_74.png',
+            title: '02. Ballenas en la Península Valdés',
+            type: 'video/*',
+            sources: [
+                {
+                    href: '/videos/webm/02.%20Ballenas%20en%20Peninsula%20Valdes.%20720p.webm',
+                    type: 'video/webm'
+                },
+                       
+                {
+                    href: '/videos/mp4/02-Ballenas.mp4',
+                    type: 'video/mp4'
+                },
+                                    
+             ]
+          },
 
 
-      <!-- Video 3 ?! -->
+          <!-- Video 3 ?! -->
 
-           <!-- Video 4  |             poster: 'images/poster/04_video_poster_48.png',  -->
+
+	  {
+	    poster: 'images/posters/03_video_poster_43.png',
+            title: '03. Las Aves Marinas',
+            href: '/videos/webm/03.%20Las%20aves%20marinas.%20720p.webm',
+            type: 'video/webm'
+	  },
+
+
+           <!-- Video 4  |               -->
 
           {
+            poster: 'images/poster/04_video_poster_48.png',
             title: '04. Condores en la Buitrera',
             type: 'video/*',
             sources: [
@@ -428,6 +454,25 @@ blueimp.Gallery([
 
              ]
           },
+
+
+          <!-- Video 19 ?! -->
+
+
+	  {
+	    poster: 'images/posters/19_video_poster_35.png',
+            title: '19. Cielo nocturno en el Tronador',
+            href: '/videos/mp4/19.%20Cielo%20nocturno%20en%20el%20Tronador.mp4',
+            type: 'video/mp4'
+	  },
+
+
+	  {
+	    poster: 'images/posters/20_video_poster_19.png',
+            title: '20. Deshielo matinal',
+            href: '/videos/mp4/20.%20Deshielo%20matinal.mp4',
+            type: 'video/mp4'
+	  }
           
            
 
