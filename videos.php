@@ -454,6 +454,17 @@ blueimp.Gallery([
 
              ]
           },
+
+
+          <!-- Video 19 ?! -->
+
+
+	  {
+	    poster: 'images/posters/19_video_poster_35.png',
+            title: '19. Cielo nocturno en el Tronador',
+            href: '/videos/mp4/19.%20Cielo%20nocturno%20en%20el%20Tronador.mp4',
+            type: 'video/mp4'
+	  },
           
            
 
