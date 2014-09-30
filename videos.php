@@ -154,7 +154,6 @@ blueimp.Gallery([
            <!-- Video 4  |             poster: 'images/poster/04_video_poster_48.png',  -->
 
           {
-            poster: 'images/poster/04_video_poster_48.png',
             title: '04. Condores en la Buitrera',
             type: 'video/*',
             sources: [
