@@ -135,12 +135,12 @@ blueimp.Gallery([
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://dev.librebits.info/video/webm/01.%20Apertura%20del%20Amancay,%2036%20hs.%20720p.webm',
+                    href: '/videos/webm/01.%20Apertura%20del%20Amancay,%2036%20hs.%20720p.webm',
                     type: 'video/webm'
                 },
                        
                 {
-                    href: 'http://dev.librebits.info/video/mp4/01%20apertura%20del%20Amancay%2036%20horas.mp4',
+                    href: '/videos/mp4/01%20apertura%20del%20Amancay%2036%20horas.mp4',
                     type: 'video/mp4'
                 },
                                     
@@ -148,23 +148,24 @@ blueimp.Gallery([
           },
 
    <!-- Video 2 ?! -->
+02. Ballenas en Peninsula Valdes. 720p
+
 
       <!-- Video 3 ?! -->
 
            <!-- Video 4  |             poster: 'images/poster/04_video_poster_48.png',  -->
 
           {
-            poster: 'images/poster/04_video_poster_48.png',
             title: '04. Condores en la Buitrera',
             type: 'video/*',
             sources: [
 	           {
-                    href: 'http://dev.librebits.info/video/webm/04.webm',
+                    href: '/videos/webm/04.webm',
                     type: 'video/webm'
                 },
 
                 {
-                    href: 'http://dev.librebits.info/video/mp4/04.mp4',
+                    href: '/videos/mp4/04.mp4',
                     type: 'video/mp4'
                 },
 
@@ -178,12 +179,12 @@ blueimp.Gallery([
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://dev.librebits.info/video/webm/05.%20El%20mar,%20las%20olas.%20720p.webm',
+                    href: '/videos/webm/05.%20El%20mar,%20las%20olas.%20720p.webm',
                     type: 'video/webm'
                 },
                        
                 {
-                    href: 'http://dev.librebits.info/video/mp4/05.%20El%20mar,%20las%20olas.mp4',
+                    href: '/videos/mp4/05.mp4',
                     type: 'video/mp4'
                 },
                                     
@@ -197,12 +198,12 @@ blueimp.Gallery([
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://dev.librebits.info/video/webm/06.%20El%20pato%20del%20Torrente.%20720p.webm',
+                    href: '/videos/webm/06.%20El%20pato%20del%20Torrente.%20720p.webm',
                     type: 'video/webm'
                 },
                        
                 {
-                    href: 'http://dev.librebits.info/video/mp4/06.%20El%20pato%20del%20Torrente.mp4',
+                    href: '/videos/mp4/06.%20El%20pato%20del%20Torrente.mp4',
                     type: 'video/mp4'
                 },
                                     
@@ -215,12 +216,12 @@ blueimp.Gallery([
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://dev.librebits.info/video/webm/07.%20Picorocos%20en%20Punta%20Quiroga.%20720p.webm',
+                    href: '/videos/webm/07.%20Picorocos%20en%20Punta%20Quiroga.%20720p.webm',
                     type: 'video/webm'
                 },
                        
                 {
-                    href: 'http://dev.librebits.info/video/mp4/07.%20Picorocos%20en%20Punta%20Quiroga.mp4',
+                    href: '/videos/mp4/07.%20Picorocos%20en%20Punta%20Quiroga.mp4',
                     type: 'video/mp4'
                 },
                                     
@@ -234,12 +235,12 @@ blueimp.Gallery([
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://dev.librebits.info/video/webm/08.%20Amanecer%20en%20el%20Chalten.%20720p.webm',
+                    href: '/videos/webm/08.%20Amanecer%20en%20el%20Chalten.%20720p.webm',
                     type: 'video/webm'
                 },
 
                 {
-                    href: 'http://dev.librebits.info/video/mp4/08.%20Amanecer%20en%20el%20Chalten.mp4',
+                    href: '/videos/mp4/08.%20Amanecer%20en%20el%20Chalten.mp4',
                     type: 'video/mp4'
                 },
 
@@ -252,12 +253,12 @@ blueimp.Gallery([
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://dev.librebits.info/video/webm/09.%20El%20Glaciar%20Viedma.%20720p.webm',
+                    href: '/videos/webm/09.%20El%20Glaciar%20Viedma.%20720p.webm',
                     type: 'video/webm'
                 },
 
                 {
-                    href: 'http://dev.librebits.info/video/mp4/09.%20El%20Glaciar%20Viedma.mp4',
+                    href: '/videos/mp4/09.%20El%20Glaciar%20Viedma.mp4',
                     type: 'video/mp4'
                 },
 
@@ -270,12 +271,12 @@ blueimp.Gallery([
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://dev.librebits.info/video/webm/10.%20Historia%20del%20Agua.%20720p.webm',
+                    href: '/videos/webm/10.%20Historia%20del%20Agua.%20720p.webm',
                     type: 'video/webm'
                 },
 
                 {
-                    href: 'http://dev.librebits.info/video/mp4/10.%20Historia%20del%20Agua.mp4',
+                    href: '/videos/mp4/10.%20Historia%20del%20Agua.mp4',
                     type: 'video/mp4'
                 },
 
@@ -288,12 +289,12 @@ blueimp.Gallery([
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://dev.librebits.info/video/webm/11.%20Nevada%20de%20septiembre%20720p.webm',
+                    href: '/videos/webm/11.%20Nevada%20de%20septiembre%20720p.webm',
                     type: 'video/webm'
                 },
 
                 {
-                    href: 'http://dev.librebits.info/video/mp4/11.%20Nevada%20se%20septiembre.mp4',
+                    href: '/videos/mp4/11.%20Nevada%20se%20septiembre.mp4',
                     type: 'video/mp4'
                 },
 
@@ -307,12 +308,12 @@ blueimp.Gallery([
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://dev.librebits.info/video/webm/12.%20Eclipse%20de%20Venus%20en%20la%20Luna%20720p.webm',
+                    href: '/videos/webm/12.%20Eclipse%20de%20Venus%20en%20la%20Luna%20720p.webm',
                     type: 'video/webm'
                 },
 
                 {
-                    href: 'http://dev.librebits.info/video/mp4/12.%20Eclipse%20de%20Venus%20en%20la%20Luna.mp4',
+                    href: '/videos/mp4/12.%20Eclipse%20de%20Venus%20en%20la%20Luna.mp4',
                     type: 'video/mp4'
                 },
 
@@ -326,12 +327,12 @@ blueimp.Gallery([
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://dev.librebits.info/video/webm/13.%20Pajaros%20carpinteros%20en%20el%20oto%c3%b1o%20720p.webm',
+                    href: '/videos/webm/13.%20Pajaros%20carpinteros%20en%20el%20oto%c3%b1o%20720p.webm',
                     type: 'video/webm'
                 },
 
                 {
-                    href: 'http://dev.librebits.info/video/mp4/13.%20Pajaros%20carpinteros%20en%20el%20oto%c3%b1o.mp4',
+                    href: '/videos/mp4/13.%20Pajaros%20carpinteros%20en%20el%20oto%c3%b1o.mp4',
                     type: 'video/mp4'
                 },
 
@@ -344,12 +345,12 @@ blueimp.Gallery([
             type: 'video/*',
             sources: [
                 {
-                    href: 'http://dev.librebits.info/video/webm/14.%20Poza%20de%20marea.%20Cangrejos%20720p.webm',
+                    href: '/videos/webm/14.%20Poza%20de%20marea.%20Cangrejos%20720p.webm',
                     type: 'video/webm'
                 },
 
                 {
-                    href: 'http://dev.librebits.info/video/mp4/14.%20Poza%20de%20marea.%20Cangrejos.mp4',
+                    href: '/videos/mp4/14.%20Poza%20de%20marea.%20Cangrejos.mp4',
                     type: 'video/mp4'
                 },
               ]
@@ -361,12 +362,12 @@ blueimp.Gallery([
               type: 'video/*',
               sources: [
                 {
-                    href: 'http://dev.librebits.info/video/webm/15.Secuencia%20de%20un%20amanecer%20720p.webm',
+                    href: '/videos/webm/15.Secuencia%20de%20un%20amanecer%20720p.webm',
                     type: 'video/webm'
                 },
 
                 {
-                    href: 'http://dev.librebits.info/video/mp4/15.%20Secuencia%20de%20un%20amanecer.mp4',
+                    href: '/videos/mp4/15.%20Secuencia%20de%20un%20amanecer.mp4',
                     type: 'video/mp4'
                 },
 
@@ -379,12 +380,12 @@ blueimp.Gallery([
               type: 'video/*',
               sources: [
                 {
-                    href: 'http://dev.librebits.info/video/webm/16.%20Secuencia%20de%20la%20marea%20Peninsula%20Valdes.%20720p.webm',
+                    href: '/videos/webm/16.%20Secuencia%20de%20la%20marea%20Peninsula%20Valdes.%20720p.webm',
                     type: 'video/webm'
                 },
 
                 {
-                    href: 'http://dev.librebits.info/video/mp4/16.%20Secuencia%20de%20la%20marea.%20Peninsula%20Valdes.mp4',
+                    href: '/videos/mp4/16.%20Secuencia%20de%20la%20marea.%20Peninsula%20Valdes.mp4',
                     type: 'video/mp4'
                 },
 
@@ -397,12 +398,12 @@ blueimp.Gallery([
               type: 'video/*',
               sources: [
                 {
-                    href: 'http://dev.librebits.info/video/webm/17.%20Atardecer%20720p.webm',
+                    href: '/videos/webm/17.%20Atardecer%20720p.webm',
                     type: 'video/webm'
                 },
 
                 {
-                    href: 'http://dev.librebits.info/video/mp4/17.%20Atardecer.mp4',
+                    href: '/videos/mp4/17.%20Atardecer.mp4',
                     type: 'video/mp4'
                 },
 
@@ -416,12 +417,12 @@ blueimp.Gallery([
               type: 'video/*',
               sources: [
                 {
-                    href: 'http://dev.librebits.info/video/webm/18.%20Tormenta%20en%20el%20mar%20720p.webm',
+                    href: '/videos/webm/18.%20Tormenta%20en%20el%20mar%20720p.webm',
                     type: 'video/webm'
                 },
 
                 {
-                    href: 'http://dev.librebits.info/video/mp4/18.%20Tormenta%20en%20el%20mar.mp4',
+                    href: '/videos/mp4/18.%20Tormenta%20en%20el%20mar.mp4',
                     type: 'video/mp4'
                 },
 
