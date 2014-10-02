@@ -14,8 +14,6 @@
     <link href="grid-template_files/grid.css" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
 
-<!-- tipue serch CSS -->
-    <link href="tipuesearch/tipuesearch.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -82,7 +80,7 @@
 		  <div id="content">
 
 <!-- tipue serch box form -->
-		    <form action="searchpage.php">
+		    <form action="search.php">
 		      <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
 		    </form>
 <!-- /tipue ...-->
