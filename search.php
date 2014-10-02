@@ -43,7 +43,7 @@
       body {
         padding-top: 60px;
         padding-bottom: 40px;
-        background: url(img/AAT-011_Patagonia_Puesta_de_sol-1920x.jpg);
+        background-color: #4e9258;
         background-size: cover;
         background-repeat:no-repeatdisplay: compact;
       }
