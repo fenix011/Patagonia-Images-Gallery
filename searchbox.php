@@ -12,6 +12,11 @@
 
     <!-- Custom styles for this template -->
     <link href="grid-template_files/grid.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- tipue search style --> 
+    <link href="tipuesearch/tipuesearch.css" rel="stylesheet">
+
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -76,10 +81,13 @@
 		<div class="col-md-9"></div>
 		<div class="col-md-3">
 		  <div id="content">
-		    <h2>Servicios</h2>
-		    <p> Servicios de fotografía y video simultáneos </p>
-		    <p>Una característica que destaco de mi trabajo es que produzco simultáneamente archivos de imágenes fotográficas y de televisión en el terreno, en las montañas y desiertos, desde el aire y bajo el agua, brindando así un gran espectro de posibilidades de aplicación de estas imágenes.</p> 
-		    <p>Junto a mi equipo en <a href="http://tierraviva.tv">TierraViva.tv</a> , realizamos las ediciones de video orientados a proyectos educativos y de divulgación de la Naturaleza en multiplataforma y de productos audiovisuales para museos </p>
+
+<!-- tipue serch box form -->
+		    <form action="search.php">
+		      <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
+		    </form>
+<!-- /tipue ...-->
+
 	          </div>
 		</div>
 	      </div>
@@ -95,6 +103,6 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
  
-
-    <!-- footer comp. -->
+    <footer> <!-- /container -->
 	      <?php include "components/php/footer.php"; ?>
+    </footer> <!-- /container -->
