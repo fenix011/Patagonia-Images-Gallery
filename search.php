@@ -104,13 +104,14 @@
 
   <!-- tipue serch  script -->
 
-    <script>
-      $(document).ready(function() {
-      $('#tipue_search_input').tipuesearch();
-      });
-    </script>
-
-	      <!-- here goes main-content.php comp. -->
+<script>
+    $(document).ready(function() {
+         $('#tipue_search_input').tipuesearch({
+              'mode': 'json',
+              'contentLocation': 'tipuesearch/tipuesearch_content.json'
+         });
+    });
+</script>
 
 
 
