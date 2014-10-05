@@ -14,17 +14,17 @@
     <link href="grid-template_files/grid.css" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
 
-    <!-- tipue search style -->
+    <!-- tipue search -->
 
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
-    <script src="components/tipuesearch/tipuesearch_content.js"></script>
-    <link href="components/tipuesearch/tipuesearch.css" rel="stylesheet">
-    <script src="components/tipuesearch/tipuesearch_set.js"></script>
-    <script src="components/tipuesearch/tipuesearch.js"></script>
+    <script src="tipuesearch/tipuesearch_content.js"></script>
+    <link href="tipuesearch/tipuesearch.css" rel="stylesheet">
+    <script src="tipuesearch/tipuesearch_set.js"></script>
+    <script src="tipuesearch/tipuesearch.js"></script>
 
-
+    <!-- / tipue search -->
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -87,34 +87,33 @@
 
 	      <div class="row">
 		<div class="col-md-2"></div>
-		<div class="col-md-8">
+		<div class="col-md-10">
 		  <div id="content">
-		 
-		    <!-- tipue serch  -->
-                    <form action="search.php">
-                      <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
-                    </form>
-                    <div id="tipue_search_content"></div>
-		   <!-- /tipue ...-->    
-   
+
+   <!-- tipue serch  -->
+		    <form action="search.php">
+		      <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
+		    </form>
+		    <div id="tipue_search_content"></div>
+   <!-- /tipue ...-->
+
 	          </div>
-		</div>
-		<div class="col-md-2"></div>
 		</div>
 	      </div>
 
 
+  <!-- tipue serch  script -->
+
+<script>
+    $(document).ready(function() {
+         $('#tipue_search_input').tipuesearch({
+              'mode': 'json',
+              'contentLocation': 'tipuesearch/tipuesearch_content.json'
+         });
+    });
+</script>
 
 
-	      <!-- /here goes main-content.php comp. -->
-
-	      <!-- tipue search script -->
-
-	      <script>
-		$(document).ready(function() {
-		$('#tipue_search_input').tipuesearch();
-		});
-	      </script>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

@@ -14,8 +14,8 @@
     <link href="grid-template_files/grid.css" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
 
-    <!-- tipue search style -->
-    <link href="components/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <!-- tipue search style --> 
+    <link href="tipuesearch/tipuesearch.css" rel="stylesheet">
 
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
@@ -35,7 +35,7 @@
       body {
         padding-top: 60px;
         padding-bottom: 40px;
-        background-color: #4e9258;
+        background: url(img/AAT-011_Patagonia_Puesta_de_sol-1920x.jpg);
         background-size: cover;
         background-repeat:no-repeatdisplay: compact;
       }
@@ -78,27 +78,17 @@
 	    <section class="container">
 
 	      <div class="row">
-		<div class="col-md-7"></div>
+		<div class="col-md-9"></div>
 		<div class="col-md-3">
 		  <div id="content">
-		    <h2>La divulgación de la naturaleza es mi Misión</h2>
-           <p>La Naturaleza ha sido la fuente de inspiración de artistas y científicos de todos los tiempos.</p> 
-           <p>Sin embargo, en estos dos últimos siglos hemos vivido de espaldas a la Naturaleza. Debido al formidable desarrollo de la tecnología, el crecimiento de las ciudades y el vaciamiento de los campos, nos cuesta entender que pertenecemos a ella, en una intrincada red, vital para nuestra supervivencia como especie.La Naturaleza nos alimenta, nos abriga y nos inspira. </p>
-	   <p>Podemos amar y proteger, solo aquello que conocemos.</p> 
-	   <p>Por esto, mi Misión es contribuir a la preservación de la Naturaleza y de la Patagonia, mediante la publicación  de estas imágenes ante grandes audiencias.</p>
-    <p><a class="btn" href="collections-index.php">Ir a Galerías... »</a></p>
-
-	          </div>
-		</div>
-		<div class="col-md-2">
 
 <!-- tipue serch box form -->
-                    <form action="search.php">
-                      <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
-                    </form>
+		    <form action="search.php">
+		      <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
+		    </form>
 <!-- /tipue ...-->
 
-                  </div>
+	          </div>
 		</div>
 	      </div>
 
