@@ -28,36 +28,6 @@
   "tags": "BAN imagenes imágenes",
   "loc": "http://dev.patagonia-images.com/collection-BAN.php"
 },
-{"pages": [
-
-{
-  "title": "Patagonia Amaneceres y Atardeceres",
-  "text": "Amaneceres y Atardeceres",
-  "tags": "AAT imagenes imágenes",
-  "loc": "http://dev.patagonia-images.com/collection-AAT.php"
-},
-
-{
-  "title": "Patagonia Aves Marinas",
-  "text": "Aves Marinas",
-  "tags": "AMR imagenes imágenes",
-  "loc": "http://dev.patagonia-images.com/collection-AMR.php"
-},
-
-{
-  "title": "Patagonia Ballenas y Mamíferos",
-  "text": "Ballenas y Mamíferos mamiferos",
-  "tags": "BAM imagenes imágenes",
-  "loc": "http://dev.patagonia-images.com/collection-BAM.php"
-},
-
-
-{
-  "title": "Patagonia Bosques Andinos",
-  "text": "Bosques Andinos andes",
-  "tags": "BAN imagenes imágenes",
-  "loc": "http://dev.patagonia-images.com/collection-BAN.php"
-},
 
 {
   "title": "Patagonia Caminos ",
