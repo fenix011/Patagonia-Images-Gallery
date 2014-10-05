@@ -67,21 +67,6 @@
   "loc": "http://dev.patagonia-images.com/collection-FAU.php"
 },
 
-
-{
-  "title": "Patagonia Flores y Flora ",
-  "text": "Flores y Florea",
-  "tags": "imagenes imágenes FLO ",
-  "loc": "http://dev.patagonia-images.com/collection-FLO.php"
-},
-
-{
-  "title": "Patagonia Glaciares",
-  "text": "Glaciares Perito Moreno",
-  "tags": "imagenes imágenes GLA",
-  "loc": "http://dev.patagonia-images.com/collection-GLA.php"
-},
-
 {
   "title": "Patagonia Flores y Flora ",
   "text": "Flores y Florea",
@@ -146,19 +131,6 @@
 },
 
 {
-  "title": "Patagonia Texturas y Abstractas ",
-  "text": "Texturas y Abstractas",
-  "tags": "imagenes imágenes TEX",
-  "loc": "http://dev.patagonia-images.com/collection-TEX.php"
-},
-{
-  "title": "Patagonia Pinguino de Magallanes ",
-  "text": "Pinguino de Magallanes",
-  "tags": "imagenes imágenes PIN pingüino ",
-  "loc": "http://dev.patagonia-images.com/collection-PIN.php"
-},
-
-{
   "title": "Patagonia Trekking y Deportes Outdoor",
   "text": "Trekking y Deportes Outdoor",
   "tags": "imagenes imágenes TDO",
@@ -171,7 +143,6 @@
   "tags": "imagenes imágenes TEX",
   "loc": "http://dev.patagonia-images.com/collection-TEX.php"
 },
-
 
 {
   "title": "Patagonia Videos",
