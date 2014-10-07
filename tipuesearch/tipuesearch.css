@@ -9,10 +9,9 @@ http://www.tipue.com/search
 
 #tipue_search_input
 {
-     font: 13px/1.6 'open sans', sans-serif;
+     font: 13px/1.6 "Helvetica Neue",Helvetica,Arial,sans-serif;
 	color: #333;
-	padding: 12px 12px 12px 40px;
-	width: 170px;
+	width: 100px;
 	border: 1px solid #e2e2e2;
 	border-radius: 0;
 	-moz-appearance: none;
@@ -20,7 +19,6 @@ http://www.tipue.com/search
      box-shadow: none; 
 	outline: 0;
 	margin: 0;
-	background: #fff url('img/search.png') no-repeat 15px 15px;
 }
 
 #tipue_search_content
@@ -32,17 +30,16 @@ http://www.tipue.com/search
 #tipue_search_loading
 {
      padding-top: 60px;     
-     background: #fff url('img/loader.gif') no-repeat left;
 }
 
 #tipue_search_warning_head
 {
-     font: 300 15px/1.6 'Open Sans', sans-serif;
+     font: 300 15px/1.6 "Helvetica Neue",Helvetica,Arial,sans-serif;
 	color: #555;
 }
 #tipue_search_warning
 {
-     font: 300 13px/1.6 'Open Sans', sans-serif;
+     font: 300 13px/1.6 "Helvetica Neue",Helvetica,Arial,sans-serif;
 	color: #333;
 	margin: 7px 0;
 }
@@ -58,12 +55,12 @@ http://www.tipue.com/search
 }
 #tipue_search_results_count
 {
-     font: 300 13px/1.6 'Open Sans', sans-serif;
+     font: 300 13px/1.6 "Helvetica Neue",Helvetica,Arial,sans-serif;
 	color: #333;
 }
 .tipue_search_content_title
 {
-     font: 300 25px/1.7 'Open Sans', sans-serif;
+     font: 300 25px/1.7 "Helvetica Neue",Helvetica,Arial,sans-serif;
      text-rendering: optimizelegibility;
 	margin-top: 23px;
 }
@@ -78,7 +75,7 @@ http://www.tipue.com/search
 }
 .tipue_search_content_url
 {
-     font: 300 13px/1.7 'Open Sans', sans-serif;
+     font: 300 13px/1.7 "Helvetica Neue",Helvetica,Arial,sans-serif;
      word-break: break-all;
      word-break: break-word;
      -webkit-hyphens: auto;
@@ -96,7 +93,7 @@ http://www.tipue.com/search
 }
 .tipue_search_content_text
 {
-     font: 300 15px/1.6 'Open Sans', sans-serif;
+     font: 300 15px/1.6 "Helvetica Neue",Helvetica,Arial,sans-serif;
 	color: #555;
      word-break: break-all;
      word-break: break-word;
@@ -119,7 +116,7 @@ http://www.tipue.com/search
 {
 	padding: 0;
 	margin: 0;
-     font: 12px/1 'Open Sans', sans-serif;
+     font: 12px/1 "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 #tipue_search_foot_boxes li
 {
