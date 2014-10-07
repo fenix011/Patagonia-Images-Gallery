@@ -65,7 +65,7 @@
         margin: 0 auto;
         padding: 10px;
         background-color: #f8f8f8;
-        background-color: rgba(50, 50, 50,.6);
+        background-color: rgba(50, 50, 50,.2);
 
         border: 1px solid #999;
         padding: 10px;
@@ -86,17 +86,14 @@
 	    <section class="container">
 
 	      <div class="row">
-		<div class="col-md-2"></div>
-		<div class="col-md-10">
+		<div class="col-md-1"></div>
+		<div class="col-md-9">
 		  <div id="content">
 
-   <!-- tipue serch  -->
-		    <form action="search.php">
-		      <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
-		    </form>
+   <!-- main content: tipue search results:  -->
 		    <div id="tipue_search_content"></div>
    <!-- /tipue ...-->
-
+                  <div class="col-md-2"></div>
 	          </div>
 		</div>
 	      </div>
