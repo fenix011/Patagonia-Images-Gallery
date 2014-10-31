@@ -171,9 +171,6 @@
       <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-019_Patagonia_Puesta de sol_Peninsula Valdes_Chubut.jpg' title='AAT-019_Patagonia_Puesta de sol_Peninsula Valdes_Chubut.jpg'>
         <img src='/images/collections-thumbs/AAT/AAT-019_Patagonia_Puesta de sol_Peninsula Valdes_Chubut.jpg' alt='AAT-019_Patagonia_Puesta de sol_Peninsula Valdes_Chubut.jpg'>
       </a>
-      <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-020_Patagonia_atardecer en el mar_Peninsula Valdes_Cubut.jpg' title='AAT-020_Patagonia_atardecer en el mar_Peninsula Valdes_Cubut.jpg'>
-        <img src='/images/collections-thumbs/AAT/AAT-020_Patagonia_atardecer en el mar_Peninsula Valdes_Cubut.jpg' alt='AAT-020_Patagonia_atardecer en el mar_Peninsula Valdes_Cubut.jpg'>
-      </a>
       <a href='/images/collections/AAT_Amaneceres-y-Atardeceres/AAT-021_Patagonia_Puesta de sol desde una cueva 1_Peninsula .jpg' title='AAT-021_Patagonia_Puesta de sol desde una cueva 1_Peninsula .jpg'>
         <img src='/images/collections-thumbs/AAT/AAT-021_Patagonia_Puesta de sol desde una cueva 1_Peninsula .jpg' alt='AAT-021_Patagonia_Puesta de sol desde una cueva 1_Peninsula .jpg'>
       </a>
