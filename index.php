@@ -62,7 +62,7 @@
     <!-- espacio en blanco para evitar solapamiento -->
 
     <video style="margin-top: 100px; max-width:100%; height: auto;" autoplay="autoplay" loop>
-      <source src="http://dev.librebits.info/video/webm/Un%20viaje%20por%20patagonia_480p.webm" type="video/ogg" />
+      <source src='/videos/webm/Un%20viaje%20por%20patagonia_480p.webm' type="video/ogg" />
       Your browser does not support the HTML5 video tag.
     </video>
 
