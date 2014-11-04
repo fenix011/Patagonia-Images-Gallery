@@ -3,8 +3,6 @@
 <!--- here goes meta.php -->
 <?php include "components/php/meta.php"; ?>
 
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
-
     <title>Patagonia Images |   Ciclo del Agua   </title>
 
     <!-- Bootstrap core CSS -->
@@ -115,89 +113,89 @@
 
     <div id='links'>
 
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-001_Patagonia-congelamiento temprano en un mallin de alt.jpg' title='CIC-001_Patagonia-congelamiento temprano en un mallin de altura.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-001_Patagonia-congelamiento temprano en un mallin de alt.jpg' alt='CIC-001_Patagonia-congelamiento temprano en un mallin de alt.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-001_Patagonia-congelamiento temprano en un mallin de alt.jpg' title='01_Patagonia-congelamiento temprano en un mallin de altura'>
+        <img src='/images/collections-thumbs/CIC/CIC-001_Patagonia-congelamiento temprano en un mallin de alt.jpg' alt='01_Patagonia-congelamiento temprano en un mallin de alt'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-002_Patagonia_arroyo los Huemules 1_Santa Cruz.jpg' title='CIC-002_Patagonia_arroyo los Huemules 1_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-002_Patagonia_arroyo los Huemules 1_Santa Cruz.jpg' alt='CIC-002_Patagonia_arroyo los Huemules 1_Santa Cruz.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-002_Patagonia_arroyo los Huemules 1_Santa Cruz.jpg' title='02_Patagonia_arroyo los Huemules 1_Santa Cruz'>
+        <img src='/images/collections-thumbs/CIC/CIC-002_Patagonia_arroyo los Huemules 1_Santa Cruz.jpg' alt='02_Patagonia_arroyo los Huemules 1_Santa Cruz'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-003_Patagonia_bajo el lago Steffen_Rio Negro.jpg' title='CIC-003_Patagonia_bajo el lago Steffen_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-003_Patagonia_bajo el lago Steffen_Rio Negro.jpg' alt='CIC-003_Patagonia_bajo el lago Steffen_Rio Negro.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-003_Patagonia_bajo el lago Steffen_Rio Negro.jpg' title='03_Patagonia_bajo el lago Steffen_Rio Negro'>
+        <img src='/images/collections-thumbs/CIC/CIC-003_Patagonia_bajo el lago Steffen_Rio Negro.jpg' alt='03_Patagonia_bajo el lago Steffen_Rio Negro'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-004_Patagonia_Rio Manso_Cascada de los Alerces_Rio Negro.jpg' title='CIC-004_Patagonia_Rio Manso_Cascada de los Alerces_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-004_Patagonia_Rio Manso_Cascada de los Alerces_Rio Negro.jpg' alt='CIC-004_Patagonia_Rio Manso_Cascada de los Alerces_Rio Negro.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-004_Patagonia_Rio Manso_Cascada de los Alerces_Rio Negro.jpg' title='04_Patagonia_Rio Manso_Cascada de los Alerces_Rio Negro'>
+        <img src='/images/collections-thumbs/CIC/CIC-004_Patagonia_Rio Manso_Cascada de los Alerces_Rio Negro.jpg' alt='04_Patagonia_Rio Manso_Cascada de los Alerces_Rio Negro'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-005_Patagonia_lluvia erca del glaciar Perito Moreno.jpg' title='CIC-005_Patagonia_lluvia erca del glaciar Perito Moreno_Sant.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-005_Patagonia_lluvia erca del glaciar Perito Moreno_Sant.jpg' alt='CIC-005_Patagonia_lluvia erca del glaciar Perito Moreno_Sant.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-005_Patagonia_lluvia erca del glaciar Perito Moreno.jpg' title='05_Patagonia_lluvia erca del glaciar Perito Moreno_Sant'>
+        <img src='/images/collections-thumbs/CIC/CIC-005_Patagonia_lluvia erca del glaciar Perito Moreno_Sant.jpg' alt='05_Patagonia_lluvia erca del glaciar Perito Moreno_Sant'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-006_Patagonia_chorrillos tipicos del bosque andino.jpg' title='CIC-006_Patagonia_chorrillos tipicos del bosque andino.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-006_Patagonia_chorrillos tipicos del bosque andino.jpg' alt='CIC-006_Patagonia_chorrillos tipicos del bosque andino.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-006_Patagonia_chorrillos tipicos del bosque andino.jpg' title='06_Patagonia_chorrillos tipicos del bosque andino'>
+        <img src='/images/collections-thumbs/CIC/CIC-006_Patagonia_chorrillos tipicos del bosque andino.jpg' alt='06_Patagonia_chorrillos tipicos del bosque andino'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-007_Patagonia_los deshielos en la primavera_area refugio.jpg' title='CIC-007_Patagonia_los deshielos en la primavera_area refugio.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-007_Patagonia_los deshielos en la primavera_area refugio.jpg' alt='CIC-007_Patagonia_los deshielos en la primavera_area refugio.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-007_Patagonia_los deshielos en la primavera_area refugio.jpg' title='07_Patagonia_los deshielos en la primavera_area refugio'>
+        <img src='/images/collections-thumbs/CIC/CIC-007_Patagonia_los deshielos en la primavera_area refugio.jpg' alt='07_Patagonia_los deshielos en la primavera_area refugio'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-008_Patagonia_la nieve llega a los Andes.jpg' title='CIC-008_Patagonia_la nieve llega a los Andes.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-008_Patagonia_la nieve llega a los Andes.jpg' alt='CIC-008_Patagonia_la nieve llega a los Andes.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-008_Patagonia_la nieve llega a los Andes.jpg' title='08_Patagonia_la nieve llega a los Andes'>
+        <img src='/images/collections-thumbs/CIC/CIC-008_Patagonia_la nieve llega a los Andes.jpg' alt='08_Patagonia_la nieve llega a los Andes'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-009_Patagonia_arroyo los Huemules 2_Santa Cruz.jpg' title='CIC-009_Patagonia_arroyo los Huemules 2_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-009_Patagonia_arroyo los Huemules 2_Santa Cruz.jpg' alt='CIC-009_Patagonia_arroyo los Huemules 2_Santa Cruz.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-009_Patagonia_arroyo los Huemules 2_Santa Cruz.jpg' title='09_Patagonia_arroyo los Huemules 2_Santa Cruz'>
+        <img src='/images/collections-thumbs/CIC/CIC-009_Patagonia_arroyo los Huemules 2_Santa Cruz.jpg' alt='09_Patagonia_arroyo los Huemules 2_Santa Cruz'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-010_Patagonia_nieve depositada en el filo de la montaña.jpg' title='CIC-010_Patagonia_nieve depositada en el filo de la montaña.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-010_Patagonia_nieve depositada en el filo de la montaña.jpg' alt='CIC-010_Patagonia_nieve depositada en el filo de la montaña.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-010_Patagonia_nieve depositada en el filo de la montaña.jpg' title='10_Patagonia_nieve depositada en el filo de la montaña'>
+        <img src='/images/collections-thumbs/CIC/CIC-010_Patagonia_nieve depositada en el filo de la montaña.jpg' alt='10_Patagonia_nieve depositada en el filo de la montaña'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-011_Patagonia_arroyo proveniente de los deshielos en el .jpg' title='CIC-011_Patagonia_arroyo proveniente de los deshielos.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-011_Patagonia_arroyo proveniente de los deshielos en el .jpg' alt='CIC-011_Patagonia_arroyo proveniente de los deshielos en el .jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-011_Patagonia_arroyo proveniente de los deshielos en el .jpg' title='11_Patagonia_arroyo proveniente de los deshielos'>
+        <img src='/images/collections-thumbs/CIC/CIC-011_Patagonia_arroyo proveniente de los deshielos en el .jpg' alt='11_Patagonia_arroyo proveniente de los deshielos en el '>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-012_Patagonia_el mar en el Golfo Nuevo_Chubut.jpg' title='CIC-012_Patagonia_el mar en el Golfo Nuevo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-012_Patagonia_el mar en el Golfo Nuevo_Chubut.jpg' alt='CIC-012_Patagonia_el mar en el Golfo Nuevo_Chubut.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-012_Patagonia_el mar en el Golfo Nuevo_Chubut.jpg' title='12_Patagonia_el mar en el Golfo Nuevo_Chubut'>
+        <img src='/images/collections-thumbs/CIC/CIC-012_Patagonia_el mar en el Golfo Nuevo_Chubut.jpg' alt='12_Patagonia_el mar en el Golfo Nuevo_Chubut'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-013_Patagonia_la nieve llega a los Andes 2.jpg' title='CIC-013_Patagonia_la nieve llega a los Andes 2.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-013_Patagonia_la nieve llega a los Andes 2.jpg' alt='CIC-013_Patagonia_la nieve llega a los Andes 2.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-013_Patagonia_la nieve llega a los Andes 2.jpg' title='13_Patagonia_la nieve llega a los Andes 2'>
+        <img src='/images/collections-thumbs/CIC/CIC-013_Patagonia_la nieve llega a los Andes 2.jpg' alt='13_Patagonia_la nieve llega a los Andes 2'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-014_Patagonia_la pureza de un arroyo de montaña.jpg' title='CIC-014_Patagonia_la pureza de un arroyo de montaña.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-014_Patagonia_la pureza de un arroyo de montaña.jpg' alt='CIC-014_Patagonia_la pureza de un arroyo de montaña.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-014_Patagonia_la pureza de un arroyo de montaña.jpg' title='14_Patagonia_la pureza de un arroyo de montaña'>
+        <img src='/images/collections-thumbs/CIC/CIC-014_Patagonia_la pureza de un arroyo de montaña.jpg' alt='14_Patagonia_la pureza de un arroyo de montaña'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-015_Patagonia_Nevada en el arroyo_Rio Negro.jpg' title='CIC-015_Patagonia_Nevada en el arroyo_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-015_Patagonia_Nevada en el arroyo_Rio Negro.jpg' alt='CIC-015_Patagonia_Nevada en el arroyo_Rio Negro.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-015_Patagonia_Nevada en el arroyo_Rio Negro.jpg' title='15_Patagonia_Nevada en el arroyo_Rio Negro'>
+        <img src='/images/collections-thumbs/CIC/CIC-015_Patagonia_Nevada en el arroyo_Rio Negro.jpg' alt='15_Patagonia_Nevada en el arroyo_Rio Negro'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-016_Patagonia_el agua del mar pule incesantemente la gra.jpg' title='CIC-016_Patagonia_el agua del mar pule incesantemente la gra.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-016_Patagonia_el agua del mar pule incesantemente la gra.jpg' alt='CIC-016_Patagonia_el agua del mar pule incesantemente la gra.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-016_Patagonia_el agua del mar pule incesantemente la gra.jpg' title='16_Patagonia_el agua del mar pule incesantemente la gra'>
+        <img src='/images/collections-thumbs/CIC/CIC-016_Patagonia_el agua del mar pule incesantemente la gra.jpg' alt='16_Patagonia_el agua del mar pule incesantemente la gra'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-017_Patagonia-un salto de agua en medio del bosque andin.jpg' title='CIC-017_Patagonia-un salto de agua en medio del bosque andino.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-017_Patagonia-un salto de agua en medio del bosque andin.jpg' alt='CIC-017_Patagonia-un salto de agua en medio del bosque andin.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-017_Patagonia-un salto de agua en medio del bosque andin.jpg' title='17_Patagonia-un salto de agua en medio del bosque andino'>
+        <img src='/images/collections-thumbs/CIC/CIC-017_Patagonia-un salto de agua en medio del bosque andin.jpg' alt='17_Patagonia-un salto de agua en medio del bosque andin'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-018_Patagonia_Los primeros frios anuncian la llegada del.jpg' title='CIC-018_Patagonia_Los primeros frios anuncian la llegada del invierno.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-018_Patagonia_Los primeros frios anuncian la llegada del.jpg' alt='CIC-018_Patagonia_Los primeros frios anuncian la llegada del.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-018_Patagonia_Los primeros frios anuncian la llegada del.jpg' title='18_Patagonia_Los primeros frios anuncian la llegada del invierno'>
+        <img src='/images/collections-thumbs/CIC/CIC-018_Patagonia_Los primeros frios anuncian la llegada del.jpg' alt='18_Patagonia_Los primeros frios anuncian la llegada del'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-019_Patagonia-rio serpenteante entre el bosque andino.jpg' title='CIC-019_Patagonia-rio serpenteante entre el bosque andino.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-019_Patagonia-rio serpenteante entre el bosque andino.jpg' alt='CIC-019_Patagonia-rio serpenteante entre el bosque andino.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-019_Patagonia-rio serpenteante entre el bosque andino.jpg' title='19_Patagonia-rio serpenteante entre el bosque andino'>
+        <img src='/images/collections-thumbs/CIC/CIC-019_Patagonia-rio serpenteante entre el bosque andino.jpg' alt='19_Patagonia-rio serpenteante entre el bosque andino'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-020_Patagonia_Cañas Coligue estan siempre asociadas a gr.jpg' title='CIC-020_Patagonia_Cañas Coligue estan siempre asociadas a gr.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-020_Patagonia_Cañas Coligue estan siempre asociadas a gr.jpg' alt='CIC-020_Patagonia_Cañas Coligue estan siempre asociadas a gr.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-020_Patagonia_Cañas Coligue estan siempre asociadas a gr.jpg' title='20_Patagonia_Cañas Coligue estan siempre asociadas a gr'>
+        <img src='/images/collections-thumbs/CIC/CIC-020_Patagonia_Cañas Coligue estan siempre asociadas a gr.jpg' alt='20_Patagonia_Cañas Coligue estan siempre asociadas a gr'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-021_Patagonia-pequeñas olas en el lago Nahuel Huapi.jpg' title='CIC-021_Patagonia-pequeñas olas en el lago Nahuel Huapi.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-021_Patagonia-pequeñas olas en el lago Nahuel Huapi.jpg' alt='CIC-021_Patagonia-pequeñas olas en el lago Nahuel Huapi.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-021_Patagonia-pequeñas olas en el lago Nahuel Huapi.jpg' title='21_Patagonia-pequeñas olas en el lago Nahuel Huapi'>
+        <img src='/images/collections-thumbs/CIC/CIC-021_Patagonia-pequeñas olas en el lago Nahuel Huapi.jpg' alt='21_Patagonia-pequeñas olas en el lago Nahuel Huapi'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-022_Patagonia_pequeño arroyo de montaña.jpg' title='CIC-022_Patagonia_pequeño arroyo de montaña.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-022_Patagonia_pequeño arroyo de montaña.jpg' alt='CIC-022_Patagonia_pequeño arroyo de montaña.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-022_Patagonia_pequeño arroyo de montaña.jpg' title='22_Patagonia_pequeño arroyo de montaña'>
+        <img src='/images/collections-thumbs/CIC/CIC-022_Patagonia_pequeño arroyo de montaña.jpg' alt='22_Patagonia_pequeño arroyo de montaña'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-023_Patagonia_el invierno se ha instalado y la nieve cub.jpg' title='CIC-023_Patagonia_el invierno se ha instalado.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-023_Patagonia_el invierno se ha instalado y la nieve cub.jpg' alt='CIC-023_Patagonia_el invierno se ha instalado y la nieve cub.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-023_Patagonia_el invierno se ha instalado y la nieve cub.jpg' title='23_Patagonia_el invierno se ha instalado'>
+        <img src='/images/collections-thumbs/CIC/CIC-023_Patagonia_el invierno se ha instalado y la nieve cub.jpg' alt='23_Patagonia_el invierno se ha instalado y la nieve cub'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-024_Patagonia_el rio Chubut atravesando la Estepa .jpg' title='CIC-024_Patagonia_el rio Chubut atravesando la Estepa .jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-024_Patagonia_el rio Chubut atravesando la Estepa .jpg' alt='CIC-024_Patagonia_el rio Chubut atravesando la Estepa .jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-024_Patagonia_el rio Chubut atravesando la Estepa .jpg' title='24_Patagonia_el rio Chubut atravesando la Estepa '>
+        <img src='/images/collections-thumbs/CIC/CIC-024_Patagonia_el rio Chubut atravesando la Estepa .jpg' alt='24_Patagonia_el rio Chubut atravesando la Estepa '>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-025_Patagonia_El rio Manso superior proviene de los desh.jpg' title='CIC-025_Patagonia_El rio Manso superior proviene de los desh.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-025_Patagonia_El rio Manso superior proviene de los desh.jpg' alt='CIC-025_Patagonia_El rio Manso superior proviene de los desh.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-025_Patagonia_El rio Manso superior proviene de los desh.jpg' title='25_Patagonia_El rio Manso superior proviene de los desh'>
+        <img src='/images/collections-thumbs/CIC/CIC-025_Patagonia_El rio Manso superior proviene de los desh.jpg' alt='25_Patagonia_El rio Manso superior proviene de los desh'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-026_Patagonia_lluvia en Lago Puelo.jpg' title='CIC-026_Patagonia_lluvia en Lago Puelo.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-026_Patagonia_lluvia en Lago Puelo.jpg' alt='CIC-026_Patagonia_lluvia en Lago Puelo.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-026_Patagonia_lluvia en Lago Puelo.jpg' title='26_Patagonia_lluvia en Lago Puelo'>
+        <img src='/images/collections-thumbs/CIC/CIC-026_Patagonia_lluvia en Lago Puelo.jpg' alt='26_Patagonia_lluvia en Lago Puelo'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-027_Patagonia_en el interior del arroyo.jpg' title='CIC-027_Patagonia_en el interior del arroyo.jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-027_Patagonia_en el interior del arroyo.jpg' alt='CIC-027_Patagonia_en el interior del arroyo.jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-027_Patagonia_en el interior del arroyo.jpg' title='27_Patagonia_en el interior del arroyo'>
+        <img src='/images/collections-thumbs/CIC/CIC-027_Patagonia_en el interior del arroyo.jpg' alt='27_Patagonia_en el interior del arroyo'>
       </a>
-      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-028_Patagonia_grandes heladas a fines del otoño .jpg' title='CIC-028_Patagonia_grandes heladas a fines del otoño .jpg'>
-        <img src='/images/collections-thumbs/CIC/CIC-028_Patagonia_grandes heladas a fines del otoño .jpg' alt='CIC-028_Patagonia_grandes heladas a fines del otoño .jpg'>
+      <a href='/images/collections/CIC_Ciclo-del-agua/CIC-028_Patagonia_grandes heladas a fines del otoño .jpg' title='28_Patagonia_grandes heladas a fines del otoño '>
+        <img src='/images/collections-thumbs/CIC/CIC-028_Patagonia_grandes heladas a fines del otoño .jpg' alt='28_Patagonia_grandes heladas a fines del otoño '>
       </a>
   </div>
 
