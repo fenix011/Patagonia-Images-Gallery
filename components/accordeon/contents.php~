@@ -4,50 +4,15 @@
 	<meta charset="UTF-8" />
 	<title>Patagonia  Images | Listado de Contenidos</title>
 	<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0" />
-
-    <!-- Bootstrap core CSS -->
-    <link href="grid-template_files/bootstrap.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <link href="grid-template_files/grid.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
-
-    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <script src="grid-template_files/ie-emulation-modes-warning.js"></script>
-
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="grid-template_files/ie10-viewport-bug-workaround.js"></script>
-
-
-<!-- accordeon style -->
-
-	<link rel="stylesheet/less" href="components/accordeon/extensions/css/style.less" />
-	<script src="components/accordeon/extensions/js/ext/less-1.3.3.min.js"></script>
-	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="components/accordeon/components/accordeon/extensions/css/compiled.css" /><![endif]-->
-	<script src="components/accordeon/extensions/js/ext/modernizr-2.6.3.custom.js"></script>
+	<link rel="stylesheet/less" href="extensions/css/style.less" />
+	<script src="extensions/js/ext/less-1.3.3.min.js"></script>
+	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="components/accordeon/extensions/css/compiled.css" /><![endif]-->
+	<script src="extensions/js/ext/modernizr-2.6.3.custom.js"></script>
         <style>
         html {
           background: none repeat scroll 0 0 #4e9258;
 	  min-height: 100%;
         }
-        body {
-          max-width: 800px;
-          margin: 0px auto;
-          border-radius: 5px;
-          background:rgba(21, 23, 21, 0.1);
-	}
-        h3 small {
-        color: #444;
-        }
-        h6 {
-        color: #444;
-        }
-        
-        #header{
-	  margin-top: 60px;
-        }
-
 	</style>
 
 </head>
@@ -55,12 +20,12 @@
       <!-- navbar component -->
       <?php include "components/php/navbar.php"; ?>
 
-<!--	<h1><small>Listado de imágenes en fotografía y en video</small></h1> -->
-        <p id="header">
-	  <h3><small>Listado de imágenes en fotografía y en video</small></h3>
-          <h6>Las mismas están en formato digital y 
-algunas de ellas en formato analógico </h6>
-        </p>
+	<h1> Patagonia<small>Listado de imágenes en fotografía y en video</small></h1>
+        <h4>Las mismas están en formato digital y 
+algunas de ellas en formato analógico (*)</h4>
+	<h5>Las fotografías analógicas están digitalizadas en media resolución para su visualización, y naturalmente para poder ser utilizadas es preciso calcular el tiempo de escaneado en alta de las mismas. 
+	  algunas de ellas en formato analógico</h5>
+        <pre> </pre>
 
 	<dl class="accordion js_accordion">
         	<h3>FOTOGRAFÍAS :</h3>
@@ -796,9 +761,9 @@ algunas de ellas en formato analógico </h6>
 
 
 
-	<script src="components/accordeon/extensions/js/ext/jquery-1.9.1.min.js"></script>
-	<script src="components/accordeon/extensions/js/accordion-vertical.js"></script>
-	<script src="components/accordeon/extensions/js/accordion-horizontal.js"></script>
+	<script src="extensions/js/ext/jquery-1.9.1.min.js"></script>
+	<script src="extensions/js/accordion-vertical.js"></script>
+	<script src="extensions/js/accordion-horizontal.js"></script>
 	<script>
 	less.refresh(1);
 
@@ -811,7 +776,5 @@ algunas de ellas en formato analógico </h6>
 		});
 	});
 	</script>
-
-      <?php include "components/php/footer.php"; ?>
 </body>
 </html>
