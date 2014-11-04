@@ -181,7 +181,7 @@ blueimp.Gallery([
            <!-- Video 4  |               -->
 
           {
-            poster: 'images/poster/04_video_poster_48.png',
+            poster: 'images/posters/04_video_poster_48.png',
             title: '04. Condores en la Buitrera',
             type: 'video/*',
             sources: [
@@ -274,7 +274,7 @@ blueimp.Gallery([
           },
 
           {
-            poster: 'images/09_video_poster_58.png',
+            poster: 'images/posters/09_video_poster_58.png',
             title: '09. El Glaciar Viedma',
             type: 'video/*',
             sources: [
