@@ -3,8 +3,6 @@
 <!--- here goes meta.php -->
 <?php include "components/php/meta.php"; ?>
 
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
-
     <title>Patagonia Images |   Historia y Civilización   </title>
 
     <!-- Bootstrap core CSS -->
@@ -114,77 +112,77 @@
 <!-- ++ nuevos links ---------------------------------------->
 
     <div id='links'>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-001_Patagonia_Casa Book en colonia Suiza_Epoca fundacion.jpg' title='HIS-001_Patagonia_Casa Book en colonia Suiza_Epoca fundacion.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-001_Patagonia_Casa Book en colonia Suiza_Epoca fundacion.jpg' alt='HIS-001_Patagonia_Casa Book en colonia Suiza_Epoca fundacion.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-001_Patagonia_Casa Book en colonia Suiza_Epoca fundacion.jpg' title='01_Patagonia_Casa Book en colonia Suiza_Epoca fundacion'>
+        <img src='/images/collections-thumbs/HIS/HIS-001_Patagonia_Casa Book en colonia Suiza_Epoca fundacion.jpg' alt='01_Patagonia_Casa Book en colonia Suiza_Epoca fundacion'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-002_Patagonia_Casa de guardaparques_epoca fundacional_Ne.jpg' title='HIS-002_Patagonia_Casa de guardaparques_epoca fundacional_Ne.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-002_Patagonia_Casa de guardaparques_epoca fundacional_Ne.jpg' alt='HIS-002_Patagonia_Casa de guardaparques_epoca fundacional_Ne.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-002_Patagonia_Casa de guardaparques_epoca fundacional_Ne.jpg' title='02_Patagonia_Casa de guardaparques_epoca fundacional_Ne'>
+        <img src='/images/collections-thumbs/HIS/HIS-002_Patagonia_Casa de guardaparques_epoca fundacional_Ne.jpg' alt='02_Patagonia_Casa de guardaparques_epoca fundacional_Ne'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-003_Patagonia_el magnifico faro de Punta Delgada_Peninsu.jpg' title='HIS-003_Patagonia_el magnifico faro de Punta Delgada_Peninsu.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-003_Patagonia_el magnifico faro de Punta Delgada_Peninsu.jpg' alt='HIS-003_Patagonia_el magnifico faro de Punta Delgada_Peninsu.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-003_Patagonia_el magnifico faro de Punta Delgada_Peninsu.jpg' title='03_Patagonia_el magnifico faro de Punta Delgada_Peninsu'>
+        <img src='/images/collections-thumbs/HIS/HIS-003_Patagonia_el magnifico faro de Punta Delgada_Peninsu.jpg' alt='03_Patagonia_el magnifico faro de Punta Delgada_Peninsu'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-004_Patagonia_el magnifico faro de Punta Delgada_detalle.jpg' title='HIS-004_Patagonia_el magnifico faro de Punta Delgada_detalle.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-004_Patagonia_el magnifico faro de Punta Delgada_detalle.jpg' alt='HIS-004_Patagonia_el magnifico faro de Punta Delgada_detalle.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-004_Patagonia_el magnifico faro de Punta Delgada_detalle.jpg' title='04_Patagonia_el magnifico faro de Punta Delgada_detalle'>
+        <img src='/images/collections-thumbs/HIS/HIS-004_Patagonia_el magnifico faro de Punta Delgada_detalle.jpg' alt='04_Patagonia_el magnifico faro de Punta Delgada_detalle'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-005_Puerto Lusich_casa de epoca fundacional_lago Quillen.jpg' title='HIS-005_Puerto Lusich_casa de epoca fundacional_lago Quillen.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-005_Puerto Lusich_casa de epoca fundacional_lago Quillen.jpg' alt='HIS-005_Puerto Lusich_casa de epoca fundacional_lago Quillen.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-005_Puerto Lusich_casa de epoca fundacional_lago Quillen.jpg' title='05_Puerto Lusich_casa de epoca fundacional_lago Quillen'>
+        <img src='/images/collections-thumbs/HIS/HIS-005_Puerto Lusich_casa de epoca fundacional_lago Quillen.jpg' alt='05_Puerto Lusich_casa de epoca fundacional_lago Quillen'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-006_Patagonia_mural principal 2_Cueva de las manos del R.jpg' title='HIS-006_Patagonia_mural principal 2_Cueva de las manos del R.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-006_Patagonia_mural principal 2_Cueva de las manos del R.jpg' alt='HIS-006_Patagonia_mural principal 2_Cueva de las manos del R.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-006_Patagonia_mural principal 2_Cueva de las manos del R.jpg' title='06_Patagonia_mural principal 2_Cueva de las manos del R'>
+        <img src='/images/collections-thumbs/HIS/HIS-006_Patagonia_mural principal 2_Cueva de las manos del R.jpg' alt='06_Patagonia_mural principal 2_Cueva de las manos del R'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-007_Patagonia_antiguo Hotel Piltriquitron_epoca fundacio.jpg' title='HIS-007_Patagonia_antiguo Hotel Piltriquitron_epoca fundacio.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-007_Patagonia_antiguo Hotel Piltriquitron_epoca fundacio.jpg' alt='HIS-007_Patagonia_antiguo Hotel Piltriquitron_epoca fundacio.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-007_Patagonia_antiguo Hotel Piltriquitron_epoca fundacio.jpg' title='07_Patagonia_antiguo Hotel Piltriquitron_epoca fundacio'>
+        <img src='/images/collections-thumbs/HIS/HIS-007_Patagonia_antiguo Hotel Piltriquitron_epoca fundacio.jpg' alt='07_Patagonia_antiguo Hotel Piltriquitron_epoca fundacio'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-008_Patagonia_detalle del mural_Cueva de las manos del R.jpg' title='HIS-008_Patagonia_detalle del mural_Cueva de las manos del R.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-008_Patagonia_detalle del mural_Cueva de las manos del R.jpg' alt='HIS-008_Patagonia_detalle del mural_Cueva de las manos del R.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-008_Patagonia_detalle del mural_Cueva de las manos del R.jpg' title='08_Patagonia_detalle del mural_Cueva de las manos del R'>
+        <img src='/images/collections-thumbs/HIS/HIS-008_Patagonia_detalle del mural_Cueva de las manos del R.jpg' alt='08_Patagonia_detalle del mural_Cueva de las manos del R'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-009_Patagonia_la magnifica estancia Menelik_Santa Cruz.jpg' title='HIS-009_Patagonia_la magnifica estancia Menelik_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-009_Patagonia_la magnifica estancia Menelik_Santa Cruz.jpg' alt='HIS-009_Patagonia_la magnifica estancia Menelik_Santa Cruz.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-009_Patagonia_la magnifica estancia Menelik_Santa Cruz.jpg' title='09_Patagonia_la magnifica estancia Menelik_Santa Cruz'>
+        <img src='/images/collections-thumbs/HIS/HIS-009_Patagonia_la magnifica estancia Menelik_Santa Cruz.jpg' alt='09_Patagonia_la magnifica estancia Menelik_Santa Cruz'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-010_Patagonia_Cueva con pinturas rupestres_ea La Maria_S.jpg' title='HIS-010_Patagonia_Cueva con pinturas rupestres_ea La Maria_S.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-010_Patagonia_Cueva con pinturas rupestres_ea La Maria_S.jpg' alt='HIS-010_Patagonia_Cueva con pinturas rupestres_ea La Maria_S.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-010_Patagonia_Cueva con pinturas rupestres_ea La Maria_S.jpg' title='10_Patagonia_Cueva con pinturas rupestres_ea La Maria_S'>
+        <img src='/images/collections-thumbs/HIS/HIS-010_Patagonia_Cueva con pinturas rupestres_ea La Maria_S.jpg' alt='10_Patagonia_Cueva con pinturas rupestres_ea La Maria_S'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-011_Patagonia_Estancia la Tercera_Lago San Martin_Santa .jpg' title='HIS-011_Patagonia_Estancia la Tercera_Lago San Martin_Santa .jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-011_Patagonia_Estancia la Tercera_Lago San Martin_Santa .jpg' alt='HIS-011_Patagonia_Estancia la Tercera_Lago San Martin_Santa .jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-011_Patagonia_Estancia la Tercera_Lago San Martin_Santa .jpg' title='11_Patagonia_Estancia la Tercera_Lago San Martin_Santa '>
+        <img src='/images/collections-thumbs/HIS/HIS-011_Patagonia_Estancia la Tercera_Lago San Martin_Santa .jpg' alt='11_Patagonia_Estancia la Tercera_Lago San Martin_Santa '>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-012_Patagonia_barco de la Flota Amarilla regresando a Pu.jpg' title='HIS-012_Patagonia_barco de la Flota Amarilla regresando a Pu.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-012_Patagonia_barco de la Flota Amarilla regresando a Pu.jpg' alt='HIS-012_Patagonia_barco de la Flota Amarilla regresando a Pu.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-012_Patagonia_barco de la Flota Amarilla regresando a Pu.jpg' title='12_Patagonia_barco de la Flota Amarilla regresando a Pu'>
+        <img src='/images/collections-thumbs/HIS/HIS-012_Patagonia_barco de la Flota Amarilla regresando a Pu.jpg' alt='12_Patagonia_barco de la Flota Amarilla regresando a Pu'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-013_Patagonia_majada de ovejas_Chubut.jpg' title='HIS-013_Patagonia_majada de ovejas_Chubut.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-013_Patagonia_majada de ovejas_Chubut.jpg' alt='HIS-013_Patagonia_majada de ovejas_Chubut.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-013_Patagonia_majada de ovejas_Chubut.jpg' title='13_Patagonia_majada de ovejas_Chubut'>
+        <img src='/images/collections-thumbs/HIS/HIS-013_Patagonia_majada de ovejas_Chubut.jpg' alt='13_Patagonia_majada de ovejas_Chubut'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-014_Patagonia_estancia cerca de Punta Tombo_Chubut.jpg' title='HIS-014_Patagonia_estancia cerca de Punta Tombo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-014_Patagonia_estancia cerca de Punta Tombo_Chubut.jpg' alt='HIS-014_Patagonia_estancia cerca de Punta Tombo_Chubut.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-014_Patagonia_estancia cerca de Punta Tombo_Chubut.jpg' title='14_Patagonia_estancia cerca de Punta Tombo_Chubut'>
+        <img src='/images/collections-thumbs/HIS/HIS-014_Patagonia_estancia cerca de Punta Tombo_Chubut.jpg' alt='14_Patagonia_estancia cerca de Punta Tombo_Chubut'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-015_Patagonia_historia moderna_turismo de estancia_Penin.jpg' title='HIS-015_Patagonia_historia moderna_turismo de estancia_Penin.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-015_Patagonia_historia moderna_turismo de estancia_Penin.jpg' alt='HIS-015_Patagonia_historia moderna_turismo de estancia_Penin.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-015_Patagonia_historia moderna_turismo de estancia_Penin.jpg' title='15_Patagonia_historia moderna_turismo de estancia_Penin'>
+        <img src='/images/collections-thumbs/HIS/HIS-015_Patagonia_historia moderna_turismo de estancia_Penin.jpg' alt='15_Patagonia_historia moderna_turismo de estancia_Penin'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-016_Patagonia_historia moderna_turismo de estancia 2_Pen.jpg' title='HIS-016_Patagonia_historia moderna_turismo de estancia 2_Pen.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-016_Patagonia_historia moderna_turismo de estancia 2_Pen.jpg' alt='HIS-016_Patagonia_historia moderna_turismo de estancia 2_Pen.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-016_Patagonia_historia moderna_turismo de estancia 2_Pen.jpg' title='16_Patagonia_historia moderna_turismo de estancia 2_Pen'>
+        <img src='/images/collections-thumbs/HIS/HIS-016_Patagonia_historia moderna_turismo de estancia 2_Pen.jpg' alt='16_Patagonia_historia moderna_turismo de estancia 2_Pen'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-017_Patagonia_tipica casa de Puerto San Julian_Santa Cru.jpg' title='HIS-017_Patagonia_tipica casa de Puerto San Julian_Santa Cru.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-017_Patagonia_tipica casa de Puerto San Julian_Santa Cru.jpg' alt='HIS-017_Patagonia_tipica casa de Puerto San Julian_Santa Cru.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-017_Patagonia_tipica casa de Puerto San Julian_Santa Cru.jpg' title='17_Patagonia_tipica casa de Puerto San Julian_Santa Cru'>
+        <img src='/images/collections-thumbs/HIS/HIS-017_Patagonia_tipica casa de Puerto San Julian_Santa Cru.jpg' alt='17_Patagonia_tipica casa de Puerto San Julian_Santa Cru'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-018_Patagonia_tipico asado de cordero_plano general_Sant.jpg' title='HIS-018_Patagonia_tipico asado de cordero_plano general_Sant.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-018_Patagonia_tipico asado de cordero_plano general_Sant.jpg' alt='HIS-018_Patagonia_tipico asado de cordero_plano general_Sant.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-018_Patagonia_tipico asado de cordero_plano general_Sant.jpg' title='18_Patagonia_tipico asado de cordero_plano general_Sant'>
+        <img src='/images/collections-thumbs/HIS/HIS-018_Patagonia_tipico asado de cordero_plano general_Sant.jpg' alt='18_Patagonia_tipico asado de cordero_plano general_Sant'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-019_Patagonia_cocina a leña en  Estancia la Tercera_Sant.jpg' title='HIS-019_Patagonia_cocina a leña en  Estancia la Tercera_Sant.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-019_Patagonia_cocina a leña en  Estancia la Tercera_Sant.jpg' alt='HIS-019_Patagonia_cocina a leña en  Estancia la Tercera_Sant.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-019_Patagonia_cocina a leña en  Estancia la Tercera_Sant.jpg' title='19_Patagonia_cocina a leña en  Estancia la Tercera_Sant'>
+        <img src='/images/collections-thumbs/HIS/HIS-019_Patagonia_cocina a leña en  Estancia la Tercera_Sant.jpg' alt='19_Patagonia_cocina a leña en  Estancia la Tercera_Sant'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-020_Patagonia_asando los corderos_estancia La Tercera_Sa.jpg' title='HIS-020_Patagonia_asando los corderos_estancia La Tercera_Sa.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-020_Patagonia_asando los corderos_estancia La Tercera_Sa.jpg' alt='HIS-020_Patagonia_asando los corderos_estancia La Tercera_Sa.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-020_Patagonia_asando los corderos_estancia La Tercera_Sa.jpg' title='20_Patagonia_asando los corderos_estancia La Tercera_Sa'>
+        <img src='/images/collections-thumbs/HIS/HIS-020_Patagonia_asando los corderos_estancia La Tercera_Sa.jpg' alt='20_Patagonia_asando los corderos_estancia La Tercera_Sa'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-021_Patagonia_tractor antiguo_Pueblo Alguero Soriano_Chu.jpg' title='HIS-021_Patagonia_tractor antiguo_Pueblo Alguero Soriano_Chu.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-021_Patagonia_tractor antiguo_Pueblo Alguero Soriano_Chu.jpg' alt='HIS-021_Patagonia_tractor antiguo_Pueblo Alguero Soriano_Chu.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-021_Patagonia_tractor antiguo_Pueblo Alguero Soriano_Chu.jpg' title='21_Patagonia_tractor antiguo_Pueblo Alguero Soriano_Chu'>
+        <img src='/images/collections-thumbs/HIS/HIS-021_Patagonia_tractor antiguo_Pueblo Alguero Soriano_Chu.jpg' alt='21_Patagonia_tractor antiguo_Pueblo Alguero Soriano_Chu'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-022_Patagonia_paisano y su caballo_ea Menelik_Santa Cruz.jpg' title='HIS-022_Patagonia_paisano y su caballo_ea Menelik_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-022_Patagonia_paisano y su caballo_ea Menelik_Santa Cruz.jpg' alt='HIS-022_Patagonia_paisano y su caballo_ea Menelik_Santa Cruz.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-022_Patagonia_paisano y su caballo_ea Menelik_Santa Cruz.jpg' title='22_Patagonia_paisano y su caballo_ea Menelik_Santa Cruz'>
+        <img src='/images/collections-thumbs/HIS/HIS-022_Patagonia_paisano y su caballo_ea Menelik_Santa Cruz.jpg' alt='22_Patagonia_paisano y su caballo_ea Menelik_Santa Cruz'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-023_Patagonia_fosil de Ammonite_ea Menelik_Santa Cruz.jpg' title='HIS-023_Patagonia_fosil de Ammonite_ea Menelik_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-023_Patagonia_fosil de Ammonite_ea Menelik_Santa Cruz.jpg' alt='HIS-023_Patagonia_fosil de Ammonite_ea Menelik_Santa Cruz.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-023_Patagonia_fosil de Ammonite_ea Menelik_Santa Cruz.jpg' title='23_Patagonia_fosil de Ammonite_ea Menelik_Santa Cruz'>
+        <img src='/images/collections-thumbs/HIS/HIS-023_Patagonia_fosil de Ammonite_ea Menelik_Santa Cruz.jpg' alt='23_Patagonia_fosil de Ammonite_ea Menelik_Santa Cruz'>
       </a>
-      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-024_Patagonia_epoca fundacional_La Trochita u old patago.jpg' title='HIS-024_Patagonia_epoca fundacional_La Trochita u old patago.jpg'>
-        <img src='/images/collections-thumbs/HIS/HIS-024_Patagonia_epoca fundacional_La Trochita u old patago.jpg' alt='HIS-024_Patagonia_epoca fundacional_La Trochita u old patago.jpg'>
+      <a href='/images/collections/HIS_Historia-y-Civilización/HIS-024_Patagonia_epoca fundacional_La Trochita u old patago.jpg' title='24_Patagonia_epoca fundacional_La Trochita u old patago'>
+        <img src='/images/collections-thumbs/HIS/HIS-024_Patagonia_epoca fundacional_La Trochita u old patago.jpg' alt='24_Patagonia_epoca fundacional_La Trochita u old patago'>
       </a>
     </div>
 
