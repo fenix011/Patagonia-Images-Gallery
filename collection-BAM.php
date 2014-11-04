@@ -111,65 +111,65 @@
 
  <!--++  here goes links --------------------->
     <div id='links'>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-001_Patagonia_Salto Ballena Franca Austral_Peninsula Val.jpg' title='01_Patagonia_Salto Ballena Franca Austral_Peninsula Valdés.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-001_Patagonia_Salto Ballena Franca Austral_Peninsula Val.jpg' alt='01_Patagonia_Salto Ballena Franca Austral_Peninsula Val.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-001_Patagonia_Salto Ballena Franca Austral_Peninsula Val.jpg' title='01_Patagonia_Salto Ballena Franca Austral_Peninsula Valdés'>
+        <img src='/images/collections-thumbs/BAM/BAM-001_Patagonia_Salto Ballena Franca Austral_Peninsula Val.jpg' alt='01_Patagonia_Salto Ballena Franca Austral_Peninsula Val'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-002_Patagonia_Cola de la ballena Franca Austral_ Peninsu.jpg' title='02_Patagonia_Cola de la ballena Franca Austral_ Peninsula_Valdés.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-002_Patagonia_Cola de la ballena Franca Austral_ Peninsu.jpg' alt='02_Patagonia_Cola de la ballena Franca Austral_ Peninsu.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-002_Patagonia_Cola de la ballena Franca Austral_ Peninsu.jpg' title='02_Patagonia_Cola de la ballena Franca Austral_ Peninsula_Valdés'>
+        <img src='/images/collections-thumbs/BAM/BAM-002_Patagonia_Cola de la ballena Franca Austral_ Peninsu.jpg' alt='02_Patagonia_Cola de la ballena Franca Austral_ Peninsu'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-003_Patagonia_soplido Ballena Franca_ Puerto Piramides.jpg' title='03_Patagonia_soplido Ballena Franca_ Puerto Piramides.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-003_Patagonia_soplido Ballena Franca_ Puerto Piramides.jpg' alt='03_Patagonia_soplido Ballena Franca_ Puerto Piramides.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-003_Patagonia_soplido Ballena Franca_ Puerto Piramides.jpg' title='03_Patagonia_soplido Ballena Franca_ Puerto Piramides'>
+        <img src='/images/collections-thumbs/BAM/BAM-003_Patagonia_soplido Ballena Franca_ Puerto Piramides.jpg' alt='03_Patagonia_soplido Ballena Franca_ Puerto Piramides'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-004_Patagonia_Salto Ballena y lancha_Puerto Piramides.jpg' title='04_Patagonia_Salto Ballena y lancha_Puerto Piramides.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-004_Patagonia_Salto Ballena y lancha_Puerto Piramides.jpg' alt='04_Patagonia_Salto Ballena y lancha_Puerto Piramides.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-004_Patagonia_Salto Ballena y lancha_Puerto Piramides.jpg' title='04_Patagonia_Salto Ballena y lancha_Puerto Piramides'>
+        <img src='/images/collections-thumbs/BAM/BAM-004_Patagonia_Salto Ballena y lancha_Puerto Piramides.jpg' alt='04_Patagonia_Salto Ballena y lancha_Puerto Piramides'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-005_Patagonia_Ballena Franca sumergiendose_Puerto Pirami.jpg' title='05_Patagonia_Ballena Franca sumergiendose_Puerto Pirámides.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-005_Patagonia_Ballena Franca sumergiendose_Puerto Pirami.jpg' alt='05_Patagonia_Ballena Franca sumergiendose_Puerto Pirami.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-005_Patagonia_Ballena Franca sumergiendose_Puerto Pirami.jpg' title='05_Patagonia_Ballena Franca sumergiendose_Puerto Pirámides'>
+        <img src='/images/collections-thumbs/BAM/BAM-005_Patagonia_Ballena Franca sumergiendose_Puerto Pirami.jpg' alt='05_Patagonia_Ballena Franca sumergiendose_Puerto Pirami'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-006_Patagonia_placenta de ballena_Puerto Piramides.jpg' title='06_Patagonia_placenta de ballena_Puerto Piramides.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-006_Patagonia_placenta de ballena_Puerto Piramides.jpg' alt='06_Patagonia_placenta de ballena_Puerto Piramides.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-006_Patagonia_placenta de ballena_Puerto Piramides.jpg' title='06_Patagonia_placenta de ballena_Puerto Piramides'>
+        <img src='/images/collections-thumbs/BAM/BAM-006_Patagonia_placenta de ballena_Puerto Piramides.jpg' alt='06_Patagonia_placenta de ballena_Puerto Piramides'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-007_Patagonia_cola Ballena Franca_Puerto Piramides.jpg' title='07_Patagonia_cola Ballena Franca_Puerto Piramides.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-007_Patagonia_cola Ballena Franca_Puerto Piramides.jpg' alt='07_Patagonia_cola Ballena Franca_Puerto Piramides.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-007_Patagonia_cola Ballena Franca_Puerto Piramides.jpg' title='07_Patagonia_cola Ballena Franca_Puerto Piramides'>
+        <img src='/images/collections-thumbs/BAM/BAM-007_Patagonia_cola Ballena Franca_Puerto Piramides.jpg' alt='07_Patagonia_cola Ballena Franca_Puerto Piramides'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-008_Patagonia_Ballena Franca y turistas_Peninsula Valdes.jpg' title='08_Patagonia_Ballena Franca y turistas_Peninsula Valdes.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-008_Patagonia_Ballena Franca y turistas_Peninsula Valdes.jpg' alt='08_Patagonia_Ballena Franca y turistas_Peninsula Valdes.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-008_Patagonia_Ballena Franca y turistas_Peninsula Valdes.jpg' title='08_Patagonia_Ballena Franca y turistas_Peninsula Valdes'>
+        <img src='/images/collections-thumbs/BAM/BAM-008_Patagonia_Ballena Franca y turistas_Peninsula Valdes.jpg' alt='08_Patagonia_Ballena Franca y turistas_Peninsula Valdes'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-009_Patagonia_Ballena Franca_Salto a contraluz_Peninsula.jpg' title='09_Patagonia_Ballena Franca_Salto a contraluz_Peninsula.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-009_Patagonia_Ballena Franca_Salto a contraluz_Peninsula.jpg' alt='09_Patagonia_Ballena Franca_Salto a contraluz_Peninsula.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-009_Patagonia_Ballena Franca_Salto a contraluz_Peninsula.jpg' title='09_Patagonia_Ballena Franca_Salto a contraluz_Peninsula'>
+        <img src='/images/collections-thumbs/BAM/BAM-009_Patagonia_Ballena Franca_Salto a contraluz_Peninsula.jpg' alt='09_Patagonia_Ballena Franca_Salto a contraluz_Peninsula'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-010_Patagonia_Elefante Marino cachorro_amamantando_Penis.jpg' title='10_Patagonia_Elefante Marino cachorro_amamantando_Peninsula_Valdés.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-010_Patagonia_Elefante Marino cachorro_amamantando_Penis.jpg' alt='10_Patagonia_Elefante Marino cachorro_amamantando_Penis.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-010_Patagonia_Elefante Marino cachorro_amamantando_Penis.jpg' title='10_Patagonia_Elefante Marino cachorro_amamantando_Peninsula_Valdés'>
+        <img src='/images/collections-thumbs/BAM/BAM-010_Patagonia_Elefante Marino cachorro_amamantando_Penis.jpg' alt='10_Patagonia_Elefante Marino cachorro_amamantando_Penis'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-011_Patagonia_Orca respirando_Pensinsula Valdes .jpg' title='11_Patagonia_Orca respirando_Pensinsula Valdes .jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-011_Patagonia_Orca respirando_Pensinsula Valdes .jpg' alt='11_Patagonia_Orca respirando_Pensinsula Valdes .jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-011_Patagonia_Orca respirando_Pensinsula Valdes .jpg' title='11_Patagonia_Orca respirando_Pensinsula Valdes '>
+        <img src='/images/collections-thumbs/BAM/BAM-011_Patagonia_Orca respirando_Pensinsula Valdes .jpg' alt='11_Patagonia_Orca respirando_Pensinsula Valdes '>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-012_Patagonia_Orcas y lobos marinos_Peninsula Valdes.jpg' title='12_Patagonia_Orcas y lobos marinos_Peninsula Valdes.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-012_Patagonia_Orcas y lobos marinos_Peninsula Valdes.jpg' alt='12_Patagonia_Orcas y lobos marinos_Peninsula Valdes.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-012_Patagonia_Orcas y lobos marinos_Peninsula Valdes.jpg' title='12_Patagonia_Orcas y lobos marinos_Peninsula Valdes'>
+        <img src='/images/collections-thumbs/BAM/BAM-012_Patagonia_Orcas y lobos marinos_Peninsula Valdes.jpg' alt='12_Patagonia_Orcas y lobos marinos_Peninsula Valdes'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-013_Patagonia_Orcas en Caleta Valdes_Peninsula Valdes.jpg' title='13_Patagonia_Orcas en Caleta Valdes_Peninsula Valdes.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-013_Patagonia_Orcas en Caleta Valdes_Peninsula Valdes.jpg' alt='13_Patagonia_Orcas en Caleta Valdes_Peninsula Valdes.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-013_Patagonia_Orcas en Caleta Valdes_Peninsula Valdes.jpg' title='13_Patagonia_Orcas en Caleta Valdes_Peninsula Valdes'>
+        <img src='/images/collections-thumbs/BAM/BAM-013_Patagonia_Orcas en Caleta Valdes_Peninsula Valdes.jpg' alt='13_Patagonia_Orcas en Caleta Valdes_Peninsula Valdes'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-015_Patagonia-Elefantes marinos en la playa_Punta Delgad.jpg' title='15_Patagonia-Elefantes marinos en la playa_Punta Delgada.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-015_Patagonia-Elefantes marinos en la playa_Punta Delgad.jpg' alt='15_Patagonia-Elefantes marinos en la playa_Punta Delgad.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-015_Patagonia-Elefantes marinos en la playa_Punta Delgad.jpg' title='15_Patagonia-Elefantes marinos en la playa_Punta Delgada'>
+        <img src='/images/collections-thumbs/BAM/BAM-015_Patagonia-Elefantes marinos en la playa_Punta Delgad.jpg' alt='15_Patagonia-Elefantes marinos en la playa_Punta Delgad'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-016_Patagonia_Elefantes marinos juveniles_Punta Delgada.jpg' title='16_Patagonia_Elefantes marinos juveniles_Punta Delgada.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-016_Patagonia_Elefantes marinos juveniles_Punta Delgada.jpg' alt='16_Patagonia_Elefantes marinos juveniles_Punta Delgada.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-016_Patagonia_Elefantes marinos juveniles_Punta Delgada.jpg' title='16_Patagonia_Elefantes marinos juveniles_Punta Delgada'>
+        <img src='/images/collections-thumbs/BAM/BAM-016_Patagonia_Elefantes marinos juveniles_Punta Delgada.jpg' alt='16_Patagonia_Elefantes marinos juveniles_Punta Delgada'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-017_Patagonia_Elefante marino hembra_durmiendo_Punta Del.jpg' title='17_Patagonia_Elefante marino hembra_durmiendo_Punta Del.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-017_Patagonia_Elefante marino hembra_durmiendo_Punta Del.jpg' alt='17_Patagonia_Elefante marino hembra_durmiendo_Punta Del.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-017_Patagonia_Elefante marino hembra_durmiendo_Punta Del.jpg' title='17_Patagonia_Elefante marino hembra_durmiendo_Punta Del'>
+        <img src='/images/collections-thumbs/BAM/BAM-017_Patagonia_Elefante marino hembra_durmiendo_Punta Del.jpg' alt='17_Patagonia_Elefante marino hembra_durmiendo_Punta Del'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-018_Patagonia_Colonia de lobos marinos_Punta Loma.jpg' title='18_Patagonia_Colonia de lobos marinos_Punta Loma.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-018_Patagonia_Colonia de lobos marinos_Punta Loma.jpg' alt='18_Patagonia_Colonia de lobos marinos_Punta Loma.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-018_Patagonia_Colonia de lobos marinos_Punta Loma.jpg' title='18_Patagonia_Colonia de lobos marinos_Punta Loma'>
+        <img src='/images/collections-thumbs/BAM/BAM-018_Patagonia_Colonia de lobos marinos_Punta Loma.jpg' alt='18_Patagonia_Colonia de lobos marinos_Punta Loma'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-019_Patagonia_Tonina Overa_individuo_Puerto Rawson.jpg' title='19_Patagonia_Tonina Overa_individuo_Puerto Rawson.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-019_Patagonia_Tonina Overa_individuo_Puerto Rawson.jpg' alt='19_Patagonia_Tonina Overa_individuo_Puerto Rawson.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-019_Patagonia_Tonina Overa_individuo_Puerto Rawson.jpg' title='19_Patagonia_Tonina Overa_individuo_Puerto Rawson'>
+        <img src='/images/collections-thumbs/BAM/BAM-019_Patagonia_Tonina Overa_individuo_Puerto Rawson.jpg' alt='19_Patagonia_Tonina Overa_individuo_Puerto Rawson'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-020_Patagonia_Toninas overas-grupo_Puerto Rawson.jpg' title='20_Patagonia_Toninas overas-grupo_Puerto Rawson.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-020_Patagonia_Toninas overas-grupo_Puerto Rawson.jpg' alt='20_Patagonia_Toninas overas-grupo_Puerto Rawson.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-020_Patagonia_Toninas overas-grupo_Puerto Rawson.jpg' title='20_Patagonia_Toninas overas-grupo_Puerto Rawson'>
+        <img src='/images/collections-thumbs/BAM/BAM-020_Patagonia_Toninas overas-grupo_Puerto Rawson.jpg' alt='20_Patagonia_Toninas overas-grupo_Puerto Rawson'>
       </a>
-      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-021_Patagonia_Elefante Marino macho adulto_Peninsula Val.jpg' title='21_Patagonia_Elefante Marino macho adulto_Peninsula Valdés.jpg'>
-        <img src='/images/collections-thumbs/BAM/BAM-021_Patagonia_Elefante Marino macho adulto_Peninsula Val.jpg' alt='21_Patagonia_Elefante Marino macho adulto_Peninsula Valdés.jpg'>
+      <a href='/images/collections/BAM_Ballenas-y-Mamíferos/BAM-021_Patagonia_Elefante Marino macho adulto_Peninsula Val.jpg' title='21_Patagonia_Elefante Marino macho adulto_Peninsula Valdés'>
+        <img src='/images/collections-thumbs/BAM/BAM-021_Patagonia_Elefante Marino macho adulto_Peninsula Val.jpg' alt='21_Patagonia_Elefante Marino macho adulto_Peninsula Valdés'>
       </a>
     </div>
 

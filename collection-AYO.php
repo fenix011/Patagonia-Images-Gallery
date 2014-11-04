@@ -113,65 +113,65 @@
 
 
     <div id='links'>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO- 001_Patagonia_Arreo en el valle de Trevelin-Chubut.jpg' title='01_Patagonia_Arreo en el valle de Trevelin-Chubut.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO- 001_Patagonia_Arreo en el valle de Trevelin-Chubut.jpg' alt='01_Patagonia_Arreo en el valle de Trevelin-Chubut.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO- 001_Patagonia_Arreo en el valle de Trevelin-Chubut.jpg' title='01_Patagonia_Arreo en el valle de Trevelin-Chubut'>
+        <img src='/images/collections-thumbs/AYO/AYO- 001_Patagonia_Arreo en el valle de Trevelin-Chubut.jpg' alt='01_Patagonia_Arreo en el valle de Trevelin-Chubut'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-002_Patagonia_Bueyero, PN Lanin_Neuquen.jpg' title='02_Patagonia_Bueyero, PN Lanin_Neuquen.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-002_Patagonia_Bueyero, PN Lanin_Neuquen.jpg' alt='02_Patagonia_Bueyero, PN Lanin_Neuquen.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-002_Patagonia_Bueyero, PN Lanin_Neuquen.jpg' title='02_Patagonia_Bueyero, PN Lanin_Neuquen'>
+        <img src='/images/collections-thumbs/AYO/AYO-002_Patagonia_Bueyero, PN Lanin_Neuquen.jpg' alt='02_Patagonia_Bueyero, PN Lanin_Neuquen'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-003_Patagonia_Cabalgata en area Lago Cholila_Chubut.jpg' title='03_Patagonia_Cabalgata en area Lago Cholila_Chubut.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-003_Patagonia_Cabalgata en area Lago Cholila_Chubut.jpg' alt='03_Patagonia_Cabalgata en area Lago Cholila_Chubut.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-003_Patagonia_Cabalgata en area Lago Cholila_Chubut.jpg' title='03_Patagonia_Cabalgata en area Lago Cholila_Chubut'>
+        <img src='/images/collections-thumbs/AYO/AYO-003_Patagonia_Cabalgata en area Lago Cholila_Chubut.jpg' alt='03_Patagonia_Cabalgata en area Lago Cholila_Chubut'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-004_Patagonia_ Cosechando frambuesas_Cabaña Mico_El Bols.jpg' title='04_Patagonia_ Cosechando frambuesas_Cabaña Mico_El Bols.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-004_Patagonia_ Cosechando frambuesas_Cabaña Mico_El Bols.jpg' alt='04_Patagonia_ Cosechando frambuesas_Cabaña Mico_El Bols.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-004_Patagonia_ Cosechando frambuesas_Cabaña Mico_El Bols.jpg' title='04_Patagonia_ Cosechando frambuesas_Cabaña Mico_El Bols'>
+        <img src='/images/collections-thumbs/AYO/AYO-004_Patagonia_ Cosechando frambuesas_Cabaña Mico_El Bols.jpg' alt='04_Patagonia_ Cosechando frambuesas_Cabaña Mico_El Bols'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-005_Patagonia_Alimentos organicos_Proyecto CIESA_Golondr.jpg' title='05_Patagonia_Alimentos organicos_Proyecto CIESA_Golondr.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-005_Patagonia_Alimentos organicos_Proyecto CIESA_Golondr.jpg' alt='05_Patagonia_Alimentos organicos_Proyecto CIESA_Golondr.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-005_Patagonia_Alimentos organicos_Proyecto CIESA_Golondr.jpg' title='05_Patagonia_Alimentos organicos_Proyecto CIESA_Golondr'>
+        <img src='/images/collections-thumbs/AYO/AYO-005_Patagonia_Alimentos organicos_Proyecto CIESA_Golondr.jpg' alt='05_Patagonia_Alimentos organicos_Proyecto CIESA_Golondr'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-006_Patagonia_Cosecha de Frambuesas_Granja Humus_El Bols.jpg' title='06_Patagonia_Cosecha de Frambuesas_Granja Humus_El Bols.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-006_Patagonia_Cosecha de Frambuesas_Granja Humus_El Bols.jpg' alt='06_Patagonia_Cosecha de Frambuesas_Granja Humus_El Bols.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-006_Patagonia_Cosecha de Frambuesas_Granja Humus_El Bols.jpg' title='06_Patagonia_Cosecha de Frambuesas_Granja Humus_El Bols'>
+        <img src='/images/collections-thumbs/AYO/AYO-006_Patagonia_Cosecha de Frambuesas_Granja Humus_El Bols.jpg' alt='06_Patagonia_Cosecha de Frambuesas_Granja Humus_El Bols'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-007_Patagonia_Cosecha de frutillas_Cbaña Mico_El Bolson.jpg' title='07_Patagonia_Cosecha de frutillas_Cbaña Mico_El Bolson.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-007_Patagonia_Cosecha de frutillas_Cbaña Mico_El Bolson.jpg' alt='07_Patagonia_Cosecha de frutillas_Cbaña Mico_El Bolson.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-007_Patagonia_Cosecha de frutillas_Cbaña Mico_El Bolson.jpg' title='07_Patagonia_Cosecha de frutillas_Cbaña Mico_El Bolson'>
+        <img src='/images/collections-thumbs/AYO/AYO-007_Patagonia_Cosecha de frutillas_Cbaña Mico_El Bolson.jpg' alt='07_Patagonia_Cosecha de frutillas_Cbaña Mico_El Bolson'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-008_Patagonia_Cosecha del lupulo_El Bolson.jpg' title='08_Patagonia_Cosecha del lupulo_El Bolson.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-008_Patagonia_Cosecha del lupulo_El Bolson.jpg' alt='08_Patagonia_Cosecha del lupulo_El Bolson.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-008_Patagonia_Cosecha del lupulo_El Bolson.jpg' title='08_Patagonia_Cosecha del lupulo_El Bolson'>
+        <img src='/images/collections-thumbs/AYO/AYO-008_Patagonia_Cosecha del lupulo_El Bolson.jpg' alt='08_Patagonia_Cosecha del lupulo_El Bolson'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-009_Patagonia_Chacra lupulera_El Bolson.jpg' title='09_Patagonia_Chacra lupulera_El Bolson.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-009_Patagonia_Chacra lupulera_El Bolson.jpg' alt='09_Patagonia_Chacra lupulera_El Bolson.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-009_Patagonia_Chacra lupulera_El Bolson.jpg' title='09_Patagonia_Chacra lupulera_El Bolson'>
+        <img src='/images/collections-thumbs/AYO/AYO-009_Patagonia_Chacra lupulera_El Bolson.jpg' alt='09_Patagonia_Chacra lupulera_El Bolson'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-010_Patagonia_Cosechando lupulo 2_El Bolson.jpg' title='10_Patagonia_Cosechando lupulo 2_El Bolson.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-010_Patagonia_Cosechando lupulo 2_El Bolson.jpg' alt='10_Patagonia_Cosechando lupulo 2_El Bolson.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-010_Patagonia_Cosechando lupulo 2_El Bolson.jpg' title='10_Patagonia_Cosechando lupulo 2_El Bolson'>
+        <img src='/images/collections-thumbs/AYO/AYO-010_Patagonia_Cosechando lupulo 2_El Bolson.jpg' alt='10_Patagonia_Cosechando lupulo 2_El Bolson'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-011_Patagonia_Proyecto CIESA-Golondrinas_Chubut.jpg' title='11_Patagonia_Proyecto CIESA-Golondrinas_Chubut.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-011_Patagonia_Proyecto CIESA-Golondrinas_Chubut.jpg' alt='11_Patagonia_Proyecto CIESA-Golondrinas_Chubut.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-011_Patagonia_Proyecto CIESA-Golondrinas_Chubut.jpg' title='11_Patagonia_Proyecto CIESA-Golondrinas_Chubut'>
+        <img src='/images/collections-thumbs/AYO/AYO-011_Patagonia_Proyecto CIESA-Golondrinas_Chubut.jpg' alt='11_Patagonia_Proyecto CIESA-Golondrinas_Chubut'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-012_Patagonia_Cerezas de Los Antiguos-Santa Cruz.jpg' title='12_Patagonia_Cerezas de Los Antiguos-Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-012_Patagonia_Cerezas de Los Antiguos-Santa Cruz.jpg' alt='12_Patagonia_Cerezas de Los Antiguos-Santa Cruz.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-012_Patagonia_Cerezas de Los Antiguos-Santa Cruz.jpg' title='12_Patagonia_Cerezas de Los Antiguos-Santa Cruz'>
+        <img src='/images/collections-thumbs/AYO/AYO-012_Patagonia_Cerezas de Los Antiguos-Santa Cruz.jpg' alt='12_Patagonia_Cerezas de Los Antiguos-Santa Cruz'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-013_Patagonia_Feria regional El Bolson_Joyeros artesanos.jpg' title='13_Patagonia_Feria regional El Bolson_Joyeros artesanos.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-013_Patagonia_Feria regional El Bolson_Joyeros artesanos.jpg' alt='13_Patagonia_Feria regional El Bolson_Joyeros artesanos.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-013_Patagonia_Feria regional El Bolson_Joyeros artesanos.jpg' title='13_Patagonia_Feria regional El Bolson_Joyeros artesanos'>
+        <img src='/images/collections-thumbs/AYO/AYO-013_Patagonia_Feria regional El Bolson_Joyeros artesanos.jpg' alt='13_Patagonia_Feria regional El Bolson_Joyeros artesanos'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-014_Patagonia_Joyes El Bolson_feria_Rio negro.jpg' title='14_Patagonia_Joyes El Bolson_feria_Rio negro.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-014_Patagonia_Joyes El Bolson_feria_Rio negro.jpg' alt='14_Patagonia_Joyes El Bolson_feria_Rio negro.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-014_Patagonia_Joyes El Bolson_feria_Rio negro.jpg' title='14_Patagonia_Joyes El Bolson_feria_Rio negro'>
+        <img src='/images/collections-thumbs/AYO/AYO-014_Patagonia_Joyes El Bolson_feria_Rio negro.jpg' alt='14_Patagonia_Joyes El Bolson_feria_Rio negro'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-015_Patagonia_flor de Lupulo_El Bolson.jpg' title='15_Patagonia_flor de Lupulo_El Bolson.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-015_Patagonia_flor de Lupulo_El Bolson.jpg' alt='15_Patagonia_flor de Lupulo_El Bolson.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-015_Patagonia_flor de Lupulo_El Bolson.jpg' title='15_Patagonia_flor de Lupulo_El Bolson'>
+        <img src='/images/collections-thumbs/AYO/AYO-015_Patagonia_flor de Lupulo_El Bolson.jpg' alt='15_Patagonia_flor de Lupulo_El Bolson'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-016_Patagonia_Vendimia_El Hoyo_Bodegas Weinert_Chubut.jpg' title='16_Patagonia_Vendimia_El Hoyo_Bodegas Weinert_Chubut.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-016_Patagonia_Vendimia_El Hoyo_Bodegas Weinert_Chubut.jpg' alt='16_Patagonia_Vendimia_El Hoyo_Bodegas Weinert_Chubut.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-016_Patagonia_Vendimia_El Hoyo_Bodegas Weinert_Chubut.jpg' title='16_Patagonia_Vendimia_El Hoyo_Bodegas Weinert_Chubut'>
+        <img src='/images/collections-thumbs/AYO/AYO-016_Patagonia_Vendimia_El Hoyo_Bodegas Weinert_Chubut.jpg' alt='16_Patagonia_Vendimia_El Hoyo_Bodegas Weinert_Chubut'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-017_Patagonia_Procesamiento de Frambuesas congeladas_ Gr.jpg' title='17_Patagonia_Procesamiento de Frambuesas congeladas_ Gr.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-017_Patagonia_Procesamiento de Frambuesas congeladas_ Gr.jpg' alt='17_Patagonia_Procesamiento de Frambuesas congeladas_ Gr.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-017_Patagonia_Procesamiento de Frambuesas congeladas_ Gr.jpg' title='17_Patagonia_Procesamiento de Frambuesas congeladas_ Gr'>
+        <img src='/images/collections-thumbs/AYO/AYO-017_Patagonia_Procesamiento de Frambuesas congeladas_ Gr.jpg' alt='17_Patagonia_Procesamiento de Frambuesas congeladas_ Gr'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-018_Patagonia_Fabricantes de chocolate artesanal_Esquel_.jpg' title='18_Patagonia_Fabricantes de chocolate artesanal_Esquel_.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-018_Patagonia_Fabricantes de chocolate artesanal_Esquel_.jpg' alt='18_Patagonia_Fabricantes de chocolate artesanal_Esquel_.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-018_Patagonia_Fabricantes de chocolate artesanal_Esquel_.jpg' title='18_Patagonia_Fabricantes de chocolate artesanal_Esquel_'>
+        <img src='/images/collections-thumbs/AYO/AYO-018_Patagonia_Fabricantes de chocolate artesanal_Esquel_.jpg' alt='18_Patagonia_Fabricantes de chocolate artesanal_Esquel_'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-019_Patagonia_Labor de artesano de madera_El Bolson.jpg' title='19_Patagonia_Labor de artesano de madera_El Bolson.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-019_Patagonia_Labor de artesano de madera_El Bolson.jpg' alt='19_Patagonia_Labor de artesano de madera_El Bolson.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-019_Patagonia_Labor de artesano de madera_El Bolson.jpg' title='19_Patagonia_Labor de artesano de madera_El Bolson'>
+        <img src='/images/collections-thumbs/AYO/AYO-019_Patagonia_Labor de artesano de madera_El Bolson.jpg' alt='19_Patagonia_Labor de artesano de madera_El Bolson'>
       </a>
-      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-020_Patagonia_Labor de artesano de madera 2_El Bolson.jpg' title='20_Patagonia_Labor de artesano de madera 2_El Bolson.jpg'>
-        <img src='/images/collections-thumbs/AYO/AYO-020_Patagonia_Labor de artesano de madera 2_El Bolson.jpg' alt='20_Patagonia_Labor de artesano de madera 2_El Bolson.jpg'>
+      <a href='/images/collections/AYO_Artesanos-y-oficios/AYO-020_Patagonia_Labor de artesano de madera 2_El Bolson.jpg' title='20_Patagonia_Labor de artesano de madera 2_El Bolson'>
+        <img src='/images/collections-thumbs/AYO/AYO-020_Patagonia_Labor de artesano de madera 2_El Bolson.jpg' alt='20_Patagonia_Labor de artesano de madera 2_El Bolson'>
       </a>
     </div>
 
