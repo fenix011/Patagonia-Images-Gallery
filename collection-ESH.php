@@ -3,8 +3,6 @@
 <!--- here goes meta.php -->
 <?php include "components/php/meta.php"; ?>
 
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
-
     <title>Patagonia Images |   Estepas y Humedales   </title>
 
     <!-- Bootstrap core CSS -->
@@ -114,65 +112,65 @@
 <!-- ++ new links ! ----------------------------------------->
 
     <div id='links'>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-001_Patagonia_El Anfiteatro del rio Limay_Invierno_Rio N.jpg' title='ESH-001_Patagonia_El Anfiteatro del rio Limay_Invierno_Rio N.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-001_Patagonia_El Anfiteatro del rio Limay_Invierno_Rio N.jpg' alt='ESH-001_Patagonia_El Anfiteatro del rio Limay_Invierno_Rio N.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-001_Patagonia_El Anfiteatro del rio Limay_Invierno_Rio N.jpg' title='01_Patagonia_El Anfiteatro del rio Limay_Invierno_Rio N'>
+        <img src='/images/collections-thumbs/ESH/ESH-001_Patagonia_El Anfiteatro del rio Limay_Invierno_Rio N.jpg' alt='01_Patagonia_El Anfiteatro del rio Limay_Invierno_Rio N'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-002_Patagonia_Rio Chubut en Los Altares_Chubut.jpg' title='ESH-002_Patagonia_Rio Chubut en Los Altares_Chubut.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-002_Patagonia_Rio Chubut en Los Altares_Chubut.jpg' alt='ESH-002_Patagonia_Rio Chubut en Los Altares_Chubut.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-002_Patagonia_Rio Chubut en Los Altares_Chubut.jpg' title='02_Patagonia_Rio Chubut en Los Altares_Chubut'>
+        <img src='/images/collections-thumbs/ESH/ESH-002_Patagonia_Rio Chubut en Los Altares_Chubut.jpg' alt='02_Patagonia_Rio Chubut en Los Altares_Chubut'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-003_Patagonia_La curva del Limay en otoño_Rio Negro.jpg' title='ESH-003_Patagonia_La curva del Limay en otoño_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-003_Patagonia_La curva del Limay en otoño_Rio Negro.jpg' alt='ESH-003_Patagonia_La curva del Limay en otoño_Rio Negro.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-003_Patagonia_La curva del Limay en otoño_Rio Negro.jpg' title='03_Patagonia_La curva del Limay en otoño_Rio Negro'>
+        <img src='/images/collections-thumbs/ESH/ESH-003_Patagonia_La curva del Limay en otoño_Rio Negro.jpg' alt='03_Patagonia_La curva del Limay en otoño_Rio Negro'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-004_Patagonia_Amancays del Desierto_Valle del Rio Pintur.jpg' title='ESH-004_Patagonia_Amancays del Desierto_Valle del Rio Pintur.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-004_Patagonia_Amancays del Desierto_Valle del Rio Pintur.jpg' alt='ESH-004_Patagonia_Amancays del Desierto_Valle del Rio Pintur.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-004_Patagonia_Amancays del Desierto_Valle del Rio Pintur.jpg' title='04_Patagonia_Amancays del Desierto_Valle del Rio Pintur'>
+        <img src='/images/collections-thumbs/ESH/ESH-004_Patagonia_Amancays del Desierto_Valle del Rio Pintur.jpg' alt='04_Patagonia_Amancays del Desierto_Valle del Rio Pintur'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-005_Patagonia_Valle del rio Pinturas_Santa Cruz.jpg' title='ESH-005_Patagonia_Valle del rio Pinturas_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-005_Patagonia_Valle del rio Pinturas_Santa Cruz.jpg' alt='ESH-005_Patagonia_Valle del rio Pinturas_Santa Cruz.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-005_Patagonia_Valle del rio Pinturas_Santa Cruz.jpg' title='05_Patagonia_Valle del rio Pinturas_Santa Cruz'>
+        <img src='/images/collections-thumbs/ESH/ESH-005_Patagonia_Valle del rio Pinturas_Santa Cruz.jpg' alt='05_Patagonia_Valle del rio Pinturas_Santa Cruz'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-006_Patagonia_ca Curva del Limay 2_Otoño_Rio Negro.jpg' title='ESH-006_Patagonia_ca Curva del Limay 2_Otoño_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-006_Patagonia_ca Curva del Limay 2_Otoño_Rio Negro.jpg' alt='ESH-006_Patagonia_ca Curva del Limay 2_Otoño_Rio Negro.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-006_Patagonia_ca Curva del Limay 2_Otoño_Rio Negro.jpg' title='06_Patagonia_ca Curva del Limay 2_Otoño_Rio Negro'>
+        <img src='/images/collections-thumbs/ESH/ESH-006_Patagonia_ca Curva del Limay 2_Otoño_Rio Negro.jpg' alt='06_Patagonia_ca Curva del Limay 2_Otoño_Rio Negro'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-007_Patagonia_la Estepa vista desde la Ruta 40_Santa Cru.jpg' title='ESH-007_Patagonia_la Estepa vista desde la Ruta 40_Santa Cru.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-007_Patagonia_la Estepa vista desde la Ruta 40_Santa Cru.jpg' alt='ESH-007_Patagonia_la Estepa vista desde la Ruta 40_Santa Cru.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-007_Patagonia_la Estepa vista desde la Ruta 40_Santa Cru.jpg' title='07_Patagonia_la Estepa vista desde la Ruta 40_Santa Cru'>
+        <img src='/images/collections-thumbs/ESH/ESH-007_Patagonia_la Estepa vista desde la Ruta 40_Santa Cru.jpg' alt='07_Patagonia_la Estepa vista desde la Ruta 40_Santa Cru'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-008_Patagonia_la estepa y el lago Argentino_Santa Cruz.jpg' title='ESH-008_Patagonia_la estepa y el lago Argentino_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-008_Patagonia_la estepa y el lago Argentino_Santa Cruz.jpg' alt='ESH-008_Patagonia_la estepa y el lago Argentino_Santa Cruz.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-008_Patagonia_la estepa y el lago Argentino_Santa Cruz.jpg' title='08_Patagonia_la estepa y el lago Argentino_Santa Cruz'>
+        <img src='/images/collections-thumbs/ESH/ESH-008_Patagonia_la estepa y el lago Argentino_Santa Cruz.jpg' alt='08_Patagonia_la estepa y el lago Argentino_Santa Cruz'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-009_Patagonia_lluvia en la estepa 2_ arcoiris.jpg' title='ESH-009_Patagonia_lluvia en la estepa 2_ arcoiris.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-009_Patagonia_lluvia en la estepa 2_ arcoiris.jpg' alt='ESH-009_Patagonia_lluvia en la estepa 2_ arcoiris.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-009_Patagonia_lluvia en la estepa 2_ arcoiris.jpg' title='09_Patagonia_lluvia en la estepa 2_ arcoiris'>
+        <img src='/images/collections-thumbs/ESH/ESH-009_Patagonia_lluvia en la estepa 2_ arcoiris.jpg' alt='09_Patagonia_lluvia en la estepa 2_ arcoiris'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-010_Patagonia_la Estepa infinita.jpg' title='ESH-010_Patagonia_la Estepa infinita.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-010_Patagonia_la Estepa infinita.jpg' alt='ESH-010_Patagonia_la Estepa infinita.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-010_Patagonia_la Estepa infinita.jpg' title='10_Patagonia_la Estepa infinita'>
+        <img src='/images/collections-thumbs/ESH/ESH-010_Patagonia_la Estepa infinita.jpg' alt='10_Patagonia_la Estepa infinita'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-011_Patagonia_.Paisaje de la Estepa llegando a Esquel_Ch.jpg' title='ESH-011_Patagonia_.Paisaje de la Estepa llegando a Esquel_Ch.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-011_Patagonia_.Paisaje de la Estepa llegando a Esquel_Ch.jpg' alt='ESH-011_Patagonia_.Paisaje de la Estepa llegando a Esquel_Ch.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-011_Patagonia_.Paisaje de la Estepa llegando a Esquel_Ch.jpg' title='11_Patagonia_.Paisaje de la Estepa llegando a Esquel_Ch'>
+        <img src='/images/collections-thumbs/ESH/ESH-011_Patagonia_.Paisaje de la Estepa llegando a Esquel_Ch.jpg' alt='11_Patagonia_.Paisaje de la Estepa llegando a Esquel_Ch'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-012_Patagonia_Paisaje estepario en lago Argentino_Santa .jpg' title='ESH-012_Patagonia_Paisaje estepario en lago Argentino_Santa .jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-012_Patagonia_Paisaje estepario en lago Argentino_Santa .jpg' alt='ESH-012_Patagonia_Paisaje estepario en lago Argentino_Santa .jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-012_Patagonia_Paisaje estepario en lago Argentino_Santa .jpg' title='12_Patagonia_Paisaje estepario en lago Argentino_Santa '>
+        <img src='/images/collections-thumbs/ESH/ESH-012_Patagonia_Paisaje estepario en lago Argentino_Santa .jpg' alt='12_Patagonia_Paisaje estepario en lago Argentino_Santa '>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-014_Patagonia_pastizales de la estepa costera 2_Chubut.jpg' title='ESH-014_Patagonia_pastizales de la estepa costera 2_Chubut.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-014_Patagonia_pastizales de la estepa costera 2_Chubut.jpg' alt='ESH-014_Patagonia_pastizales de la estepa costera 2_Chubut.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-014_Patagonia_pastizales de la estepa costera 2_Chubut.jpg' title='14_Patagonia_pastizales de la estepa costera 2_Chubut'>
+        <img src='/images/collections-thumbs/ESH/ESH-014_Patagonia_pastizales de la estepa costera 2_Chubut.jpg' alt='14_Patagonia_pastizales de la estepa costera 2_Chubut'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-015_Patagonia_En la estancia La Maria_Santa Cruz.jpg' title='ESH-015_Patagonia_En la estancia La Maria_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-015_Patagonia_En la estancia La Maria_Santa Cruz.jpg' alt='ESH-015_Patagonia_En la estancia La Maria_Santa Cruz.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-015_Patagonia_En la estancia La Maria_Santa Cruz.jpg' title='15_Patagonia_En la estancia La Maria_Santa Cruz'>
+        <img src='/images/collections-thumbs/ESH/ESH-015_Patagonia_En la estancia La Maria_Santa Cruz.jpg' alt='15_Patagonia_En la estancia La Maria_Santa Cruz'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-016_Patagonia_Patagoniensis Madrynensis_Puerto madryn_Ch.jpg' title='ESH-016_Patagonia_Patagoniensis Madrynensis_Puerto madryn_Ch.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-016_Patagonia_Patagoniensis Madrynensis_Puerto madryn_Ch.jpg' alt='ESH-016_Patagonia_Patagoniensis Madrynensis_Puerto madryn_Ch.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-016_Patagonia_Patagoniensis Madrynensis_Puerto madryn_Ch.jpg' title='16_Patagonia_Patagoniensis Madrynensis_Puerto madryn_Ch'>
+        <img src='/images/collections-thumbs/ESH/ESH-016_Patagonia_Patagoniensis Madrynensis_Puerto madryn_Ch.jpg' alt='16_Patagonia_Patagoniensis Madrynensis_Puerto madryn_Ch'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-017_Patagonia_paisaje desde la ruta 4= 2_Santa Cruz.jpg' title='ESH-017_Patagonia_paisaje desde la ruta 4= 2_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-017_Patagonia_paisaje desde la ruta 4= 2_Santa Cruz.jpg' alt='ESH-017_Patagonia_paisaje desde la ruta 4= 2_Santa Cruz.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-017_Patagonia_paisaje desde la ruta 4= 2_Santa Cruz.jpg' title='17_Patagonia_paisaje desde la ruta 4= 2_Santa Cruz'>
+        <img src='/images/collections-thumbs/ESH/ESH-017_Patagonia_paisaje desde la ruta 4= 2_Santa Cruz.jpg' alt='17_Patagonia_paisaje desde la ruta 4= 2_Santa Cruz'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-018_Patagonia_flor de cactaceas_Valle del rio Pinturas_S.jpg' title='ESH-018_Patagonia_flor de cactaceas_Valle del rio Pinturas_S.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-018_Patagonia_flor de cactaceas_Valle del rio Pinturas_S.jpg' alt='ESH-018_Patagonia_flor de cactaceas_Valle del rio Pinturas_S.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-018_Patagonia_flor de cactaceas_Valle del rio Pinturas_S.jpg' title='18_Patagonia_flor de cactaceas_Valle del rio Pinturas_S'>
+        <img src='/images/collections-thumbs/ESH/ESH-018_Patagonia_flor de cactaceas_Valle del rio Pinturas_S.jpg' alt='18_Patagonia_flor de cactaceas_Valle del rio Pinturas_S'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-019_Patagonia_vegetacion esteparia 2_Lago.jpg' title='ESH-019_Patagonia_vegetacion esteparia 2_Lago.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-019_Patagonia_vegetacion esteparia 2_Lago.jpg' alt='ESH-019_Patagonia_vegetacion esteparia 2_Lago.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-019_Patagonia_vegetacion esteparia 2_Lago.jpg' title='19_Patagonia_vegetacion esteparia 2_Lago'>
+        <img src='/images/collections-thumbs/ESH/ESH-019_Patagonia_vegetacion esteparia 2_Lago.jpg' alt='19_Patagonia_vegetacion esteparia 2_Lago'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-020_Patagonia_vegetacion esteparia 1_Lago Argentino_Sant.jpg' title='ESH-020_Patagonia_vegetacion esteparia 1_Lago Argentino_Sant.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-020_Patagonia_vegetacion esteparia 1_Lago Argentino_Sant.jpg' alt='ESH-020_Patagonia_vegetacion esteparia 1_Lago Argentino_Sant.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-020_Patagonia_vegetacion esteparia 1_Lago Argentino_Sant.jpg' title='20_Patagonia_vegetacion esteparia 1_Lago Argentino_Sant'>
+        <img src='/images/collections-thumbs/ESH/ESH-020_Patagonia_vegetacion esteparia 1_Lago Argentino_Sant.jpg' alt='20_Patagonia_vegetacion esteparia 1_Lago Argentino_Sant'>
       </a>
-      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-021_Patagonia_la Estepa y el monte San Lorenzo_Santa Cru.jpg' title='ESH-021_Patagonia_la Estepa y el monte San Lorenzo_Santa Cru.jpg'>
-        <img src='/images/collections-thumbs/ESH/ESH-021_Patagonia_la Estepa y el monte San Lorenzo_Santa Cru.jpg' alt='ESH-021_Patagonia_la Estepa y el monte San Lorenzo_Santa Cru.jpg'>
+      <a href='/images/collections/ESH_Estepas-y-Humedales/ESH-021_Patagonia_la Estepa y el monte San Lorenzo_Santa Cru.jpg' title='21_Patagonia_la Estepa y el monte San Lorenzo_Santa Cru'>
+        <img src='/images/collections-thumbs/ESH/ESH-021_Patagonia_la Estepa y el monte San Lorenzo_Santa Cru.jpg' alt='21_Patagonia_la Estepa y el monte San Lorenzo_Santa Cru'>
       </a>
     </div>
 

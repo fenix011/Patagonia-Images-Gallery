@@ -3,8 +3,6 @@
 <!--- here goes meta.php -->
 <?php include "components/php/meta.php"; ?>
 
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
-
     <title>Patagonia Images |   Montañas y Valles   </title>
 
     <!-- Bootstrap core CSS -->
@@ -114,77 +112,77 @@
 <!-- nuevos links ------------------------------------------>
 
     <div id='links'>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-001_Patagonia_Arreo en el valle de Trevelin_Chubut.jpg' title='MOV-001_Patagonia_Arreo en el valle de Trevelin_Chubut.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-001_Patagonia_Arreo en el valle de Trevelin_Chubut.jpg' alt='MOV-001_Patagonia_Arreo en el valle de Trevelin_Chubut.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-001_Patagonia_Arreo en el valle de Trevelin_Chubut.jpg' title='01_Patagonia_Arreo en el valle de Trevelin_Chubut'>
+        <img src='/images/collections-thumbs/MOV/MOV-001_Patagonia_Arreo en el valle de Trevelin_Chubut.jpg' alt='01_Patagonia_Arreo en el valle de Trevelin_Chubut'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-002_Patagonia_El Cerro Otto en invierno_Bariloche_Rio Ne.jpg' title='MOV-002_Patagonia_El Cerro Otto en invierno_Bariloche_Rio Ne.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-002_Patagonia_El Cerro Otto en invierno_Bariloche_Rio Ne.jpg' alt='MOV-002_Patagonia_El Cerro Otto en invierno_Bariloche_Rio Ne.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-002_Patagonia_El Cerro Otto en invierno_Bariloche_Rio Ne.jpg' title='02_Patagonia_El Cerro Otto en invierno_Bariloche_Rio Ne'>
+        <img src='/images/collections-thumbs/MOV/MOV-002_Patagonia_El Cerro Otto en invierno_Bariloche_Rio Ne.jpg' alt='02_Patagonia_El Cerro Otto en invierno_Bariloche_Rio Ne'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-003_Patagonia_Amanecer en el Chalten 1_Santa Cruz.jpg' title='MOV-003_Patagonia_Amanecer en el Chalten 1_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-003_Patagonia_Amanecer en el Chalten 1_Santa Cruz.jpg' alt='MOV-003_Patagonia_Amanecer en el Chalten 1_Santa Cruz.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-003_Patagonia_Amanecer en el Chalten 1_Santa Cruz.jpg' title='03_Patagonia_Amanecer en el Chalten 1_Santa Cruz'>
+        <img src='/images/collections-thumbs/MOV/MOV-003_Patagonia_Amanecer en el Chalten 1_Santa Cruz.jpg' alt='03_Patagonia_Amanecer en el Chalten 1_Santa Cruz'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-004_Patagonia_amanecer en el Chalten 2_Santa Cruz.jpg' title='MOV-004_Patagonia_amanecer en el Chalten 2_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-004_Patagonia_amanecer en el Chalten 2_Santa Cruz.jpg' alt='MOV-004_Patagonia_amanecer en el Chalten 2_Santa Cruz.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-004_Patagonia_amanecer en el Chalten 2_Santa Cruz.jpg' title='04_Patagonia_amanecer en el Chalten 2_Santa Cruz'>
+        <img src='/images/collections-thumbs/MOV/MOV-004_Patagonia_amanecer en el Chalten 2_Santa Cruz.jpg' alt='04_Patagonia_amanecer en el Chalten 2_Santa Cruz'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-005_Patagonia_otoño indescriptible en la ladera Sur del .jpg' title='MOV-005_Patagonia_otoño indescriptible en la ladera Sur del .jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-005_Patagonia_otoño indescriptible en la ladera Sur del .jpg' alt='MOV-005_Patagonia_otoño indescriptible en la ladera Sur del .jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-005_Patagonia_otoño indescriptible en la ladera Sur del .jpg' title='05_Patagonia_otoño indescriptible en la ladera Sur del '>
+        <img src='/images/collections-thumbs/MOV/MOV-005_Patagonia_otoño indescriptible en la ladera Sur del .jpg' alt='05_Patagonia_otoño indescriptible en la ladera Sur del '>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-006_Patagonia_El Cerro Torre al amanecer_Santa Cruz.jpg' title='MOV-006_Patagonia_El Cerro Torre al amanecer_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-006_Patagonia_El Cerro Torre al amanecer_Santa Cruz.jpg' alt='MOV-006_Patagonia_El Cerro Torre al amanecer_Santa Cruz.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-006_Patagonia_El Cerro Torre al amanecer_Santa Cruz.jpg' title='06_Patagonia_El Cerro Torre al amanecer_Santa Cruz'>
+        <img src='/images/collections-thumbs/MOV/MOV-006_Patagonia_El Cerro Torre al amanecer_Santa Cruz.jpg' alt='06_Patagonia_El Cerro Torre al amanecer_Santa Cruz'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-007_Patagonia_Las agujas del Catedral al amanecer_Barilo.jpg' title='MOV-007_Patagonia_Las agujas del Catedral al amanecer_Barilo.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-007_Patagonia_Las agujas del Catedral al amanecer_Barilo.jpg' alt='MOV-007_Patagonia_Las agujas del Catedral al amanecer_Barilo.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-007_Patagonia_Las agujas del Catedral al amanecer_Barilo.jpg' title='07_Patagonia_Las agujas del Catedral al amanecer_Barilo'>
+        <img src='/images/collections-thumbs/MOV/MOV-007_Patagonia_Las agujas del Catedral al amanecer_Barilo.jpg' alt='07_Patagonia_Las agujas del Catedral al amanecer_Barilo'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-008_Patagonia_La Torre Principal del Catedral_Bariloche.jpg' title='MOV-008_Patagonia_La Torre Principal del Catedral_Bariloche.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-008_Patagonia_La Torre Principal del Catedral_Bariloche.jpg' alt='MOV-008_Patagonia_La Torre Principal del Catedral_Bariloche.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-008_Patagonia_La Torre Principal del Catedral_Bariloche.jpg' title='08_Patagonia_La Torre Principal del Catedral_Bariloche'>
+        <img src='/images/collections-thumbs/MOV/MOV-008_Patagonia_La Torre Principal del Catedral_Bariloche.jpg' alt='08_Patagonia_La Torre Principal del Catedral_Bariloche'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-009_Patagonia_El Cerro Torre dese el glaciar homonimo_Sa.jpg' title='MOV-009_Patagonia_El Cerro Torre dese el glaciar homonimo_Sa.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-009_Patagonia_El Cerro Torre dese el glaciar homonimo_Sa.jpg' alt='MOV-009_Patagonia_El Cerro Torre dese el glaciar homonimo_Sa.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-009_Patagonia_El Cerro Torre dese el glaciar homonimo_Sa.jpg' title='09_Patagonia_El Cerro Torre dese el glaciar homonimo_Sa'>
+        <img src='/images/collections-thumbs/MOV/MOV-009_Patagonia_El Cerro Torre dese el glaciar homonimo_Sa.jpg' alt='09_Patagonia_El Cerro Torre dese el glaciar homonimo_Sa'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-010_Patagonia_El Chalten (Fitz Roy) desde la laguna Capr.jpg' title='MOV-010_Patagonia_El Chalten (Fitz Roy) desde la laguna Capr.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-010_Patagonia_El Chalten (Fitz Roy) desde la laguna Capr.jpg' alt='MOV-010_Patagonia_El Chalten (Fitz Roy) desde la laguna Capr.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-010_Patagonia_El Chalten (Fitz Roy) desde la laguna Capr.jpg' title='10_Patagonia_El Chalten (Fitz Roy) desde la laguna Capr'>
+        <img src='/images/collections-thumbs/MOV/MOV-010_Patagonia_El Chalten (Fitz Roy) desde la laguna Capr.jpg' alt='10_Patagonia_El Chalten (Fitz Roy) desde la laguna Capr'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-011_Patagonia_El Chalten visto desde el Arroyo del  Medi.jpg' title='MOV-011_Patagonia_El Chalten visto desde el Arroyo del  Medi.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-011_Patagonia_El Chalten visto desde el Arroyo del  Medi.jpg' alt='MOV-011_Patagonia_El Chalten visto desde el Arroyo del  Medi.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-011_Patagonia_El Chalten visto desde el Arroyo del  Medi.jpg' title='11_Patagonia_El Chalten visto desde el Arroyo del  Medi'>
+        <img src='/images/collections-thumbs/MOV/MOV-011_Patagonia_El Chalten visto desde el Arroyo del  Medi.jpg' alt='11_Patagonia_El Chalten visto desde el Arroyo del  Medi'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-012_Patagonia_El Fitz Roy vista aerea al amanecer_Santa .jpg' title='MOV-012_Patagonia_El Fitz Roy vista aerea al amanecer_Santa .jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-012_Patagonia_El Fitz Roy vista aerea al amanecer_Santa .jpg' alt='MOV-012_Patagonia_El Fitz Roy vista aerea al amanecer_Santa .jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-012_Patagonia_El Fitz Roy vista aerea al amanecer_Santa .jpg' title='12_Patagonia_El Fitz Roy vista aerea al amanecer_Santa '>
+        <img src='/images/collections-thumbs/MOV/MOV-012_Patagonia_El Fitz Roy vista aerea al amanecer_Santa .jpg' alt='12_Patagonia_El Fitz Roy vista aerea al amanecer_Santa '>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-013_Patagonia_El Monte San Lorenzo desde estancia Meneli.jpg' title='MOV-013_Patagonia_El Monte San Lorenzo desde estancia Meneli.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-013_Patagonia_El Monte San Lorenzo desde estancia Meneli.jpg' alt='MOV-013_Patagonia_El Monte San Lorenzo desde estancia Meneli.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-013_Patagonia_El Monte San Lorenzo desde estancia Meneli.jpg' title='13_Patagonia_El Monte San Lorenzo desde estancia Meneli'>
+        <img src='/images/collections-thumbs/MOV/MOV-013_Patagonia_El Monte San Lorenzo desde estancia Meneli.jpg' alt='13_Patagonia_El Monte San Lorenzo desde estancia Meneli'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-014_Patagonia_El cerro Piltriquitron nevado_El Bolson_Ri.jpg' title='MOV-014_Patagonia_El cerro Piltriquitron nevado_El Bolson_Ri.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-014_Patagonia_El cerro Piltriquitron nevado_El Bolson_Ri.jpg' alt='MOV-014_Patagonia_El cerro Piltriquitron nevado_El Bolson_Ri.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-014_Patagonia_El cerro Piltriquitron nevado_El Bolson_Ri.jpg' title='14_Patagonia_El cerro Piltriquitron nevado_El Bolson_Ri'>
+        <img src='/images/collections-thumbs/MOV/MOV-014_Patagonia_El cerro Piltriquitron nevado_El Bolson_Ri.jpg' alt='14_Patagonia_El cerro Piltriquitron nevado_El Bolson_Ri'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-015_Patagonia_Estancia camino a Cholila_Chubut.jpg' title='MOV-015_Patagonia_Estancia camino a Cholila_Chubut.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-015_Patagonia_Estancia camino a Cholila_Chubut.jpg' alt='MOV-015_Patagonia_Estancia camino a Cholila_Chubut.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-015_Patagonia_Estancia camino a Cholila_Chubut.jpg' title='15_Patagonia_Estancia camino a Cholila_Chubut'>
+        <img src='/images/collections-thumbs/MOV/MOV-015_Patagonia_Estancia camino a Cholila_Chubut.jpg' alt='15_Patagonia_Estancia camino a Cholila_Chubut'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-016_Patagonia_El valle del Hoyo en otoño_Chubut.jpg' title='MOV-016_Patagonia_El valle del Hoyo en otoño_Chubut.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-016_Patagonia_El valle del Hoyo en otoño_Chubut.jpg' alt='MOV-016_Patagonia_El valle del Hoyo en otoño_Chubut.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-016_Patagonia_El valle del Hoyo en otoño_Chubut.jpg' title='16_Patagonia_El valle del Hoyo en otoño_Chubut'>
+        <img src='/images/collections-thumbs/MOV/MOV-016_Patagonia_El valle del Hoyo en otoño_Chubut.jpg' alt='16_Patagonia_El valle del Hoyo en otoño_Chubut'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-017_Patagonia_El valle Encantado_Rio Negro.jpg' title='MOV-017_Patagonia_El valle Encantado_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-017_Patagonia_El valle Encantado_Rio Negro.jpg' alt='MOV-017_Patagonia_El valle Encantado_Rio Negro.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-017_Patagonia_El valle Encantado_Rio Negro.jpg' title='17_Patagonia_El valle Encantado_Rio Negro'>
+        <img src='/images/collections-thumbs/MOV/MOV-017_Patagonia_El valle Encantado_Rio Negro.jpg' alt='17_Patagonia_El valle Encantado_Rio Negro'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-018_Patagonia_el Monte Tronador desde el Otto Meiling_Ri.jpg' title='MOV-018_Patagonia_el Monte Tronador desde el Otto Meiling_Ri.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-018_Patagonia_el Monte Tronador desde el Otto Meiling_Ri.jpg' alt='MOV-018_Patagonia_el Monte Tronador desde el Otto Meiling_Ri.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-018_Patagonia_el Monte Tronador desde el Otto Meiling_Ri.jpg' title='18_Patagonia_el Monte Tronador desde el Otto Meiling_Ri'>
+        <img src='/images/collections-thumbs/MOV/MOV-018_Patagonia_el Monte Tronador desde el Otto Meiling_Ri.jpg' alt='18_Patagonia_el Monte Tronador desde el Otto Meiling_Ri'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-019_Patagonia_el Lanin al atardecer_Neuquen.jpg' title='MOV-019_Patagonia_el Lanin al atardecer_Neuquen.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-019_Patagonia_el Lanin al atardecer_Neuquen.jpg' alt='MOV-019_Patagonia_el Lanin al atardecer_Neuquen.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-019_Patagonia_el Lanin al atardecer_Neuquen.jpg' title='19_Patagonia_el Lanin al atardecer_Neuquen'>
+        <img src='/images/collections-thumbs/MOV/MOV-019_Patagonia_el Lanin al atardecer_Neuquen.jpg' alt='19_Patagonia_el Lanin al atardecer_Neuquen'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-020_Patagonia_Valle de El Hoyo_circa 1993_Chubut .jpg' title='MOV-020_Patagonia_Valle de El Hoyo_circa 1993_Chubut .jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-020_Patagonia_Valle de El Hoyo_circa 1993_Chubut .jpg' alt='MOV-020_Patagonia_Valle de El Hoyo_circa 1993_Chubut .jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-020_Patagonia_Valle de El Hoyo_circa 1993_Chubut .jpg' title='20_Patagonia_Valle de El Hoyo_circa 1993_Chubut '>
+        <img src='/images/collections-thumbs/MOV/MOV-020_Patagonia_Valle de El Hoyo_circa 1993_Chubut .jpg' alt='20_Patagonia_Valle de El Hoyo_circa 1993_Chubut '>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-021_PatagoniaVista aerea del Fitz Roy o Chalten_Santa Cr.jpg' title='MOV-021_PatagoniaVista aerea del Fitz Roy o Chalten_Santa Cr.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-021_PatagoniaVista aerea del Fitz Roy o Chalten_Santa Cr.jpg' alt='MOV-021_PatagoniaVista aerea del Fitz Roy o Chalten_Santa Cr.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-021_PatagoniaVista aerea del Fitz Roy o Chalten_Santa Cr.jpg' title='21_PatagoniaVista aerea del Fitz Roy o Chalten_Santa Cr'>
+        <img src='/images/collections-thumbs/MOV/MOV-021_PatagoniaVista aerea del Fitz Roy o Chalten_Santa Cr.jpg' alt='21_PatagoniaVista aerea del Fitz Roy o Chalten_Santa Cr'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-022_Patagonia_Vista aerea del Fitz Roy y el Cerro Torre_.jpg' title='MOV-022_Patagonia_Vista aerea del Fitz Roy y el Cerro Torre_.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-022_Patagonia_Vista aerea del Fitz Roy y el Cerro Torre_.jpg' alt='MOV-022_Patagonia_Vista aerea del Fitz Roy y el Cerro Torre_.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-022_Patagonia_Vista aerea del Fitz Roy y el Cerro Torre_.jpg' title='22_Patagonia_Vista aerea del Fitz Roy y el Cerro Torre_'>
+        <img src='/images/collections-thumbs/MOV/MOV-022_Patagonia_Vista aerea del Fitz Roy y el Cerro Torre_.jpg' alt='22_Patagonia_Vista aerea del Fitz Roy y el Cerro Torre_'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-023_Patagonia_vista de Villa Turismo en otoño_Rio Negro.jpg' title='MOV-023_Patagonia_vista de Villa Turismo en otoño_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-023_Patagonia_vista de Villa Turismo en otoño_Rio Negro.jpg' alt='MOV-023_Patagonia_vista de Villa Turismo en otoño_Rio Negro.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-023_Patagonia_vista de Villa Turismo en otoño_Rio Negro.jpg' title='23_Patagonia_vista de Villa Turismo en otoño_Rio Negro'>
+        <img src='/images/collections-thumbs/MOV/MOV-023_Patagonia_vista de Villa Turismo en otoño_Rio Negro.jpg' alt='23_Patagonia_vista de Villa Turismo en otoño_Rio Negro'>
       </a>
-      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-024_Patagonnia_vista desde el Cerro Campanario hacia, Ll.jpg' title='MOV-024_Patagonnia_vista desde el Cerro Campanario hacia, Ll.jpg'>
-        <img src='/images/collections-thumbs/MOV/MOV-024_Patagonnia_vista desde el Cerro Campanario hacia, Ll.jpg' alt='MOV-024_Patagonnia_vista desde el Cerro Campanario hacia, Ll.jpg'>
+      <a href='/images/collections/MOV_Montañas-y-Valles/MOV-024_Patagonnia_vista desde el Cerro Campanario hacia, Ll.jpg' title='24_Patagonnia_vista desde el Cerro Campanario hacia, Ll'>
+        <img src='/images/collections-thumbs/MOV/MOV-024_Patagonnia_vista desde el Cerro Campanario hacia, Ll.jpg' alt='24_Patagonnia_vista desde el Cerro Campanario hacia, Ll'>
       </a>
     </div>
 

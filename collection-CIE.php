@@ -3,8 +3,6 @@
 <!--- here goes meta.php -->
 <?php include "components/php/meta.php"; ?>
 
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
-
     <title>Patagonia Images |   Cielos y Luces   </title>
 
     <!-- Bootstrap core CSS -->
@@ -114,65 +112,65 @@
 <!-- new links ---------------------------------------------->
 
     <div id='links'>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-001_Patagonia_Lago Puelo.jpg' title='CIE-001_Patagonia_Lago Puelo.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-001_Patagonia_Lago Puelo.jpg' alt='CIE-001_Patagonia_Lago Puelo.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-001_Patagonia_Lago Puelo.jpg' title='01_Patagonia_Lago Puelo'>
+        <img src='/images/collections-thumbs/CIE/CIE-001_Patagonia_Lago Puelo.jpg' alt='01_Patagonia_Lago Puelo'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-002_Patagonia_Cielo nocturno en el Lanin_Neuquen.jpg' title='CIE-002_Patagonia_Cielo nocturno en el Lanin_Neuquen.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-002_Patagonia_Cielo nocturno en el Lanin_Neuquen.jpg' alt='CIE-002_Patagonia_Cielo nocturno en el Lanin_Neuquen.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-002_Patagonia_Cielo nocturno en el Lanin_Neuquen.jpg' title='02_Patagonia_Cielo nocturno en el Lanin_Neuquen'>
+        <img src='/images/collections-thumbs/CIE/CIE-002_Patagonia_Cielo nocturno en el Lanin_Neuquen.jpg' alt='02_Patagonia_Cielo nocturno en el Lanin_Neuquen'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-003_Patagonia_Colonia de gaviotas_Puerto Deseado.jpg' title='CIE-003_Patagonia_Colonia de gaviotas_Puerto Deseado.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-003_Patagonia_Colonia de gaviotas_Puerto Deseado.jpg' alt='CIE-003_Patagonia_Colonia de gaviotas_Puerto Deseado.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-003_Patagonia_Colonia de gaviotas_Puerto Deseado.jpg' title='03_Patagonia_Colonia de gaviotas_Puerto Deseado'>
+        <img src='/images/collections-thumbs/CIE/CIE-003_Patagonia_Colonia de gaviotas_Puerto Deseado.jpg' alt='03_Patagonia_Colonia de gaviotas_Puerto Deseado'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-004.Nubes lenticulares, norte del Neuquen.jpg' title='CIE-004.Nubes lenticulares, norte del Neuquen.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-004.Nubes lenticulares, norte del Neuquen.jpg' alt='CIE-004.Nubes lenticulares, norte del Neuquen.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-004.Nubes lenticulares, norte del Neuquen.jpg' title='04.Nubes lenticulares, norte del Neuquen'>
+        <img src='/images/collections-thumbs/CIE/CIE-004.Nubes lenticulares, norte del Neuquen.jpg' alt='04.Nubes lenticulares, norte del Neuquen'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-005_Patagonia_Cielo nocturno y araucarias_Lanin_Neuquen.jpg' title='CIE-005_Patagonia_Cielo nocturno y araucarias_Lanin_Neuquen.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-005_Patagonia_Cielo nocturno y araucarias_Lanin_Neuquen.jpg' alt='CIE-005_Patagonia_Cielo nocturno y araucarias_Lanin_Neuquen.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-005_Patagonia_Cielo nocturno y araucarias_Lanin_Neuquen.jpg' title='05_Patagonia_Cielo nocturno y araucarias_Lanin_Neuquen'>
+        <img src='/images/collections-thumbs/CIE/CIE-005_Patagonia_Cielo nocturno y araucarias_Lanin_Neuquen.jpg' alt='05_Patagonia_Cielo nocturno y araucarias_Lanin_Neuquen'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-006_Ibera_Tormenta electrica_Corrientes.jpg' title='CIE-006_Ibera_Tormenta electrica_Corrientes.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-006_Ibera_Tormenta electrica_Corrientes.jpg' alt='CIE-006_Ibera_Tormenta electrica_Corrientes.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-006_Ibera_Tormenta electrica_Corrientes.jpg' title='06_Ibera_Tormenta electrica_Corrientes'>
+        <img src='/images/collections-thumbs/CIE/CIE-006_Ibera_Tormenta electrica_Corrientes.jpg' alt='06_Ibera_Tormenta electrica_Corrientes'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-007_Patagonia_Nubes lenticulares en la estepa_Rio Negro.jpg' title='CIE-007_Patagonia_Nubes lenticulares en la estepa_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-007_Patagonia_Nubes lenticulares en la estepa_Rio Negro.jpg' alt='CIE-007_Patagonia_Nubes lenticulares en la estepa_Rio Negro.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-007_Patagonia_Nubes lenticulares en la estepa_Rio Negro.jpg' title='07_Patagonia_Nubes lenticulares en la estepa_Rio Negro'>
+        <img src='/images/collections-thumbs/CIE/CIE-007_Patagonia_Nubes lenticulares en la estepa_Rio Negro.jpg' alt='07_Patagonia_Nubes lenticulares en la estepa_Rio Negro'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-008_Patagonia-nubes sobre el glaciar Upsala_Santa Cruz.jpg' title='CIE-008_Patagonia-nubes sobre el glaciar Upsala_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-008_Patagonia-nubes sobre el glaciar Upsala_Santa Cruz.jpg' alt='CIE-008_Patagonia-nubes sobre el glaciar Upsala_Santa Cruz.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-008_Patagonia-nubes sobre el glaciar Upsala_Santa Cruz.jpg' title='08_Patagonia-nubes sobre el glaciar Upsala_Santa Cruz'>
+        <img src='/images/collections-thumbs/CIE/CIE-008_Patagonia-nubes sobre el glaciar Upsala_Santa Cruz.jpg' alt='08_Patagonia-nubes sobre el glaciar Upsala_Santa Cruz'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-009_Patagonia_sol sobre el lago Argentino_Santa Cruz.jpg' title='CIE-009_Patagonia_sol sobre el lago Argentino_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-009_Patagonia_sol sobre el lago Argentino_Santa Cruz.jpg' alt='CIE-009_Patagonia_sol sobre el lago Argentino_Santa Cruz.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-009_Patagonia_sol sobre el lago Argentino_Santa Cruz.jpg' title='09_Patagonia_sol sobre el lago Argentino_Santa Cruz'>
+        <img src='/images/collections-thumbs/CIE/CIE-009_Patagonia_sol sobre el lago Argentino_Santa Cruz.jpg' alt='09_Patagonia_sol sobre el lago Argentino_Santa Cruz'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-010_Patagonia-Nubes sobre el oceano_Punta Tombo.jpg' title='CIE-010_Patagonia-Nubes sobre el oceano_Punta Tombo.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-010_Patagonia-Nubes sobre el oceano_Punta Tombo.jpg' alt='CIE-010_Patagonia-Nubes sobre el oceano_Punta Tombo.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-010_Patagonia-Nubes sobre el oceano_Punta Tombo.jpg' title='10_Patagonia-Nubes sobre el oceano_Punta Tombo'>
+        <img src='/images/collections-thumbs/CIE/CIE-010_Patagonia-Nubes sobre el oceano_Punta Tombo.jpg' alt='10_Patagonia-Nubes sobre el oceano_Punta Tombo'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-011_Patagonia-nubes sobre la estepa_Trelew.jpg' title='CIE-011_Patagonia-nubes sobre la estepa_Trelew.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-011_Patagonia-nubes sobre la estepa_Trelew.jpg' alt='CIE-011_Patagonia-nubes sobre la estepa_Trelew.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-011_Patagonia-nubes sobre la estepa_Trelew.jpg' title='11_Patagonia-nubes sobre la estepa_Trelew'>
+        <img src='/images/collections-thumbs/CIE/CIE-011_Patagonia-nubes sobre la estepa_Trelew.jpg' alt='11_Patagonia-nubes sobre la estepa_Trelew'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-012_Patagonia_nubes sobre la estepa 2_Trelew.jpg' title='CIE-012_Patagonia_nubes sobre la estepa 2_Trelew.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-012_Patagonia_nubes sobre la estepa 2_Trelew.jpg' alt='CIE-012_Patagonia_nubes sobre la estepa 2_Trelew.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-012_Patagonia_nubes sobre la estepa 2_Trelew.jpg' title='12_Patagonia_nubes sobre la estepa 2_Trelew'>
+        <img src='/images/collections-thumbs/CIE/CIE-012_Patagonia_nubes sobre la estepa 2_Trelew.jpg' alt='12_Patagonia_nubes sobre la estepa 2_Trelew'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-013_Patagonia_Epuyen_Chubut.jpg' title='CIE-013_Patagonia_Epuyen_Chubut.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-013_Patagonia_Epuyen_Chubut.jpg' alt='CIE-013_Patagonia_Epuyen_Chubut.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-013_Patagonia_Epuyen_Chubut.jpg' title='13_Patagonia_Epuyen_Chubut'>
+        <img src='/images/collections-thumbs/CIE/CIE-013_Patagonia_Epuyen_Chubut.jpg' alt='13_Patagonia_Epuyen_Chubut'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-014_Patagonia_cerca de Los Altares_Chubut.jpg' title='CIE-014_Patagonia_cerca de Los Altares_Chubut.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-014_Patagonia_cerca de Los Altares_Chubut.jpg' alt='CIE-014_Patagonia_cerca de Los Altares_Chubut.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-014_Patagonia_cerca de Los Altares_Chubut.jpg' title='14_Patagonia_cerca de Los Altares_Chubut'>
+        <img src='/images/collections-thumbs/CIE/CIE-014_Patagonia_cerca de Los Altares_Chubut.jpg' alt='14_Patagonia_cerca de Los Altares_Chubut'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-015_Patagonia_nubes de lluvia_Ruta 3_Chubut.jpg' title='CIE-015_Patagonia_nubes de lluvia_Ruta 3_Chubut.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-015_Patagonia_nubes de lluvia_Ruta 3_Chubut.jpg' alt='CIE-015_Patagonia_nubes de lluvia_Ruta 3_Chubut.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-015_Patagonia_nubes de lluvia_Ruta 3_Chubut.jpg' title='15_Patagonia_nubes de lluvia_Ruta 3_Chubut'>
+        <img src='/images/collections-thumbs/CIE/CIE-015_Patagonia_nubes de lluvia_Ruta 3_Chubut.jpg' alt='15_Patagonia_nubes de lluvia_Ruta 3_Chubut'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-016_Patagonia_sol sobre el glaciar Moreno_Santa Cruz.jpg' title='CIE-016_Patagonia_sol sobre el glaciar Moreno_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-016_Patagonia_sol sobre el glaciar Moreno_Santa Cruz.jpg' alt='CIE-016_Patagonia_sol sobre el glaciar Moreno_Santa Cruz.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-016_Patagonia_sol sobre el glaciar Moreno_Santa Cruz.jpg' title='16_Patagonia_sol sobre el glaciar Moreno_Santa Cruz'>
+        <img src='/images/collections-thumbs/CIE/CIE-016_Patagonia_sol sobre el glaciar Moreno_Santa Cruz.jpg' alt='16_Patagonia_sol sobre el glaciar Moreno_Santa Cruz'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-017_Patagonia_nubes sobre Pilcaniyeu_Rio Negro.jpg' title='CIE-017_Patagonia_nubes sobre Pilcaniyeu_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-017_Patagonia_nubes sobre Pilcaniyeu_Rio Negro.jpg' alt='CIE-017_Patagonia_nubes sobre Pilcaniyeu_Rio Negro.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-017_Patagonia_nubes sobre Pilcaniyeu_Rio Negro.jpg' title='17_Patagonia_nubes sobre Pilcaniyeu_Rio Negro'>
+        <img src='/images/collections-thumbs/CIE/CIE-017_Patagonia_nubes sobre Pilcaniyeu_Rio Negro.jpg' alt='17_Patagonia_nubes sobre Pilcaniyeu_Rio Negro'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-019_Patagonia_reflejos en el Nahuel Huapi_Neuquen.jpg' title='CIE-019_Patagonia_reflejos en el Nahuel Huapi_Neuquen.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-019_Patagonia_reflejos en el Nahuel Huapi_Neuquen.jpg' alt='CIE-019_Patagonia_reflejos en el Nahuel Huapi_Neuquen.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-019_Patagonia_reflejos en el Nahuel Huapi_Neuquen.jpg' title='19_Patagonia_reflejos en el Nahuel Huapi_Neuquen'>
+        <img src='/images/collections-thumbs/CIE/CIE-019_Patagonia_reflejos en el Nahuel Huapi_Neuquen.jpg' alt='19_Patagonia_reflejos en el Nahuel Huapi_Neuquen'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-020_Patagonia_nubes sobre la estepa en la ruta 40_Santa .jpg' title='CIE-020_Patagonia_nubes sobre la estepa en la ruta 40_Santa .jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-020_Patagonia_nubes sobre la estepa en la ruta 40_Santa .jpg' alt='CIE-020_Patagonia_nubes sobre la estepa en la ruta 40_Santa .jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-020_Patagonia_nubes sobre la estepa en la ruta 40_Santa .jpg' title='20_Patagonia_nubes sobre la estepa en la ruta 40_Santa '>
+        <img src='/images/collections-thumbs/CIE/CIE-020_Patagonia_nubes sobre la estepa en la ruta 40_Santa .jpg' alt='20_Patagonia_nubes sobre la estepa en la ruta 40_Santa '>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-021_Patagonia_cerca del glaciar Moreno_Santa Cruz.jpg' title='CIE-021_Patagonia_cerca del glaciar Moreno_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/CIE/CIE-021_Patagonia_cerca del glaciar Moreno_Santa Cruz.jpg' alt='CIE-021_Patagonia_cerca del glaciar Moreno_Santa Cruz.jpg'>
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-021_Patagonia_cerca del glaciar Moreno_Santa Cruz.jpg' title='21_Patagonia_cerca del glaciar Moreno_Santa Cruz'>
+        <img src='/images/collections-thumbs/CIE/CIE-021_Patagonia_cerca del glaciar Moreno_Santa Cruz.jpg' alt='21_Patagonia_cerca del glaciar Moreno_Santa Cruz'>
       </a>
     </div>
 

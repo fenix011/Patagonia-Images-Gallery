@@ -3,8 +3,6 @@
 <!--- here goes meta.php -->
 <?php include "components/php/meta.php"; ?>
 
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
-
     <title>Patagonia Images |   Glaciares   </title>
 
     <!-- Bootstrap core CSS -->
@@ -113,77 +111,77 @@
 
 
     <div id='links'>
-      <a href='/images/collections/GLA_Glaciares/GLA-001_Patagoniaburbujas del tiempo en una grieta del glaci.jpg' title='GLA-001_Patagoniaburbujas del tiempo en una grieta del glaci.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-001_Patagoniaburbujas del tiempo en una grieta del glaci.jpg' alt='GLA-001_Patagoniaburbujas del tiempo en una grieta del glaci.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-001_Patagoniaburbujas del tiempo en una grieta del glaci.jpg' title='01_Patagoniaburbujas del tiempo en una grieta del glaci'>
+        <img src='/images/collections-thumbs/GLA/GLA-001_Patagoniaburbujas del tiempo en una grieta del glaci.jpg' alt='01_Patagoniaburbujas del tiempo en una grieta del glaci'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-002_Patagonia_Campo de Hielo Patagonico Sur 1.jpg' title='GLA-002_Patagonia_Campo de Hielo Patagonico Sur 1.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-002_Patagonia_Campo de Hielo Patagonico Sur 1.jpg' alt='GLA-002_Patagonia_Campo de Hielo Patagonico Sur 1.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-002_Patagonia_Campo de Hielo Patagonico Sur 1.jpg' title='02_Patagonia_Campo de Hielo Patagonico Sur 1'>
+        <img src='/images/collections-thumbs/GLA/GLA-002_Patagonia_Campo de Hielo Patagonico Sur 1.jpg' alt='02_Patagonia_Campo de Hielo Patagonico Sur 1'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-003_Patagonia_Derrumbes en la pared frontal del glaciar .jpg' title='GLA-003_Patagonia_Derrumbes en la pared frontal del glaciar .jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-003_Patagonia_Derrumbes en la pared frontal del glaciar .jpg' alt='GLA-003_Patagonia_Derrumbes en la pared frontal del glaciar .jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-003_Patagonia_Derrumbes en la pared frontal del glaciar .jpg' title='03_Patagonia_Derrumbes en la pared frontal del glaciar '>
+        <img src='/images/collections-thumbs/GLA/GLA-003_Patagonia_Derrumbes en la pared frontal del glaciar .jpg' alt='03_Patagonia_Derrumbes en la pared frontal del glaciar '>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-004_Patagonia_vista aerea del glaciar Perito Moreno, des.jpg' title='GLA-004_Patagonia_vista aerea del glaciar Perito Moreno, des.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-004_Patagonia_vista aerea del glaciar Perito Moreno, des.jpg' alt='GLA-004_Patagonia_vista aerea del glaciar Perito Moreno, des.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-004_Patagonia_vista aerea del glaciar Perito Moreno, des.jpg' title='04_Patagonia_vista aerea del glaciar Perito Moreno, des'>
+        <img src='/images/collections-thumbs/GLA/GLA-004_Patagonia_vista aerea del glaciar Perito Moreno, des.jpg' alt='04_Patagonia_vista aerea del glaciar Perito Moreno, des'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-005_Patagonia_Seracs pared frontal glaciar Perito Moreno.jpg' title='GLA-005_Patagonia_Seracs pared frontal glaciar Perito Moreno.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-005_Patagonia_Seracs pared frontal glaciar Perito Moreno.jpg' alt='GLA-005_Patagonia_Seracs pared frontal glaciar Perito Moreno.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-005_Patagonia_Seracs pared frontal glaciar Perito Moreno.jpg' title='05_Patagonia_Seracs pared frontal glaciar Perito Moreno'>
+        <img src='/images/collections-thumbs/GLA/GLA-005_Patagonia_Seracs pared frontal glaciar Perito Moreno.jpg' alt='05_Patagonia_Seracs pared frontal glaciar Perito Moreno'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-006_Patagonia_aerea del frente del glaciar Upsala_Santa .jpg' title='GLA-006_Patagonia_aerea del frente del glaciar Upsala_Santa .jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-006_Patagonia_aerea del frente del glaciar Upsala_Santa .jpg' alt='GLA-006_Patagonia_aerea del frente del glaciar Upsala_Santa .jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-006_Patagonia_aerea del frente del glaciar Upsala_Santa .jpg' title='06_Patagonia_aerea del frente del glaciar Upsala_Santa '>
+        <img src='/images/collections-thumbs/GLA/GLA-006_Patagonia_aerea del frente del glaciar Upsala_Santa .jpg' alt='06_Patagonia_aerea del frente del glaciar Upsala_Santa '>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-007_Patagonia_Morena Central del glaciar Upsala_Santa Cr.jpg' title='GLA-007_Patagonia_Morena Central del glaciar Upsala_Santa Cr.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-007_Patagonia_Morena Central del glaciar Upsala_Santa Cr.jpg' alt='GLA-007_Patagonia_Morena Central del glaciar Upsala_Santa Cr.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-007_Patagonia_Morena Central del glaciar Upsala_Santa Cr.jpg' title='07_Patagonia_Morena Central del glaciar Upsala_Santa Cr'>
+        <img src='/images/collections-thumbs/GLA/GLA-007_Patagonia_Morena Central del glaciar Upsala_Santa Cr.jpg' alt='07_Patagonia_Morena Central del glaciar Upsala_Santa Cr'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-008_Patagonia_glaciar Upsala vista aerea_Santa Cruz.jpg' title='GLA-008_Patagonia_glaciar Upsala vista aerea_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-008_Patagonia_glaciar Upsala vista aerea_Santa Cruz.jpg' alt='GLA-008_Patagonia_glaciar Upsala vista aerea_Santa Cruz.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-008_Patagonia_glaciar Upsala vista aerea_Santa Cruz.jpg' title='08_Patagonia_glaciar Upsala vista aerea_Santa Cruz'>
+        <img src='/images/collections-thumbs/GLA/GLA-008_Patagonia_glaciar Upsala vista aerea_Santa Cruz.jpg' alt='08_Patagonia_glaciar Upsala vista aerea_Santa Cruz'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-009_Patagonia_glaciar Spegazzini_Santa Cruz.jpg' title='GLA-009_Patagonia_glaciar Spegazzini_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-009_Patagonia_glaciar Spegazzini_Santa Cruz.jpg' alt='GLA-009_Patagonia_glaciar Spegazzini_Santa Cruz.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-009_Patagonia_glaciar Spegazzini_Santa Cruz.jpg' title='09_Patagonia_glaciar Spegazzini_Santa Cruz'>
+        <img src='/images/collections-thumbs/GLA/GLA-009_Patagonia_glaciar Spegazzini_Santa Cruz.jpg' alt='09_Patagonia_glaciar Spegazzini_Santa Cruz'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-010_Patagonia_glaciar Spegazzini de cerca_Santa Cruz.jpg' title='GLA-010_Patagonia_glaciar Spegazzini de cerca_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-010_Patagonia_glaciar Spegazzini de cerca_Santa Cruz.jpg' alt='GLA-010_Patagonia_glaciar Spegazzini de cerca_Santa Cruz.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-010_Patagonia_glaciar Spegazzini de cerca_Santa Cruz.jpg' title='10_Patagonia_glaciar Spegazzini de cerca_Santa Cruz'>
+        <img src='/images/collections-thumbs/GLA/GLA-010_Patagonia_glaciar Spegazzini de cerca_Santa Cruz.jpg' alt='10_Patagonia_glaciar Spegazzini de cerca_Santa Cruz'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-011_Patagonia_Lagunita glaciar vista aerea_Lago Argentin.jpg' title='GLA-011_Patagonia_Lagunita glaciar vista aerea_Lago Argentin.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-011_Patagonia_Lagunita glaciar vista aerea_Lago Argentin.jpg' alt='GLA-011_Patagonia_Lagunita glaciar vista aerea_Lago Argentin.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-011_Patagonia_Lagunita glaciar vista aerea_Lago Argentin.jpg' title='11_Patagonia_Lagunita glaciar vista aerea_Lago Argentin'>
+        <img src='/images/collections-thumbs/GLA/GLA-011_Patagonia_Lagunita glaciar vista aerea_Lago Argentin.jpg' alt='11_Patagonia_Lagunita glaciar vista aerea_Lago Argentin'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-012_Patagonia_Iceberg 1_Lago Argentino_Santa Cruz.jpg' title='GLA-012_Patagonia_Iceberg 1_Lago Argentino_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-012_Patagonia_Iceberg 1_Lago Argentino_Santa Cruz.jpg' alt='GLA-012_Patagonia_Iceberg 1_Lago Argentino_Santa Cruz.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-012_Patagonia_Iceberg 1_Lago Argentino_Santa Cruz.jpg' title='12_Patagonia_Iceberg 1_Lago Argentino_Santa Cruz'>
+        <img src='/images/collections-thumbs/GLA/GLA-012_Patagonia_Iceberg 1_Lago Argentino_Santa Cruz.jpg' alt='12_Patagonia_Iceberg 1_Lago Argentino_Santa Cruz'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-013_Patagonia_Las huellas del paso del hielo_Santa Cruz.jpg' title='GLA-013_Patagonia_Las huellas del paso del hielo_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-013_Patagonia_Las huellas del paso del hielo_Santa Cruz.jpg' alt='GLA-013_Patagonia_Las huellas del paso del hielo_Santa Cruz.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-013_Patagonia_Las huellas del paso del hielo_Santa Cruz.jpg' title='13_Patagonia_Las huellas del paso del hielo_Santa Cruz'>
+        <img src='/images/collections-thumbs/GLA/GLA-013_Patagonia_Las huellas del paso del hielo_Santa Cruz.jpg' alt='13_Patagonia_Las huellas del paso del hielo_Santa Cruz'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-014_Patagonia_Iceberg 3_Lago Argentino_Santa Cruz.jpg' title='GLA-014_Patagonia_Iceberg 3_Lago Argentino_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-014_Patagonia_Iceberg 3_Lago Argentino_Santa Cruz.jpg' alt='GLA-014_Patagonia_Iceberg 3_Lago Argentino_Santa Cruz.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-014_Patagonia_Iceberg 3_Lago Argentino_Santa Cruz.jpg' title='14_Patagonia_Iceberg 3_Lago Argentino_Santa Cruz'>
+        <img src='/images/collections-thumbs/GLA/GLA-014_Patagonia_Iceberg 3_Lago Argentino_Santa Cruz.jpg' alt='14_Patagonia_Iceberg 3_Lago Argentino_Santa Cruz'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-015_Patagonia_vista aerea nacientes del glaciar Viedma_S.jpg' title='GLA-015_Patagonia_vista aerea nacientes del glaciar Viedma_S.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-015_Patagonia_vista aerea nacientes del glaciar Viedma_S.jpg' alt='GLA-015_Patagonia_vista aerea nacientes del glaciar Viedma_S.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-015_Patagonia_vista aerea nacientes del glaciar Viedma_S.jpg' title='15_Patagonia_vista aerea nacientes del glaciar Viedma_S'>
+        <img src='/images/collections-thumbs/GLA/GLA-015_Patagonia_vista aerea nacientes del glaciar Viedma_S.jpg' alt='15_Patagonia_vista aerea nacientes del glaciar Viedma_S'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-016_Patagonia_El Campo de Hielo mostrando derretimiento_.jpg' title='GLA-016_Patagonia_El Campo de Hielo mostrando derretimiento_.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-016_Patagonia_El Campo de Hielo mostrando derretimiento_.jpg' alt='GLA-016_Patagonia_El Campo de Hielo mostrando derretimiento_.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-016_Patagonia_El Campo de Hielo mostrando derretimiento_.jpg' title='16_Patagonia_El Campo de Hielo mostrando derretimiento_'>
+        <img src='/images/collections-thumbs/GLA/GLA-016_Patagonia_El Campo de Hielo mostrando derretimiento_.jpg' alt='16_Patagonia_El Campo de Hielo mostrando derretimiento_'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-017_Patagonia_el Campo de Hielo Patagonico Sur_Santa Cru.jpg' title='GLA-017_Patagonia_el Campo de Hielo Patagonico Sur_Santa Cru.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-017_Patagonia_el Campo de Hielo Patagonico Sur_Santa Cru.jpg' alt='GLA-017_Patagonia_el Campo de Hielo Patagonico Sur_Santa Cru.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-017_Patagonia_el Campo de Hielo Patagonico Sur_Santa Cru.jpg' title='17_Patagonia_el Campo de Hielo Patagonico Sur_Santa Cru'>
+        <img src='/images/collections-thumbs/GLA/GLA-017_Patagonia_el Campo de Hielo Patagonico Sur_Santa Cru.jpg' alt='17_Patagonia_el Campo de Hielo Patagonico Sur_Santa Cru'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-018_Patagonia_El Campo de Hielo Sur aerea desde el Marco.jpg' title='GLA-018_Patagonia_El Campo de Hielo Sur aerea desde el Marco.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-018_Patagonia_El Campo de Hielo Sur aerea desde el Marco.jpg' alt='GLA-018_Patagonia_El Campo de Hielo Sur aerea desde el Marco.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-018_Patagonia_El Campo de Hielo Sur aerea desde el Marco.jpg' title='18_Patagonia_El Campo de Hielo Sur aerea desde el Marco'>
+        <img src='/images/collections-thumbs/GLA/GLA-018_Patagonia_El Campo de Hielo Sur aerea desde el Marco.jpg' alt='18_Patagonia_El Campo de Hielo Sur aerea desde el Marco'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-019_Patagonia_el frente del Glaciar Perito Moreno_Santa .jpg' title='GLA-019_Patagonia_el frente del Glaciar Perito Moreno_Santa .jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-019_Patagonia_el frente del Glaciar Perito Moreno_Santa .jpg' alt='GLA-019_Patagonia_el frente del Glaciar Perito Moreno_Santa .jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-019_Patagonia_el frente del Glaciar Perito Moreno_Santa .jpg' title='19_Patagonia_el frente del Glaciar Perito Moreno_Santa '>
+        <img src='/images/collections-thumbs/GLA/GLA-019_Patagonia_el frente del Glaciar Perito Moreno_Santa .jpg' alt='19_Patagonia_el frente del Glaciar Perito Moreno_Santa '>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-020_Patagonia_el glaciar Upsala y glaciares tributarios_.jpg' title='GLA-020_Patagonia_el glaciar Upsala y glaciares tributarios_.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-020_Patagonia_el glaciar Upsala y glaciares tributarios_.jpg' alt='GLA-020_Patagonia_el glaciar Upsala y glaciares tributarios_.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-020_Patagonia_el glaciar Upsala y glaciares tributarios_.jpg' title='20_Patagonia_el glaciar Upsala y glaciares tributarios_'>
+        <img src='/images/collections-thumbs/GLA/GLA-020_Patagonia_el glaciar Upsala y glaciares tributarios_.jpg' alt='20_Patagonia_el glaciar Upsala y glaciares tributarios_'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-021_Patagonia_Glaciar Viedma vista aerea de un desprendi.jpg' title='GLA-021_Patagonia_Glaciar Viedma vista aerea de un desprendi.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-021_Patagonia_Glaciar Viedma vista aerea de un desprendi.jpg' alt='GLA-021_Patagonia_Glaciar Viedma vista aerea de un desprendi.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-021_Patagonia_Glaciar Viedma vista aerea de un desprendi.jpg' title='21_Patagonia_Glaciar Viedma vista aerea de un desprendi'>
+        <img src='/images/collections-thumbs/GLA/GLA-021_Patagonia_Glaciar Viedma vista aerea de un desprendi.jpg' alt='21_Patagonia_Glaciar Viedma vista aerea de un desprendi'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-022_Patagonia_sol de la tarde sobre el graciar Moreno_Sa.jpg' title='GLA-022_Patagonia_sol de la tarde sobre el graciar Moreno_Sa.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-022_Patagonia_sol de la tarde sobre el graciar Moreno_Sa.jpg' alt='GLA-022_Patagonia_sol de la tarde sobre el graciar Moreno_Sa.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-022_Patagonia_sol de la tarde sobre el graciar Moreno_Sa.jpg' title='22_Patagonia_sol de la tarde sobre el graciar Moreno_Sa'>
+        <img src='/images/collections-thumbs/GLA/GLA-022_Patagonia_sol de la tarde sobre el graciar Moreno_Sa.jpg' alt='22_Patagonia_sol de la tarde sobre el graciar Moreno_Sa'>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-023_Patagonia_pequeño iceberg del glaciar Perito Moreno .jpg' title='GLA-023_Patagonia_pequeño iceberg del glaciar Perito Moreno .jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-023_Patagonia_pequeño iceberg del glaciar Perito Moreno .jpg' alt='GLA-023_Patagonia_pequeño iceberg del glaciar Perito Moreno .jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-023_Patagonia_pequeño iceberg del glaciar Perito Moreno .jpg' title='23_Patagonia_pequeño iceberg del glaciar Perito Moreno '>
+        <img src='/images/collections-thumbs/GLA/GLA-023_Patagonia_pequeño iceberg del glaciar Perito Moreno .jpg' alt='23_Patagonia_pequeño iceberg del glaciar Perito Moreno '>
       </a>
-      <a href='/images/collections/GLA_Glaciares/GLA-024_Patagonia_el glaciar Moreno desde la Curva de los Su.jpg' title='GLA-024_Patagonia_el glaciar Moreno desde la Curva de los Su.jpg'>
-        <img src='/images/collections-thumbs/GLA/GLA-024_Patagonia_el glaciar Moreno desde la Curva de los Su.jpg' alt='GLA-024_Patagonia_el glaciar Moreno desde la Curva de los Su.jpg'>
+      <a href='/images/collections/GLA_Glaciares/GLA-024_Patagonia_el glaciar Moreno desde la Curva de los Su.jpg' title='24_Patagonia_el glaciar Moreno desde la Curva de los Su'>
+        <img src='/images/collections-thumbs/GLA/GLA-024_Patagonia_el glaciar Moreno desde la Curva de los Su.jpg' alt='24_Patagonia_el glaciar Moreno desde la Curva de los Su'>
       </a>
     </div>
 

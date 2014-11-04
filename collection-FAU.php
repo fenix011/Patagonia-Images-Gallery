@@ -3,8 +3,6 @@
 <!--- here goes meta.php -->
 <?php include "components/php/meta.php"; ?>
 
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
-
     <title>Patagonia Images |   Fauna: Cordillera y Estepa   </title>
 
     <!-- Bootstrap core CSS -->
@@ -114,65 +112,65 @@
 <!-- aqui van los links ! ----------------------------------->
 
     <div id='links'>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-002_Patagonia-Caracoles de los lagos.jpg' title='FAU-002_Patagonia-Caracoles de los lagos.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-002_Patagonia-Caracoles de los lagos.jpg' alt='FAU-002_Patagonia-Caracoles de los lagos.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-002_Patagonia-Caracoles de los lagos.jpg' title='02_Patagonia-Caracoles de los lagos'>
+        <img src='/images/collections-thumbs/FAU/FAU-002_Patagonia-Caracoles de los lagos.jpg' alt='02_Patagonia-Caracoles de los lagos'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-003_Patagonia_Cascarudo.jpg' title='FAU-003_Patagonia_Cascarudo.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-003_Patagonia_Cascarudo.jpg' alt='FAU-003_Patagonia_Cascarudo.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-003_Patagonia_Cascarudo.jpg' title='03_Patagonia_Cascarudo'>
+        <img src='/images/collections-thumbs/FAU/FAU-003_Patagonia_Cascarudo.jpg' alt='03_Patagonia_Cascarudo'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-004.Carpintero Magallanico - Magellanic Woodpecker.jpg' title='FAU-004.Carpintero Magallanico - Magellanic Woodpecker.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-004.Carpintero Magallanico - Magellanic Woodpecker.jpg' alt='FAU-004.Carpintero Magallanico - Magellanic Woodpecker.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-004.Carpintero Magallanico - Magellanic Woodpecker.jpg' title='04.Carpintero Magallanico - Magellanic Woodpecker'>
+        <img src='/images/collections-thumbs/FAU/FAU-004.Carpintero Magallanico - Magellanic Woodpecker.jpg' alt='04.Carpintero Magallanico - Magellanic Woodpecker'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-005_Patagonia_Guanaco induviduo_PN Perito Moreno_Santa C.jpg' title='FAU-005_Patagonia_Guanaco induviduo_PN Perito Moreno_Santa C.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-005_Patagonia_Guanaco induviduo_PN Perito Moreno_Santa C.jpg' alt='FAU-005_Patagonia_Guanaco induviduo_PN Perito Moreno_Santa C.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-005_Patagonia_Guanaco induviduo_PN Perito Moreno_Santa C.jpg' title='05_Patagonia_Guanaco induviduo_PN Perito Moreno_Santa C'>
+        <img src='/images/collections-thumbs/FAU/FAU-005_Patagonia_Guanaco induviduo_PN Perito Moreno_Santa C.jpg' alt='05_Patagonia_Guanaco induviduo_PN Perito Moreno_Santa C'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-006_Patagonia_Guanacos en grupo_Santa Cruz.jpg' title='FAU-006_Patagonia_Guanacos en grupo_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-006_Patagonia_Guanacos en grupo_Santa Cruz.jpg' alt='FAU-006_Patagonia_Guanacos en grupo_Santa Cruz.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-006_Patagonia_Guanacos en grupo_Santa Cruz.jpg' title='06_Patagonia_Guanacos en grupo_Santa Cruz'>
+        <img src='/images/collections-thumbs/FAU/FAU-006_Patagonia_Guanacos en grupo_Santa Cruz.jpg' alt='06_Patagonia_Guanacos en grupo_Santa Cruz'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-007_Patagonia_Guanaco alimentandose_Chubut.jpg' title='FAU-007_Patagonia_Guanaco alimentandose_Chubut.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-007_Patagonia_Guanaco alimentandose_Chubut.jpg' alt='FAU-007_Patagonia_Guanaco alimentandose_Chubut.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-007_Patagonia_Guanaco alimentandose_Chubut.jpg' title='07_Patagonia_Guanaco alimentandose_Chubut'>
+        <img src='/images/collections-thumbs/FAU/FAU-007_Patagonia_Guanaco alimentandose_Chubut.jpg' alt='07_Patagonia_Guanaco alimentandose_Chubut'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-008_Patagonia_lagartija en el bosque.jpg' title='FAU-008_Patagonia_lagartija en el bosque.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-008_Patagonia_lagartija en el bosque.jpg' alt='FAU-008_Patagonia_lagartija en el bosque.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-008_Patagonia_lagartija en el bosque.jpg' title='08_Patagonia_lagartija en el bosque'>
+        <img src='/images/collections-thumbs/FAU/FAU-008_Patagonia_lagartija en el bosque.jpg' alt='08_Patagonia_lagartija en el bosque'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-009_lagartija del bosque 2.jpg' title='FAU-009_lagartija del bosque 2.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-009_lagartija del bosque 2.jpg' alt='FAU-009_lagartija del bosque 2.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-009_lagartija del bosque 2.jpg' title='09_lagartija del bosque 2'>
+        <img src='/images/collections-thumbs/FAU/FAU-009_lagartija del bosque 2.jpg' alt='09_lagartija del bosque 2'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-010_Patagonia_ Cauquenes reales, pareja_Laguna Schmoll_B.jpg' title='FAU-010_Patagonia_ Cauquenes reales, pareja_Laguna Schmoll_B.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-010_Patagonia_ Cauquenes reales, pareja_Laguna Schmoll_B.jpg' alt='FAU-010_Patagonia_ Cauquenes reales, pareja_Laguna Schmoll_B.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-010_Patagonia_ Cauquenes reales, pareja_Laguna Schmoll_B.jpg' title='10_Patagonia_ Cauquenes reales, pareja_Laguna Schmoll_B'>
+        <img src='/images/collections-thumbs/FAU/FAU-010_Patagonia_ Cauquenes reales, pareja_Laguna Schmoll_B.jpg' alt='10_Patagonia_ Cauquenes reales, pareja_Laguna Schmoll_B'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-011_Patagonia_Carpintero hembra_Campephilus magellanicus.jpg' title='FAU-011_Patagonia_Carpintero hembra_Campephilus magellanicus.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-011_Patagonia_Carpintero hembra_Campephilus magellanicus.jpg' alt='FAU-011_Patagonia_Carpintero hembra_Campephilus magellanicus.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-011_Patagonia_Carpintero hembra_Campephilus magellanicus.jpg' title='11_Patagonia_Carpintero hembra_Campephilus magellanicus'>
+        <img src='/images/collections-thumbs/FAU/FAU-011_Patagonia_Carpintero hembra_Campephilus magellanicus.jpg' alt='11_Patagonia_Carpintero hembra_Campephilus magellanicus'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-012_Patagonia_Tero Tero  en Dina Huapi_Rio Negro.jpg' title='FAU-012_Patagonia_Tero Tero  en Dina Huapi_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-012_Patagonia_Tero Tero  en Dina Huapi_Rio Negro.jpg' alt='FAU-012_Patagonia_Tero Tero  en Dina Huapi_Rio Negro.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-012_Patagonia_Tero Tero  en Dina Huapi_Rio Negro.jpg' title='12_Patagonia_Tero Tero  en Dina Huapi_Rio Negro'>
+        <img src='/images/collections-thumbs/FAU/FAU-012_Patagonia_Tero Tero  en Dina Huapi_Rio Negro.jpg' alt='12_Patagonia_Tero Tero  en Dina Huapi_Rio Negro'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-013_Patagonia_Trucha en el rio Correntoso_Neuquen.jpg' title='FAU-013_Patagonia_Trucha en el rio Correntoso_Neuquen.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-013_Patagonia_Trucha en el rio Correntoso_Neuquen.jpg' alt='FAU-013_Patagonia_Trucha en el rio Correntoso_Neuquen.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-013_Patagonia_Trucha en el rio Correntoso_Neuquen.jpg' title='13_Patagonia_Trucha en el rio Correntoso_Neuquen'>
+        <img src='/images/collections-thumbs/FAU/FAU-013_Patagonia_Trucha en el rio Correntoso_Neuquen.jpg' alt='13_Patagonia_Trucha en el rio Correntoso_Neuquen'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-014_Patagonia_Zorro Colorado_Estepa_Chubut.jpg' title='FAU-014_Patagonia_Zorro Colorado_Estepa_Chubut.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-014_Patagonia_Zorro Colorado_Estepa_Chubut.jpg' alt='FAU-014_Patagonia_Zorro Colorado_Estepa_Chubut.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-014_Patagonia_Zorro Colorado_Estepa_Chubut.jpg' title='14_Patagonia_Zorro Colorado_Estepa_Chubut'>
+        <img src='/images/collections-thumbs/FAU/FAU-014_Patagonia_Zorro Colorado_Estepa_Chubut.jpg' alt='14_Patagonia_Zorro Colorado_Estepa_Chubut'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-015_Patagonia_Cauquenes Reales en grupo_Rio Negro.jpg' title='FAU-015_Patagonia_Cauquenes Reales en grupo_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-015_Patagonia_Cauquenes Reales en grupo_Rio Negro.jpg' alt='FAU-015_Patagonia_Cauquenes Reales en grupo_Rio Negro.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-015_Patagonia_Cauquenes Reales en grupo_Rio Negro.jpg' title='15_Patagonia_Cauquenes Reales en grupo_Rio Negro'>
+        <img src='/images/collections-thumbs/FAU/FAU-015_Patagonia_Cauquenes Reales en grupo_Rio Negro.jpg' alt='15_Patagonia_Cauquenes Reales en grupo_Rio Negro'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-016_Patagonia_langosta_Santa Cruz.jpg' title='FAU-016_Patagonia_langosta_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-016_Patagonia_langosta_Santa Cruz.jpg' alt='FAU-016_Patagonia_langosta_Santa Cruz.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-016_Patagonia_langosta_Santa Cruz.jpg' title='16_Patagonia_langosta_Santa Cruz'>
+        <img src='/images/collections-thumbs/FAU/FAU-016_Patagonia_langosta_Santa Cruz.jpg' alt='16_Patagonia_langosta_Santa Cruz'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-017_Patagonia_grupo de patos en una laguna_la Estepa.jpg' title='FAU-017_Patagonia_grupo de patos en una laguna_la Estepa.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-017_Patagonia_grupo de patos en una laguna_la Estepa.jpg' alt='FAU-017_Patagonia_grupo de patos en una laguna_la Estepa.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-017_Patagonia_grupo de patos en una laguna_la Estepa.jpg' title='17_Patagonia_grupo de patos en una laguna_la Estepa'>
+        <img src='/images/collections-thumbs/FAU/FAU-017_Patagonia_grupo de patos en una laguna_la Estepa.jpg' alt='17_Patagonia_grupo de patos en una laguna_la Estepa'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-018_Patagonia_mariposa en el Chalten_Santa Cruz.jpg' title='FAU-018_Patagonia_mariposa en el Chalten_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-018_Patagonia_mariposa en el Chalten_Santa Cruz.jpg' alt='FAU-018_Patagonia_mariposa en el Chalten_Santa Cruz.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-018_Patagonia_mariposa en el Chalten_Santa Cruz.jpg' title='18_Patagonia_mariposa en el Chalten_Santa Cruz'>
+        <img src='/images/collections-thumbs/FAU/FAU-018_Patagonia_mariposa en el Chalten_Santa Cruz.jpg' alt='18_Patagonia_mariposa en el Chalten_Santa Cruz'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-019_Patagonia_Bandurria_Neuquen.jpg' title='FAU-019_Patagonia_Bandurria_Neuquen.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-019_Patagonia_Bandurria_Neuquen.jpg' alt='FAU-019_Patagonia_Bandurria_Neuquen.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-019_Patagonia_Bandurria_Neuquen.jpg' title='19_Patagonia_Bandurria_Neuquen'>
+        <img src='/images/collections-thumbs/FAU/FAU-019_Patagonia_Bandurria_Neuquen.jpg' alt='19_Patagonia_Bandurria_Neuquen'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-020_Patagonia_Abejorro Bombus polinizando Mutisia_Neuque.jpg' title='FAU-020_Patagonia_Abejorro Bombus polinizando Mutisia_Neuque.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-020_Patagonia_Abejorro Bombus polinizando Mutisia_Neuque.jpg' alt='FAU-020_Patagonia_Abejorro Bombus polinizando Mutisia_Neuque.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-020_Patagonia_Abejorro Bombus polinizando Mutisia_Neuque.jpg' title='20_Patagonia_Abejorro Bombus polinizando Mutisia_Neuque'>
+        <img src='/images/collections-thumbs/FAU/FAU-020_Patagonia_Abejorro Bombus polinizando Mutisia_Neuque.jpg' alt='20_Patagonia_Abejorro Bombus polinizando Mutisia_Neuque'>
       </a>
-      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-021_Patagonia_Rana del Frey_Bariloche_Rio Negro.jpg' title='FAU-021_Patagonia_Rana del Frey_Bariloche_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/FAU/FAU-021_Patagonia_Rana del Frey_Bariloche_Rio Negro.jpg' alt='FAU-021_Patagonia_Rana del Frey_Bariloche_Rio Negro.jpg'>
+      <a href='/images/collections/FAU_Fauna-Cordillera-y-Estepa/FAU-021_Patagonia_Rana del Frey_Bariloche_Rio Negro.jpg' title='21_Patagonia_Rana del Frey_Bariloche_Rio Negro'>
+        <img src='/images/collections-thumbs/FAU/FAU-021_Patagonia_Rana del Frey_Bariloche_Rio Negro.jpg' alt='21_Patagonia_Rana del Frey_Bariloche_Rio Negro'>
       </a>
     </div>
 

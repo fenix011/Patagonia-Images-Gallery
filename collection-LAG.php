@@ -114,65 +114,65 @@
 <!-- nuevos links ------------------------------------------->
 
    <div id='links'>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-001_Patagonia_Nahuel Huapi en Angostura_Neuquen.jpg' title='LAG-001_Patagonia_Nahuel Huapi en Angostura_Neuquen.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-001_Patagonia_Nahuel Huapi en Angostura_Neuquen.jpg' alt='LAG-001_Patagonia_Nahuel Huapi en Angostura_Neuquen.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-001_Patagonia_Nahuel Huapi en Angostura_Neuquen.jpg' title='01_Patagonia_Nahuel Huapi en Angostura_Neuquen'>
+        <img src='/images/collections-thumbs/LAG/LAG-001_Patagonia_Nahuel Huapi en Angostura_Neuquen.jpg' alt='01_Patagonia_Nahuel Huapi en Angostura_Neuquen'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-002_Patagonia_Lago San Martin con leyenda_Santa Cruz.jpg' title='LAG-002_Patagonia_Lago San Martin con leyenda_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-002_Patagonia_Lago San Martin con leyenda_Santa Cruz.jpg' alt='LAG-002_Patagonia_Lago San Martin con leyenda_Santa Cruz.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-002_Patagonia_Lago San Martin con leyenda_Santa Cruz.jpg' title='02_Patagonia_Lago San Martin con leyenda_Santa Cruz'>
+        <img src='/images/collections-thumbs/LAG/LAG-002_Patagonia_Lago San Martin con leyenda_Santa Cruz.jpg' alt='02_Patagonia_Lago San Martin con leyenda_Santa Cruz'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-003_patagonia_El majestuoso lago San Martin.jpg' title='LAG-003_patagonia_El majestuoso lago San Martin.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-003_patagonia_El majestuoso lago San Martin.jpg' alt='LAG-003_patagonia_El majestuoso lago San Martin.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-003_patagonia_El majestuoso lago San Martin.jpg' title='03_patagonia_El majestuoso lago San Martin'>
+        <img src='/images/collections-thumbs/LAG/LAG-003_patagonia_El majestuoso lago San Martin.jpg' alt='03_patagonia_El majestuoso lago San Martin'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-004_El Lago Argentino desde la ruta 40 panoramica 1_Sant.jpg' title='LAG-004_El Lago Argentino desde la ruta 40 panoramica 1_Sant.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-004_El Lago Argentino desde la ruta 40 panoramica 1_Sant.jpg' alt='LAG-004_El Lago Argentino desde la ruta 40 panoramica 1_Sant.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-004_El Lago Argentino desde la ruta 40 panoramica 1_Sant.jpg' title='04_El Lago Argentino desde la ruta 40 panoramica 1_Sant'>
+        <img src='/images/collections-thumbs/LAG/LAG-004_El Lago Argentino desde la ruta 40 panoramica 1_Sant.jpg' alt='04_El Lago Argentino desde la ruta 40 panoramica 1_Sant'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-005_El Lago Argentino desde la ruta 40 panoramica 2_Sant.jpg' title='LAG-005_El Lago Argentino desde la ruta 40 panoramica 2_Sant.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-005_El Lago Argentino desde la ruta 40 panoramica 2_Sant.jpg' alt='LAG-005_El Lago Argentino desde la ruta 40 panoramica 2_Sant.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-005_El Lago Argentino desde la ruta 40 panoramica 2_Sant.jpg' title='05_El Lago Argentino desde la ruta 40 panoramica 2_Sant'>
+        <img src='/images/collections-thumbs/LAG/LAG-005_El Lago Argentino desde la ruta 40 panoramica 2_Sant.jpg' alt='05_El Lago Argentino desde la ruta 40 panoramica 2_Sant'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-006_Patagonia_Lago Guillelmo en otoño_Rio Negro.jpg' title='LAG-006_Patagonia_Lago Guillelmo en otoño_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-006_Patagonia_Lago Guillelmo en otoño_Rio Negro.jpg' alt='LAG-006_Patagonia_Lago Guillelmo en otoño_Rio Negro.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-006_Patagonia_Lago Guillelmo en otoño_Rio Negro.jpg' title='06_Patagonia_Lago Guillelmo en otoño_Rio Negro'>
+        <img src='/images/collections-thumbs/LAG/LAG-006_Patagonia_Lago Guillelmo en otoño_Rio Negro.jpg' alt='06_Patagonia_Lago Guillelmo en otoño_Rio Negro'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-007_Patagonia_Lago Guillelmo en otoño con detalle_Rio Ne.jpg' title='LAG-007_Patagonia_Lago Guillelmo en otoño con detalle_Rio Ne.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-007_Patagonia_Lago Guillelmo en otoño con detalle_Rio Ne.jpg' alt='LAG-007_Patagonia_Lago Guillelmo en otoño con detalle_Rio Ne.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-007_Patagonia_Lago Guillelmo en otoño con detalle_Rio Ne.jpg' title='07_Patagonia_Lago Guillelmo en otoño con detalle_Rio Ne'>
+        <img src='/images/collections-thumbs/LAG/LAG-007_Patagonia_Lago Guillelmo en otoño con detalle_Rio Ne.jpg' alt='07_Patagonia_Lago Guillelmo en otoño con detalle_Rio Ne'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-008_Patagonia_Las olas del Nahuel Huapi_Bariloche.jpg' title='LAG-008_Patagonia_Las olas del Nahuel Huapi_Bariloche.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-008_Patagonia_Las olas del Nahuel Huapi_Bariloche.jpg' alt='LAG-008_Patagonia_Las olas del Nahuel Huapi_Bariloche.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-008_Patagonia_Las olas del Nahuel Huapi_Bariloche.jpg' title='08_Patagonia_Las olas del Nahuel Huapi_Bariloche'>
+        <img src='/images/collections-thumbs/LAG/LAG-008_Patagonia_Las olas del Nahuel Huapi_Bariloche.jpg' alt='08_Patagonia_Las olas del Nahuel Huapi_Bariloche'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-009_Patagonia_El lago Mascardi en un dia tormentoso_Rio .jpg' title='LAG-009_Patagonia_El lago Mascardi en un dia tormentoso_Rio .jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-009_Patagonia_El lago Mascardi en un dia tormentoso_Rio .jpg' alt='LAG-009_Patagonia_El lago Mascardi en un dia tormentoso_Rio .jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-009_Patagonia_El lago Mascardi en un dia tormentoso_Rio .jpg' title='09_Patagonia_El lago Mascardi en un dia tormentoso_Rio '>
+        <img src='/images/collections-thumbs/LAG/LAG-009_Patagonia_El lago Mascardi en un dia tormentoso_Rio .jpg' alt='09_Patagonia_El lago Mascardi en un dia tormentoso_Rio '>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-010_Patagonia_El Lago Belgrano y la furia del viento_PN .jpg' title='LAG-010_Patagonia_El Lago Belgrano y la furia del viento_PN .jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-010_Patagonia_El Lago Belgrano y la furia del viento_PN .jpg' alt='LAG-010_Patagonia_El Lago Belgrano y la furia del viento_PN .jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-010_Patagonia_El Lago Belgrano y la furia del viento_PN .jpg' title='10_Patagonia_El Lago Belgrano y la furia del viento_PN '>
+        <img src='/images/collections-thumbs/LAG/LAG-010_Patagonia_El Lago Belgrano y la furia del viento_PN .jpg' alt='10_Patagonia_El Lago Belgrano y la furia del viento_PN '>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-011_Patagonia_Lago Nahuel Huapi con viento_Rio Negro.jpg' title='LAG-011_Patagonia_Lago Nahuel Huapi con viento_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-011_Patagonia_Lago Nahuel Huapi con viento_Rio Negro.jpg' alt='LAG-011_Patagonia_Lago Nahuel Huapi con viento_Rio Negro.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-011_Patagonia_Lago Nahuel Huapi con viento_Rio Negro.jpg' title='11_Patagonia_Lago Nahuel Huapi con viento_Rio Negro'>
+        <img src='/images/collections-thumbs/LAG/LAG-011_Patagonia_Lago Nahuel Huapi con viento_Rio Negro.jpg' alt='11_Patagonia_Lago Nahuel Huapi con viento_Rio Negro'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-013_Patagonia_Lago Cholila y al fondo el Dos Picos_Chubu.jpg' title='LAG-013_Patagonia_Lago Cholila y al fondo el Dos Picos_Chubu.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-013_Patagonia_Lago Cholila y al fondo el Dos Picos_Chubu.jpg' alt='LAG-013_Patagonia_Lago Cholila y al fondo el Dos Picos_Chubu.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-013_Patagonia_Lago Cholila y al fondo el Dos Picos_Chubu.jpg' title='13_Patagonia_Lago Cholila y al fondo el Dos Picos_Chubu'>
+        <img src='/images/collections-thumbs/LAG/LAG-013_Patagonia_Lago Cholila y al fondo el Dos Picos_Chubu.jpg' alt='13_Patagonia_Lago Cholila y al fondo el Dos Picos_Chubu'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-014_Patagonia_la transparencia del lago Meliquina_Neuque.jpg' title='LAG-014_Patagonia_la transparencia del lago Meliquina_Neuque.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-014_Patagonia_la transparencia del lago Meliquina_Neuque.jpg' alt='LAG-014_Patagonia_la transparencia del lago Meliquina_Neuque.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-014_Patagonia_la transparencia del lago Meliquina_Neuque.jpg' title='14_Patagonia_la transparencia del lago Meliquina_Neuque'>
+        <img src='/images/collections-thumbs/LAG/LAG-014_Patagonia_la transparencia del lago Meliquina_Neuque.jpg' alt='14_Patagonia_la transparencia del lago Meliquina_Neuque'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-015_Patagonia_el lago Quillen en un dia de calma total_N.jpg' title='LAG-015_Patagonia_el lago Quillen en un dia de calma total_N.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-015_Patagonia_el lago Quillen en un dia de calma total_N.jpg' alt='LAG-015_Patagonia_el lago Quillen en un dia de calma total_N.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-015_Patagonia_el lago Quillen en un dia de calma total_N.jpg' title='15_Patagonia_el lago Quillen en un dia de calma total_N'>
+        <img src='/images/collections-thumbs/LAG/LAG-015_Patagonia_el lago Quillen en un dia de calma total_N.jpg' alt='15_Patagonia_el lago Quillen en un dia de calma total_N'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-016_Patagonia_lago en calma_Neuquen.jpg' title='LAG-016_Patagonia_lago en calma_Neuquen.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-016_Patagonia_lago en calma_Neuquen.jpg' alt='LAG-016_Patagonia_lago en calma_Neuquen.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-016_Patagonia_lago en calma_Neuquen.jpg' title='16_Patagonia_lago en calma_Neuquen'>
+        <img src='/images/collections-thumbs/LAG/LAG-016_Patagonia_lago en calma_Neuquen.jpg' alt='16_Patagonia_lago en calma_Neuquen'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-017_Patagonia_la Primavera en el lago Guillelmo_desde la.jpg' title='LAG-017_Patagonia_la Primavera en el lago Guillelmo_desde la.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-017_Patagonia_la Primavera en el lago Guillelmo_desde la.jpg' alt='LAG-017_Patagonia_la Primavera en el lago Guillelmo_desde la.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-017_Patagonia_la Primavera en el lago Guillelmo_desde la.jpg' title='17_Patagonia_la Primavera en el lago Guillelmo_desde la'>
+        <img src='/images/collections-thumbs/LAG/LAG-017_Patagonia_la Primavera en el lago Guillelmo_desde la.jpg' alt='17_Patagonia_la Primavera en el lago Guillelmo_desde la'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-018_Patagonia_El lago Cholila en una tarde de calma_Chub.jpg' title='LAG-018_Patagonia_El lago Cholila en una tarde de calma_Chub.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-018_Patagonia_El lago Cholila en una tarde de calma_Chub.jpg' alt='LAG-018_Patagonia_El lago Cholila en una tarde de calma_Chub.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-018_Patagonia_El lago Cholila en una tarde de calma_Chub.jpg' title='18_Patagonia_El lago Cholila en una tarde de calma_Chub'>
+        <img src='/images/collections-thumbs/LAG/LAG-018_Patagonia_El lago Cholila en una tarde de calma_Chub.jpg' alt='18_Patagonia_El lago Cholila en una tarde de calma_Chub'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-019_Patagonia_el Lago Puelo_PN Lago Puelo_Chubut.jpg' title='LAG-019_Patagonia_el Lago Puelo_PN Lago Puelo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-019_Patagonia_el Lago Puelo_PN Lago Puelo_Chubut.jpg' alt='LAG-019_Patagonia_el Lago Puelo_PN Lago Puelo_Chubut.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-019_Patagonia_el Lago Puelo_PN Lago Puelo_Chubut.jpg' title='19_Patagonia_el Lago Puelo_PN Lago Puelo_Chubut'>
+        <img src='/images/collections-thumbs/LAG/LAG-019_Patagonia_el Lago Puelo_PN Lago Puelo_Chubut.jpg' alt='19_Patagonia_el Lago Puelo_PN Lago Puelo_Chubut'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-020_Patagonia_El lago Nahuel Huapi en otoño_Rio Negro.jpg' title='LAG-020_Patagonia_El lago Nahuel Huapi en otoño_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-020_Patagonia_El lago Nahuel Huapi en otoño_Rio Negro.jpg' alt='LAG-020_Patagonia_El lago Nahuel Huapi en otoño_Rio Negro.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-020_Patagonia_El lago Nahuel Huapi en otoño_Rio Negro.jpg' title='20_Patagonia_El lago Nahuel Huapi en otoño_Rio Negro'>
+        <img src='/images/collections-thumbs/LAG/LAG-020_Patagonia_El lago Nahuel Huapi en otoño_Rio Negro.jpg' alt='20_Patagonia_El lago Nahuel Huapi en otoño_Rio Negro'>
       </a>
-      <a href='/images/collections/LAG_Los-Lagos/LAG-021_Patagonia_el lago Verde_PN Los Alerces_Chubut.jpg' title='LAG-021_Patagonia_el lago Verde_PN Los Alerces_Chubut.jpg'>
-        <img src='/images/collections-thumbs/LAG/LAG-021_Patagonia_el lago Verde_PN Los Alerces_Chubut.jpg' alt='LAG-021_Patagonia_el lago Verde_PN Los Alerces_Chubut.jpg'>
+      <a href='/images/collections/LAG_Los-Lagos/LAG-021_Patagonia_el lago Verde_PN Los Alerces_Chubut.jpg' title='21_Patagonia_el lago Verde_PN Los Alerces_Chubut'>
+        <img src='/images/collections-thumbs/LAG/LAG-021_Patagonia_el lago Verde_PN Los Alerces_Chubut.jpg' alt='21_Patagonia_el lago Verde_PN Los Alerces_Chubut'>
       </a>
     </div>
 

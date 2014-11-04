@@ -3,8 +3,6 @@
 <!--- here goes meta.php -->
 <?php include "components/php/meta.php"; ?>
 
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
-
     <title>Patagonia Images |   Flores y  Flora   </title>
 
     <!-- Bootstrap core CSS -->
@@ -114,65 +112,65 @@
 <!-- ++ nuevos links --------------------------------------->
 
     <div id='links'>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-001_Patagonia_Nalca_Selva Valdiviana.jpg' title='FLO-001_Patagonia_Nalca_Selva Valdiviana.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-001_Patagonia_Nalca_Selva Valdiviana.jpg' alt='FLO-001_Patagonia_Nalca_Selva Valdiviana.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-001_Patagonia_Nalca_Selva Valdiviana.jpg' title='01_Patagonia_Nalca_Selva Valdiviana'>
+        <img src='/images/collections-thumbs/FLO/FLO-001_Patagonia_Nalca_Selva Valdiviana.jpg' alt='01_Patagonia_Nalca_Selva Valdiviana'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-002_Patagonia_Alajabas o Fuchsias_bosque andino.jpg' title='FLO-002_Patagonia_Alajabas o Fuchsias_bosque andino.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-002_Patagonia_Alajabas o Fuchsias_bosque andino.jpg' alt='FLO-002_Patagonia_Alajabas o Fuchsias_bosque andino.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-002_Patagonia_Alajabas o Fuchsias_bosque andino.jpg' title='02_Patagonia_Alajabas o Fuchsias_bosque andino'>
+        <img src='/images/collections-thumbs/FLO/FLO-002_Patagonia_Alajabas o Fuchsias_bosque andino.jpg' alt='02_Patagonia_Alajabas o Fuchsias_bosque andino'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-003_Patagonia_.Amancays del Desierto, Valle del Rio Pint.jpg' title='FLO-003_Patagonia_.Amancays del Desierto, Valle del Rio Pint.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-003_Patagonia_.Amancays del Desierto, Valle del Rio Pint.jpg' alt='FLO-003_Patagonia_.Amancays del Desierto, Valle del Rio Pint.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-003_Patagonia_.Amancays del Desierto, Valle del Rio Pint.jpg' title='03_Patagonia_.Amancays del Desierto, Valle del Rio Pint'>
+        <img src='/images/collections-thumbs/FLO/FLO-003_Patagonia_.Amancays del Desierto, Valle del Rio Pint.jpg' alt='03_Patagonia_.Amancays del Desierto, Valle del Rio Pint'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-004_Patagonia_flor de Cuye_Ecotono_Rio Negro.jpg' title='FLO-004_Patagonia_flor de Cuye_Ecotono_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-004_Patagonia_flor de Cuye_Ecotono_Rio Negro.jpg' alt='FLO-004_Patagonia_flor de Cuye_Ecotono_Rio Negro.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-004_Patagonia_flor de Cuye_Ecotono_Rio Negro.jpg' title='04_Patagonia_flor de Cuye_Ecotono_Rio Negro'>
+        <img src='/images/collections-thumbs/FLO/FLO-004_Patagonia_flor de Cuye_Ecotono_Rio Negro.jpg' alt='04_Patagonia_flor de Cuye_Ecotono_Rio Negro'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-005_Patagonia_ Junellia suculentifolia_Pichi Leufu_Rio N.jpg' title='FLO-005_Patagonia_ Junellia suculentifolia_Pichi Leufu_Rio N.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-005_Patagonia_ Junellia suculentifolia_Pichi Leufu_Rio N.jpg' alt='FLO-005_Patagonia_ Junellia suculentifolia_Pichi Leufu_Rio N.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-005_Patagonia_ Junellia suculentifolia_Pichi Leufu_Rio N.jpg' title='05_Patagonia_ Junellia suculentifolia_Pichi Leufu_Rio N'>
+        <img src='/images/collections-thumbs/FLO/FLO-005_Patagonia_ Junellia suculentifolia_Pichi Leufu_Rio N.jpg' alt='05_Patagonia_ Junellia suculentifolia_Pichi Leufu_Rio N'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-006_Patagonia_Flores de Fuchsia Magallanica_Matorral_are.jpg' title='FLO-006_Patagonia_Flores de Fuchsia Magallanica_Matorral_are.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-006_Patagonia_Flores de Fuchsia Magallanica_Matorral_are.jpg' alt='FLO-006_Patagonia_Flores de Fuchsia Magallanica_Matorral_are.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-006_Patagonia_Flores de Fuchsia Magallanica_Matorral_are.jpg' title='06_Patagonia_Flores de Fuchsia Magallanica_Matorral_are'>
+        <img src='/images/collections-thumbs/FLO/FLO-006_Patagonia_Flores de Fuchsia Magallanica_Matorral_are.jpg' alt='06_Patagonia_Flores de Fuchsia Magallanica_Matorral_are'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-007_Patagonia_Orquidea_Lirio  verde. Chloraea magellanic.jpg' title='FLO-007_Patagonia_Orquidea_Lirio  verde. Chloraea magellanic.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-007_Patagonia_Orquidea_Lirio  verde. Chloraea magellanic.jpg' alt='FLO-007_Patagonia_Orquidea_Lirio  verde. Chloraea magellanic.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-007_Patagonia_Orquidea_Lirio  verde. Chloraea magellanic.jpg' title='07_Patagonia_Orquidea_Lirio  verde. Chloraea magellanic'>
+        <img src='/images/collections-thumbs/FLO/FLO-007_Patagonia_Orquidea_Lirio  verde. Chloraea magellanic.jpg' alt='07_Patagonia_Orquidea_Lirio  verde. Chloraea magellanic'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-008_Patagonia_Notro, detalle. Embothrium coccineum_Santa.jpg' title='FLO-008_Patagonia_Notro, detalle. Embothrium coccineum_Santa.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-008_Patagonia_Notro, detalle. Embothrium coccineum_Santa.jpg' alt='FLO-008_Patagonia_Notro, detalle. Embothrium coccineum_Santa.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-008_Patagonia_Notro, detalle. Embothrium coccineum_Santa.jpg' title='08_Patagonia_Notro, detalle. Embothrium coccineum_Santa'>
+        <img src='/images/collections-thumbs/FLO/FLO-008_Patagonia_Notro, detalle. Embothrium coccineum_Santa.jpg' alt='08_Patagonia_Notro, detalle. Embothrium coccineum_Santa'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-009_Patagonia_Quintrales_area Lalo Llao_Rio Negro.jpg' title='FLO-009_Patagonia_Quintrales_area Lalo Llao_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-009_Patagonia_Quintrales_area Lalo Llao_Rio Negro.jpg' alt='FLO-009_Patagonia_Quintrales_area Lalo Llao_Rio Negro.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-009_Patagonia_Quintrales_area Lalo Llao_Rio Negro.jpg' title='09_Patagonia_Quintrales_area Lalo Llao_Rio Negro'>
+        <img src='/images/collections-thumbs/FLO/FLO-009_Patagonia_Quintrales_area Lalo Llao_Rio Negro.jpg' alt='09_Patagonia_Quintrales_area Lalo Llao_Rio Negro'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-010_Patagonia_Topa Topa_ camino al monteTronador_Rio Neg.jpg' title='FLO-010_Patagonia_Topa Topa_ camino al monteTronador_Rio Neg.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-010_Patagonia_Topa Topa_ camino al monteTronador_Rio Neg.jpg' alt='FLO-010_Patagonia_Topa Topa_ camino al monteTronador_Rio Neg.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-010_Patagonia_Topa Topa_ camino al monteTronador_Rio Neg.jpg' title='10_Patagonia_Topa Topa_ camino al monteTronador_Rio Neg'>
+        <img src='/images/collections-thumbs/FLO/FLO-010_Patagonia_Topa Topa_ camino al monteTronador_Rio Neg.jpg' alt='10_Patagonia_Topa Topa_ camino al monteTronador_Rio Neg'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-011_Patagonia_Flores del ambiente Altoandino_Ranunculus .jpg' title='FLO-011_Patagonia_Flores del ambiente Altoandino_Ranunculus .jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-011_Patagonia_Flores del ambiente Altoandino_Ranunculus .jpg' alt='FLO-011_Patagonia_Flores del ambiente Altoandino_Ranunculus .jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-011_Patagonia_Flores del ambiente Altoandino_Ranunculus .jpg' title='11_Patagonia_Flores del ambiente Altoandino_Ranunculus '>
+        <img src='/images/collections-thumbs/FLO/FLO-011_Patagonia_Flores del ambiente Altoandino_Ranunculus .jpg' alt='11_Patagonia_Flores del ambiente Altoandino_Ranunculus '>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-012_Patagonia_Jardin de flores junto al arroyo Van Titte.jpg' title='FLO-012_Patagonia_Jardin de flores junto al arroyo Van Titte.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-012_Patagonia_Jardin de flores junto al arroyo Van Titte.jpg' alt='FLO-012_Patagonia_Jardin de flores junto al arroyo Van Titte.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-012_Patagonia_Jardin de flores junto al arroyo Van Titte.jpg' title='12_Patagonia_Jardin de flores junto al arroyo Van Titte'>
+        <img src='/images/collections-thumbs/FLO/FLO-012_Patagonia_Jardin de flores junto al arroyo Van Titte.jpg' alt='12_Patagonia_Jardin de flores junto al arroyo Van Titte'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-013_Patagonia_Mutisia decurrens_Rio Negro.jpg' title='FLO-013_Patagonia_Mutisia decurrens_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-013_Patagonia_Mutisia decurrens_Rio Negro.jpg' alt='FLO-013_Patagonia_Mutisia decurrens_Rio Negro.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-013_Patagonia_Mutisia decurrens_Rio Negro.jpg' title='13_Patagonia_Mutisia decurrens_Rio Negro'>
+        <img src='/images/collections-thumbs/FLO/FLO-013_Patagonia_Mutisia decurrens_Rio Negro.jpg' alt='13_Patagonia_Mutisia decurrens_Rio Negro'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-014_Patagonia_Mutisia Reina Mora_Chubut.jpg' title='FLO-014_Patagonia_Mutisia Reina Mora_Chubut.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-014_Patagonia_Mutisia Reina Mora_Chubut.jpg' alt='FLO-014_Patagonia_Mutisia Reina Mora_Chubut.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-014_Patagonia_Mutisia Reina Mora_Chubut.jpg' title='14_Patagonia_Mutisia Reina Mora_Chubut'>
+        <img src='/images/collections-thumbs/FLO/FLO-014_Patagonia_Mutisia Reina Mora_Chubut.jpg' alt='14_Patagonia_Mutisia Reina Mora_Chubut'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-015_Patagonia_Amancay. Alstroemeria aurea_Valle del Chal.jpg' title='FLO-015_Patagonia_Amancay. Alstroemeria aurea_Valle del Chal.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-015_Patagonia_Amancay. Alstroemeria aurea_Valle del Chal.jpg' alt='FLO-015_Patagonia_Amancay. Alstroemeria aurea_Valle del Chal.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-015_Patagonia_Amancay. Alstroemeria aurea_Valle del Chal.jpg' title='15_Patagonia_Amancay. Alstroemeria aurea_Valle del Chal'>
+        <img src='/images/collections-thumbs/FLO/FLO-015_Patagonia_Amancay. Alstroemeria aurea_Valle del Chal.jpg' alt='15_Patagonia_Amancay. Alstroemeria aurea_Valle del Chal'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-016_Patagonia_matorral de mutisias_Lago Epuyen_Chubut.jpg' title='FLO-016_Patagonia_matorral de mutisias_Lago Epuyen_Chubut.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-016_Patagonia_matorral de mutisias_Lago Epuyen_Chubut.jpg' alt='FLO-016_Patagonia_matorral de mutisias_Lago Epuyen_Chubut.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-016_Patagonia_matorral de mutisias_Lago Epuyen_Chubut.jpg' title='16_Patagonia_matorral de mutisias_Lago Epuyen_Chubut'>
+        <img src='/images/collections-thumbs/FLO/FLO-016_Patagonia_matorral de mutisias_Lago Epuyen_Chubut.jpg' alt='16_Patagonia_matorral de mutisias_Lago Epuyen_Chubut'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-017_Patagonia_matorral de mutisias-aproximacion_lago Epu.jpg' title='FLO-017_Patagonia_matorral de mutisias-aproximacion_lago Epu.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-017_Patagonia_matorral de mutisias-aproximacion_lago Epu.jpg' alt='FLO-017_Patagonia_matorral de mutisias-aproximacion_lago Epu.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-017_Patagonia_matorral de mutisias-aproximacion_lago Epu.jpg' title='17_Patagonia_matorral de mutisias-aproximacion_lago Epu'>
+        <img src='/images/collections-thumbs/FLO/FLO-017_Patagonia_matorral de mutisias-aproximacion_lago Epu.jpg' alt='17_Patagonia_matorral de mutisias-aproximacion_lago Epu'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-018_Patagonia_matorral de Quintales_area Llao Llao_Baril.jpg' title='FLO-018_Patagonia_matorral de Quintales_area Llao Llao_Baril.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-018_Patagonia_matorral de Quintales_area Llao Llao_Baril.jpg' alt='FLO-018_Patagonia_matorral de Quintales_area Llao Llao_Baril.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-018_Patagonia_matorral de Quintales_area Llao Llao_Baril.jpg' title='18_Patagonia_matorral de Quintales_area Llao Llao_Baril'>
+        <img src='/images/collections-thumbs/FLO/FLO-018_Patagonia_matorral de Quintales_area Llao Llao_Baril.jpg' alt='18_Patagonia_matorral de Quintales_area Llao Llao_Baril'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-019_Patagonia_flor de Quintral_individuo_Rio Negro.jpg' title='FLO-019_Patagonia_flor de Quintral_individuo_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-019_Patagonia_flor de Quintral_individuo_Rio Negro.jpg' alt='FLO-019_Patagonia_flor de Quintral_individuo_Rio Negro.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-019_Patagonia_flor de Quintral_individuo_Rio Negro.jpg' title='19_Patagonia_flor de Quintral_individuo_Rio Negro'>
+        <img src='/images/collections-thumbs/FLO/FLO-019_Patagonia_flor de Quintral_individuo_Rio Negro.jpg' alt='19_Patagonia_flor de Quintral_individuo_Rio Negro'>
       </a>
-      <a href='/images/collections/FLO_Flores-y-Flora/FLO-020_Patagonia_Boton de Oro_Peninsula Valdes_Chubut.jpg' title='FLO-020_Patagonia_Boton de Oro_Peninsula Valdes_Chubut.jpg'>
-        <img src='/images/collections-thumbs/FLO/FLO-020_Patagonia_Boton de Oro_Peninsula Valdes_Chubut.jpg' alt='FLO-020_Patagonia_Boton de Oro_Peninsula Valdes_Chubut.jpg'>
+      <a href='/images/collections/FLO_Flores-y-Flora/FLO-020_Patagonia_Boton de Oro_Peninsula Valdes_Chubut.jpg' title='20_Patagonia_Boton de Oro_Peninsula Valdes_Chubut'>
+        <img src='/images/collections-thumbs/FLO/FLO-020_Patagonia_Boton de Oro_Peninsula Valdes_Chubut.jpg' alt='20_Patagonia_Boton de Oro_Peninsula Valdes_Chubut'>
       </a>
     </div>
 

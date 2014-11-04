@@ -3,7 +3,6 @@
 <!--- here goes meta.php -->
 <?php include "components/php/meta.php"; ?>
 
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
 
     <title>Patagonia Images |   Aves Marinas   </title>
 
@@ -114,45 +113,45 @@
  <!--++  here goes new links: AMR gallery. -->
 
    <div id='links'>
-      <a href='/images/collections/AMR_Aves-Marinas/AMR-001_Patagonia_Gaviotas de Olrog_Chubut.jpg' title='AMR-001_Patagonia_Gaviotas de Olrog_Chubut.jpg'>
-        <img src='/images/collections-thumbs/AMR/AMR-001_Patagonia_Gaviotas de Olrog_Chubut.jpg' alt='AMR-001_Patagonia_Gaviotas de Olrog_Chubut.jpg'>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-001_Patagonia_Gaviotas de Olrog_Chubut.jpg' title='01_Patagonia_Gaviotas de Olrog_Chubut'>
+        <img src='/images/collections-thumbs/AMR/AMR-001_Patagonia_Gaviotas de Olrog_Chubut.jpg' alt='01_Patagonia_Gaviotas de Olrog_Chubut'>
       </a>
-      <a href='/images/collections/AMR_Aves-Marinas/AMR-002_Patagonia_Gaviotas Cocineras_Chubut.jpg' title='AMR-002_Patagonia_Gaviotas Cocineras_Chubut.jpg'>
-        <img src='/images/collections-thumbs/AMR/AMR-002_Patagonia_Gaviotas Cocineras_Chubut.jpg' alt='AMR-002_Patagonia_Gaviotas Cocineras_Chubut.jpg'>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-002_Patagonia_Gaviotas Cocineras_Chubut.jpg' title='02_Patagonia_Gaviotas Cocineras_Chubut'>
+        <img src='/images/collections-thumbs/AMR/AMR-002_Patagonia_Gaviotas Cocineras_Chubut.jpg' alt='02_Patagonia_Gaviotas Cocineras_Chubut'>
       </a>
-      <a href='/images/collections/AMR_Aves-Marinas/AMR-003_Patagonia_Cormoranes nidificando_Punta Loma_Chubut.jpg' title='AMR-003_Patagonia_Cormoranes nidificando_Punta Loma_Chubut.jpg'>
-        <img src='/images/collections-thumbs/AMR/AMR-003_Patagonia_Cormoranes nidificando_Punta Loma_Chubut.jpg' alt='AMR-003_Patagonia_Cormoranes nidificando_Punta Loma_Chubut.jpg'>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-003_Patagonia_Cormoranes nidificando_Punta Loma_Chubut.jpg' title='03_Patagonia_Cormoranes nidificando_Punta Loma_Chubut'>
+        <img src='/images/collections-thumbs/AMR/AMR-003_Patagonia_Cormoranes nidificando_Punta Loma_Chubut.jpg' alt='03_Patagonia_Cormoranes nidificando_Punta Loma_Chubut'>
       </a>
-      <a href='/images/collections/AMR_Aves-Marinas/AMR-004_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz.jpg' title='AMR-004_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/AMR/AMR-004_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz.jpg' alt='AMR-004_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz.jpg'>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-004_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz.jpg' title='04_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz'>
+        <img src='/images/collections-thumbs/AMR/AMR-004_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz.jpg' alt='04_Patagonia_Bandada de Gaviotas Cocineras_Santa Cruz'>
       </a>
 
 <!-- fix  5. 6.  --> 
 
-<a href='/images/collections/AMR_Aves-Marinas/AMR-005_Patagonia_Bandada de gaviotines_Chubut.jpg' title='AMR-005_Patagonia_Bandada de gaviotines_Chubut.jpg'>
-        <img src='/images/collections-thumbs/AMR/AMR-005_Patagonia_Bandada de gaviotines_Chubut.jpg' alt='AMR-005_Patagonia_Bandada de gaviotines_Chubut.jpg'>
+<a href='/images/collections/AMR_Aves-Marinas/AMR-005_Patagonia_Bandada de gaviotines_Chubut.jpg' title='05_Patagonia_Bandada de gaviotines_Chubut'>
+        <img src='/images/collections-thumbs/AMR/AMR-005_Patagonia_Bandada de gaviotines_Chubut.jpg' alt='05_Patagonia_Bandada de gaviotines_Chubut'>
       </a>
-      <a href='/images/collections/AMR_Aves-Marinas/AMR-006_Patagonia_ Gaviotines Sudamericanos_Chubut.jpg' title='AMR-006_Patagonia_ Gaviotines Sudamericanos_Chubut.jpg'>
-        <img src='/images/collections-thumbs/AMR/AMR-006_Patagonia_ Gaviotines Sudamericanos_Chubut.jpg' alt='AMR-006_Patagonia_ Gaviotines Sudamericanos_Chubut.jpg'>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-006_Patagonia_ Gaviotines Sudamericanos_Chubut.jpg' title='06_Patagonia_ Gaviotines Sudamericanos_Chubut'>
+        <img src='/images/collections-thumbs/AMR/AMR-006_Patagonia_ Gaviotines Sudamericanos_Chubut.jpg' alt='06_Patagonia_ Gaviotines Sudamericanos_Chubut'>
       </a>
-      <a href='/images/collections/AMR_Aves-Marinas/AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg' title='AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/AMR/AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg' alt='AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg'>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg' title='07_Patagonia_Golondrinas_grupo_Chubut'>
+        <img src='/images/collections-thumbs/AMR/AMR-007_Patagonia_Golondrinas_grupo_Chubut.jpg' alt='07_Patagonia_Golondrinas_grupo_Chubut'>
       </a>
-      <a href='/images/collections/AMR_Aves-Marinas/AMR-008_Patagonia_grupo de golondrinas_Rio negro.jpg' title='AMR-008_Patagonia_grupo de golondrinas_Rio negro.jpg'>
-        <img src='/images/collections-thumbs/AMR/AMR-008_Patagonia_grupo de golondrinas_Rio negro.jpg' alt='AMR-008_Patagonia_grupo de golondrinas_Rio negro.jpg'>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-008_Patagonia_grupo de golondrinas_Rio negro.jpg' title='08_Patagonia_grupo de golondrinas_Rio negro'>
+        <img src='/images/collections-thumbs/AMR/AMR-008_Patagonia_grupo de golondrinas_Rio negro.jpg' alt='08_Patagonia_grupo de golondrinas_Rio negro'>
       </a>
 <!-- /fix -->
-      <a href='/images/collections/AMR_Aves-Marinas/AMR-009_Patagonia_golondrina_Chubut.jpg' title='AMR-009_Patagonia_golondrina_Chubut.jpg'>
-        <img src='/images/collections-thumbs/AMR/AMR-009_Patagonia_golondrina_Chubut.jpg' alt='AMR-009_Patagonia_golondrina_Chubut.jpg'>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-009_Patagonia_golondrina_Chubut.jpg' title='09_Patagonia_golondrina_Chubut'>
+        <img src='/images/collections-thumbs/AMR/AMR-009_Patagonia_golondrina_Chubut.jpg' alt='09_Patagonia_golondrina_Chubut'>
       </a>
-      <a href='/images/collections/AMR_Aves-Marinas/AMR_010_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi.jpg' title='AMR_010_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi.jpg'>
-        <img src='/images/collections-thumbs/AMR/AMR_010_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi.jpg' alt='AMR_010_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi.jpg'>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR_010_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi.jpg' title='10_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi'>
+        <img src='/images/collections-thumbs/AMR/AMR_010_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi.jpg' alt='10_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi'>
       </a>
-      <a href='/images/collections/AMR_Aves-Marinas/AMR-011_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut.jpg' title='AMR-011_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/AMR/AMR-011_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut.jpg' alt='AMR-011_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut.jpg'>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-011_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut.jpg' title='11_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut'>
+        <img src='/images/collections-thumbs/AMR/AMR-011_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut.jpg' alt='11_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut'>
       </a>
-      <a href='/images/collections/AMR_Aves-Marinas/AMR-012_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal.jpg' title='AMR-012_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal.jpg'>
-        <img src='/images/collections-thumbs/AMR/AMR-012_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal.jpg' alt='AMR-012_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal.jpg'>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-012_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal.jpg' title='12_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal'>
+        <img src='/images/collections-thumbs/AMR/AMR-012_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal.jpg' alt='12_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal'>
       </a>
     </div>
 

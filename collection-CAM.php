@@ -3,8 +3,6 @@
 <!--- here goes meta.php -->
 <?php include "components/php/meta.php"; ?>
 
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
-
     <title>Patagonia Images |   Caminos   </title>
 
     <!-- Bootstrap core CSS -->
@@ -114,65 +112,65 @@
  <!--++   here goes links ------------------------------->
 
     <div id='links'>
-      <a href='/images/collections/CAM_Caminos/CAM-001_Patagonia_Estepa_Santa Cruz.jpg' title='CAM-001_Patagonia_Estepa_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-001_Patagonia_Estepa_Santa Cruz.jpg' alt='CAM-001_Patagonia_Estepa_Santa Cruz.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-001_Patagonia_Estepa_Santa Cruz.jpg' title='01_Patagonia_Estepa_Santa Cruz'>
+        <img src='/images/collections-thumbs/CAM/CAM-001_Patagonia_Estepa_Santa Cruz.jpg' alt='01_Patagonia_Estepa_Santa Cruz'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-002_Patagonia_entrada a un campo_Chubut.jpg' title='CAM-002_Patagonia_entrada a un campo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-002_Patagonia_entrada a un campo_Chubut.jpg' alt='CAM-002_Patagonia_entrada a un campo_Chubut.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-002_Patagonia_entrada a un campo_Chubut.jpg' title='02_Patagonia_entrada a un campo_Chubut'>
+        <img src='/images/collections-thumbs/CAM/CAM-002_Patagonia_entrada a un campo_Chubut.jpg' alt='02_Patagonia_entrada a un campo_Chubut'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-003_Patagonia_Pichi Leufu_Rio Negro.jpg' title='CAM-003_Patagonia_Pichi Leufu_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-003_Patagonia_Pichi Leufu_Rio Negro.jpg' alt='CAM-003_Patagonia_Pichi Leufu_Rio Negro.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-003_Patagonia_Pichi Leufu_Rio Negro.jpg' title='03_Patagonia_Pichi Leufu_Rio Negro'>
+        <img src='/images/collections-thumbs/CAM/CAM-003_Patagonia_Pichi Leufu_Rio Negro.jpg' alt='03_Patagonia_Pichi Leufu_Rio Negro'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-004_Patagonia_Antiguo puente en ruta 40.jpg' title='CAM-004_Patagonia_Antiguo puente en ruta 40.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-004_Patagonia_Antiguo puente en ruta 40.jpg' alt='CAM-004_Patagonia_Antiguo puente en ruta 40.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-004_Patagonia_Antiguo puente en ruta 40.jpg' title='04_Patagonia_Antiguo puente en ruta 40'>
+        <img src='/images/collections-thumbs/CAM/CAM-004_Patagonia_Antiguo puente en ruta 40.jpg' alt='04_Patagonia_Antiguo puente en ruta 40'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-005_Patagonia_Camino hacia el Neumeyer_Bariloche.jpg' title='CAM-005_Patagonia_Camino hacia el Neumeyer_Bariloche.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-005_Patagonia_Camino hacia el Neumeyer_Bariloche.jpg' alt='CAM-005_Patagonia_Camino hacia el Neumeyer_Bariloche.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-005_Patagonia_Camino hacia el Neumeyer_Bariloche.jpg' title='05_Patagonia_Camino hacia el Neumeyer_Bariloche'>
+        <img src='/images/collections-thumbs/CAM/CAM-005_Patagonia_Camino hacia el Neumeyer_Bariloche.jpg' alt='05_Patagonia_Camino hacia el Neumeyer_Bariloche'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-006_Patagonia_Camino al cerro Otto_Bariloche.jpg' title='CAM-006_Patagonia_Camino al cerro Otto_Bariloche.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-006_Patagonia_Camino al cerro Otto_Bariloche.jpg' alt='CAM-006_Patagonia_Camino al cerro Otto_Bariloche.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-006_Patagonia_Camino al cerro Otto_Bariloche.jpg' title='06_Patagonia_Camino al cerro Otto_Bariloche'>
+        <img src='/images/collections-thumbs/CAM/CAM-006_Patagonia_Camino al cerro Otto_Bariloche.jpg' alt='06_Patagonia_Camino al cerro Otto_Bariloche'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-007_Patagonia_Lago Puelo_Chubut.jpg' title='CAM-007_Patagonia_Lago Puelo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-007_Patagonia_Lago Puelo_Chubut.jpg' alt='CAM-007_Patagonia_Lago Puelo_Chubut.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-007_Patagonia_Lago Puelo_Chubut.jpg' title='07_Patagonia_Lago Puelo_Chubut'>
+        <img src='/images/collections-thumbs/CAM/CAM-007_Patagonia_Lago Puelo_Chubut.jpg' alt='07_Patagonia_Lago Puelo_Chubut'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-008_Patagonia_En medio de la nada_Santa Cruz.jpg' title='CAM-008_Patagonia_En medio de la nada_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-008_Patagonia_En medio de la nada_Santa Cruz.jpg' alt='CAM-008_Patagonia_En medio de la nada_Santa Cruz.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-008_Patagonia_En medio de la nada_Santa Cruz.jpg' title='08_Patagonia_En medio de la nada_Santa Cruz'>
+        <img src='/images/collections-thumbs/CAM/CAM-008_Patagonia_En medio de la nada_Santa Cruz.jpg' alt='08_Patagonia_En medio de la nada_Santa Cruz'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-009_Patagonia_Ruta 40 Sur.jpg' title='CAM-009_Patagonia_Ruta 40 Sur.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-009_Patagonia_Ruta 40 Sur.jpg' alt='CAM-009_Patagonia_Ruta 40 Sur.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-009_Patagonia_Ruta 40 Sur.jpg' title='09_Patagonia_Ruta 40 Sur'>
+        <img src='/images/collections-thumbs/CAM/CAM-009_Patagonia_Ruta 40 Sur.jpg' alt='09_Patagonia_Ruta 40 Sur'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-010_Patagonia_Ruta 40_Lago Gutierrez_Bariloche.jpg' title='CAM-010_Patagonia_Ruta 40_Lago Gutierrez_Bariloche.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-010_Patagonia_Ruta 40_Lago Gutierrez_Bariloche.jpg' alt='CAM-010_Patagonia_Ruta 40_Lago Gutierrez_Bariloche.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-010_Patagonia_Ruta 40_Lago Gutierrez_Bariloche.jpg' title='10_Patagonia_Ruta 40_Lago Gutierrez_Bariloche'>
+        <img src='/images/collections-thumbs/CAM/CAM-010_Patagonia_Ruta 40_Lago Gutierrez_Bariloche.jpg' alt='10_Patagonia_Ruta 40_Lago Gutierrez_Bariloche'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-011_Patagonia_Camino a casa_Chubut.jpg' title='CAM-011_Patagonia_Camino a casa_Chubut.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-011_Patagonia_Camino a casa_Chubut.jpg' alt='CAM-011_Patagonia_Camino a casa_Chubut.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-011_Patagonia_Camino a casa_Chubut.jpg' title='11_Patagonia_Camino a casa_Chubut'>
+        <img src='/images/collections-thumbs/CAM/CAM-011_Patagonia_Camino a casa_Chubut.jpg' alt='11_Patagonia_Camino a casa_Chubut'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-012_Patagonia_camino al glaciar Moreno_Santa Cruz.jpg' title='CAM-012_Patagonia_camino al glaciar Moreno_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-012_Patagonia_camino al glaciar Moreno_Santa Cruz.jpg' alt='CAM-012_Patagonia_camino al glaciar Moreno_Santa Cruz.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-012_Patagonia_camino al glaciar Moreno_Santa Cruz.jpg' title='12_Patagonia_camino al glaciar Moreno_Santa Cruz'>
+        <img src='/images/collections-thumbs/CAM/CAM-012_Patagonia_camino al glaciar Moreno_Santa Cruz.jpg' alt='12_Patagonia_camino al glaciar Moreno_Santa Cruz'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-013_Patagonia_Los Altares_Chubut.jpg' title='CAM-013_Patagonia_Los Altares_Chubut.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-013_Patagonia_Los Altares_Chubut.jpg' alt='CAM-013_Patagonia_Los Altares_Chubut.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-013_Patagonia_Los Altares_Chubut.jpg' title='13_Patagonia_Los Altares_Chubut'>
+        <img src='/images/collections-thumbs/CAM/CAM-013_Patagonia_Los Altares_Chubut.jpg' alt='13_Patagonia_Los Altares_Chubut'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-014_Patagonia_camino de estancia.jpg' title='CAM-014_Patagonia_camino de estancia.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-014_Patagonia_camino de estancia.jpg' alt='CAM-014_Patagonia_camino de estancia.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-014_Patagonia_camino de estancia.jpg' title='14_Patagonia_camino de estancia'>
+        <img src='/images/collections-thumbs/CAM/CAM-014_Patagonia_camino de estancia.jpg' alt='14_Patagonia_camino de estancia'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-015_Patagonia_Camino a la cordillera.jpg' title='CAM-015_Patagonia_Camino a la cordillera.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-015_Patagonia_Camino a la cordillera.jpg' alt='CAM-015_Patagonia_Camino a la cordillera.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-015_Patagonia_Camino a la cordillera.jpg' title='15_Patagonia_Camino a la cordillera'>
+        <img src='/images/collections-thumbs/CAM/CAM-015_Patagonia_Camino a la cordillera.jpg' alt='15_Patagonia_Camino a la cordillera'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-016_Patagonia_saliendo de Epuyen_Chubut.jpg' title='CAM-016_Patagonia_saliendo de Epuyen_Chubut.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-016_Patagonia_saliendo de Epuyen_Chubut.jpg' alt='CAM-016_Patagonia_saliendo de Epuyen_Chubut.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-016_Patagonia_saliendo de Epuyen_Chubut.jpg' title='16_Patagonia_saliendo de Epuyen_Chubut'>
+        <img src='/images/collections-thumbs/CAM/CAM-016_Patagonia_saliendo de Epuyen_Chubut.jpg' alt='16_Patagonia_saliendo de Epuyen_Chubut'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-017_Patagonia_hacia el lago Puelo_Cubut.jpg' title='CAM-017_Patagonia_hacia el lago Puelo_Cubut.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-017_Patagonia_hacia el lago Puelo_Cubut.jpg' alt='CAM-017_Patagonia_hacia el lago Puelo_Cubut.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-017_Patagonia_hacia el lago Puelo_Cubut.jpg' title='17_Patagonia_hacia el lago Puelo_Cubut'>
+        <img src='/images/collections-thumbs/CAM/CAM-017_Patagonia_hacia el lago Puelo_Cubut.jpg' alt='17_Patagonia_hacia el lago Puelo_Cubut'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-018_Patagonia_Paso Los Molles_Rio Negro.jpg' title='CAM-018_Patagonia_Paso Los Molles_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-018_Patagonia_Paso Los Molles_Rio Negro.jpg' alt='CAM-018_Patagonia_Paso Los Molles_Rio Negro.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-018_Patagonia_Paso Los Molles_Rio Negro.jpg' title='18_Patagonia_Paso Los Molles_Rio Negro'>
+        <img src='/images/collections-thumbs/CAM/CAM-018_Patagonia_Paso Los Molles_Rio Negro.jpg' alt='18_Patagonia_Paso Los Molles_Rio Negro'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-019_Patagonia_Camino al Mascardi_Rio Negro.jpg' title='CAM-019_Patagonia_Camino al Mascardi_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-019_Patagonia_Camino al Mascardi_Rio Negro.jpg' alt='CAM-019_Patagonia_Camino al Mascardi_Rio Negro.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-019_Patagonia_Camino al Mascardi_Rio Negro.jpg' title='19_Patagonia_Camino al Mascardi_Rio Negro'>
+        <img src='/images/collections-thumbs/CAM/CAM-019_Patagonia_Camino al Mascardi_Rio Negro.jpg' alt='19_Patagonia_Camino al Mascardi_Rio Negro'>
       </a>
-      <a href='/images/collections/CAM_Caminos/CAM-021_Patagonia_ruta al glaciar Moreno antes de pavimentar.jpg' title='CAM-021_Patagonia_ruta al glaciar Moreno antes de pavimentar.jpg'>
-        <img src='/images/collections-thumbs/CAM/CAM-021_Patagonia_ruta al glaciar Moreno antes de pavimentar.jpg' alt='CAM-021_Patagonia_ruta al glaciar Moreno antes de pavimentar.jpg'>
+      <a href='/images/collections/CAM_Caminos/CAM-021_Patagonia_ruta al glaciar Moreno antes de pavimentar.jpg' title='21_Patagonia_ruta al glaciar Moreno antes de pavimentar'>
+        <img src='/images/collections-thumbs/CAM/CAM-021_Patagonia_ruta al glaciar Moreno antes de pavimentar.jpg' alt='21_Patagonia_ruta al glaciar Moreno antes de pavimentar'>
       </a>
     </div>
     <script src="js/blueimp-gallery.min.js"></script>

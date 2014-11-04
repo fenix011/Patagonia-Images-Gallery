@@ -3,8 +3,6 @@
 <!--- here goes meta.php -->
 <?php include "components/php/meta.php"; ?>
 
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
-
     <title>Patagonia Images |   Trekking y Deportes Outdoor   </title>
 
     <!-- Bootstrap core CSS -->
@@ -114,77 +112,77 @@
 <!-- nuevos links ------------------------------------------->
 
     <div id='links'>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-001_Patagonia_trekking en un bosque en otoño_area Frey, .jpg' title='TDO-001_Patagonia_trekking en un bosque en otoño_area Frey, .jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-001_Patagonia_trekking en un bosque en otoño_area Frey, .jpg' alt='TDO-001_Patagonia_trekking en un bosque en otoño_area Frey, .jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-001_Patagonia_trekking en un bosque en otoño_area Frey, .jpg' title='01_Patagonia_trekking en un bosque en otoño_area Frey, '>
+        <img src='/images/collections-thumbs/TDO/TDO-001_Patagonia_trekking en un bosque en otoño_area Frey, .jpg' alt='01_Patagonia_trekking en un bosque en otoño_area Frey, '>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-002_Patagonia_trek al Cerro Torre 1_Laguna Torre_Santa C.jpg' title='TDO-002_Patagonia_trek al Cerro Torre 1_Laguna Torre_Santa C.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-002_Patagonia_trek al Cerro Torre 1_Laguna Torre_Santa C.jpg' alt='TDO-002_Patagonia_trek al Cerro Torre 1_Laguna Torre_Santa C.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-002_Patagonia_trek al Cerro Torre 1_Laguna Torre_Santa C.jpg' title='02_Patagonia_trek al Cerro Torre 1_Laguna Torre_Santa C'>
+        <img src='/images/collections-thumbs/TDO/TDO-002_Patagonia_trek al Cerro Torre 1_Laguna Torre_Santa C.jpg' alt='02_Patagonia_trek al Cerro Torre 1_Laguna Torre_Santa C'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-003_Patagonia_trek al Cerro Torre 2_Glaciar del Torre_Sa.jpg' title='TDO-003_Patagonia_trek al Cerro Torre 2_Glaciar del Torre_Sa.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-003_Patagonia_trek al Cerro Torre 2_Glaciar del Torre_Sa.jpg' alt='TDO-003_Patagonia_trek al Cerro Torre 2_Glaciar del Torre_Sa.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-003_Patagonia_trek al Cerro Torre 2_Glaciar del Torre_Sa.jpg' title='03_Patagonia_trek al Cerro Torre 2_Glaciar del Torre_Sa'>
+        <img src='/images/collections-thumbs/TDO/TDO-003_Patagonia_trek al Cerro Torre 2_Glaciar del Torre_Sa.jpg' alt='03_Patagonia_trek al Cerro Torre 2_Glaciar del Torre_Sa'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-004_Patagonia_trek al Cerro Torre_Santa Cruz.jpg' title='TDO-004_Patagonia_trek al Cerro Torre_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-004_Patagonia_trek al Cerro Torre_Santa Cruz.jpg' alt='TDO-004_Patagonia_trek al Cerro Torre_Santa Cruz.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-004_Patagonia_trek al Cerro Torre_Santa Cruz.jpg' title='04_Patagonia_trek al Cerro Torre_Santa Cruz'>
+        <img src='/images/collections-thumbs/TDO/TDO-004_Patagonia_trek al Cerro Torre_Santa Cruz.jpg' alt='04_Patagonia_trek al Cerro Torre_Santa Cruz'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-006_Patagonia_descenso en kayak por aguas blancas_Rio Ne.jpg' title='TDO-006_Patagonia_descenso en kayak por aguas blancas_Rio Ne.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-006_Patagonia_descenso en kayak por aguas blancas_Rio Ne.jpg' alt='TDO-006_Patagonia_descenso en kayak por aguas blancas_Rio Ne.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-006_Patagonia_descenso en kayak por aguas blancas_Rio Ne.jpg' title='06_Patagonia_descenso en kayak por aguas blancas_Rio Ne'>
+        <img src='/images/collections-thumbs/TDO/TDO-006_Patagonia_descenso en kayak por aguas blancas_Rio Ne.jpg' alt='06_Patagonia_descenso en kayak por aguas blancas_Rio Ne'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-007_Patagonia_trek al filo del Cerro Lopez_Bariloche.jpg' title='TDO-007_Patagonia_trek al filo del Cerro Lopez_Bariloche.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-007_Patagonia_trek al filo del Cerro Lopez_Bariloche.jpg' alt='TDO-007_Patagonia_trek al filo del Cerro Lopez_Bariloche.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-007_Patagonia_trek al filo del Cerro Lopez_Bariloche.jpg' title='07_Patagonia_trek al filo del Cerro Lopez_Bariloche'>
+        <img src='/images/collections-thumbs/TDO/TDO-007_Patagonia_trek al filo del Cerro Lopez_Bariloche.jpg' alt='07_Patagonia_trek al filo del Cerro Lopez_Bariloche'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-008_Patagonia_trek en el Cerro Lopez.jpg' title='TDO-008_Patagonia_trek en el Cerro Lopez.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-008_Patagonia_trek en el Cerro Lopez.jpg' alt='TDO-008_Patagonia_trek en el Cerro Lopez.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-008_Patagonia_trek en el Cerro Lopez.jpg' title='08_Patagonia_trek en el Cerro Lopez'>
+        <img src='/images/collections-thumbs/TDO/TDO-008_Patagonia_trek en el Cerro Lopez.jpg' alt='08_Patagonia_trek en el Cerro Lopez'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-009_Patagonia_Exploracion en la Piedra del Encuentro_Pil.jpg' title='TDO-009_Patagonia_Exploracion en la Piedra del Encuentro_Pil.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-009_Patagonia_Exploracion en la Piedra del Encuentro_Pil.jpg' alt='TDO-009_Patagonia_Exploracion en la Piedra del Encuentro_Pil.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-009_Patagonia_Exploracion en la Piedra del Encuentro_Pil.jpg' title='09_Patagonia_Exploracion en la Piedra del Encuentro_Pil'>
+        <img src='/images/collections-thumbs/TDO/TDO-009_Patagonia_Exploracion en la Piedra del Encuentro_Pil.jpg' alt='09_Patagonia_Exploracion en la Piedra del Encuentro_Pil'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-010_Patagonia_Campamento en lago Cholila_Chubut.jpg' title='TDO-010_Patagonia_Campamento en lago Cholila_Chubut.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-010_Patagonia_Campamento en lago Cholila_Chubut.jpg' alt='TDO-010_Patagonia_Campamento en lago Cholila_Chubut.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-010_Patagonia_Campamento en lago Cholila_Chubut.jpg' title='10_Patagonia_Campamento en lago Cholila_Chubut'>
+        <img src='/images/collections-thumbs/TDO/TDO-010_Patagonia_Campamento en lago Cholila_Chubut.jpg' alt='10_Patagonia_Campamento en lago Cholila_Chubut'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-011_Patagonia_Campanento de pesca en el rio Limay_Rio Ne.jpg' title='TDO-011_Patagonia_Campanento de pesca en el rio Limay_Rio Ne.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-011_Patagonia_Campanento de pesca en el rio Limay_Rio Ne.jpg' alt='TDO-011_Patagonia_Campanento de pesca en el rio Limay_Rio Ne.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-011_Patagonia_Campanento de pesca en el rio Limay_Rio Ne.jpg' title='11_Patagonia_Campanento de pesca en el rio Limay_Rio Ne'>
+        <img src='/images/collections-thumbs/TDO/TDO-011_Patagonia_Campanento de pesca en el rio Limay_Rio Ne.jpg' alt='11_Patagonia_Campanento de pesca en el rio Limay_Rio Ne'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-012_Patagonia_Pilchero subiendo provisiones al refugio F.jpg' title='TDO-012_Patagonia_Pilchero subiendo provisiones al refugio F.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-012_Patagonia_Pilchero subiendo provisiones al refugio F.jpg' alt='TDO-012_Patagonia_Pilchero subiendo provisiones al refugio F.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-012_Patagonia_Pilchero subiendo provisiones al refugio F.jpg' title='12_Patagonia_Pilchero subiendo provisiones al refugio F'>
+        <img src='/images/collections-thumbs/TDO/TDO-012_Patagonia_Pilchero subiendo provisiones al refugio F.jpg' alt='12_Patagonia_Pilchero subiendo provisiones al refugio F'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-013_Patagonia_El refugio del Piltriquitron_El Bolson.jpg' title='TDO-013_Patagonia_El refugio del Piltriquitron_El Bolson.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-013_Patagonia_El refugio del Piltriquitron_El Bolson.jpg' alt='TDO-013_Patagonia_El refugio del Piltriquitron_El Bolson.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-013_Patagonia_El refugio del Piltriquitron_El Bolson.jpg' title='13_Patagonia_El refugio del Piltriquitron_El Bolson'>
+        <img src='/images/collections-thumbs/TDO/TDO-013_Patagonia_El refugio del Piltriquitron_El Bolson.jpg' alt='13_Patagonia_El refugio del Piltriquitron_El Bolson'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-014_Patagonia_Refugio Otto Meiling en el monte Tronador_.jpg' title='TDO-014_Patagonia_Refugio Otto Meiling en el monte Tronador_.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-014_Patagonia_Refugio Otto Meiling en el monte Tronador_.jpg' alt='TDO-014_Patagonia_Refugio Otto Meiling en el monte Tronador_.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-014_Patagonia_Refugio Otto Meiling en el monte Tronador_.jpg' title='14_Patagonia_Refugio Otto Meiling en el monte Tronador_'>
+        <img src='/images/collections-thumbs/TDO/TDO-014_Patagonia_Refugio Otto Meiling en el monte Tronador_.jpg' alt='14_Patagonia_Refugio Otto Meiling en el monte Tronador_'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-015_Patagonia_En camino al Otto Meiling y atras la Pampa.jpg' title='TDO-015_Patagonia_En camino al Otto Meiling y atras la Pampa.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-015_Patagonia_En camino al Otto Meiling y atras la Pampa.jpg' alt='TDO-015_Patagonia_En camino al Otto Meiling y atras la Pampa.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-015_Patagonia_En camino al Otto Meiling y atras la Pampa.jpg' title='15_Patagonia_En camino al Otto Meiling y atras la Pampa'>
+        <img src='/images/collections-thumbs/TDO/TDO-015_Patagonia_En camino al Otto Meiling y atras la Pampa.jpg' alt='15_Patagonia_En camino al Otto Meiling y atras la Pampa'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-016_Patagonia_Ciclistas en el Punto Panoramico_Bariloche.jpg' title='TDO-016_Patagonia_Ciclistas en el Punto Panoramico_Bariloche.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-016_Patagonia_Ciclistas en el Punto Panoramico_Bariloche.jpg' alt='TDO-016_Patagonia_Ciclistas en el Punto Panoramico_Bariloche.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-016_Patagonia_Ciclistas en el Punto Panoramico_Bariloche.jpg' title='16_Patagonia_Ciclistas en el Punto Panoramico_Bariloche'>
+        <img src='/images/collections-thumbs/TDO/TDO-016_Patagonia_Ciclistas en el Punto Panoramico_Bariloche.jpg' alt='16_Patagonia_Ciclistas en el Punto Panoramico_Bariloche'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-017_Patagonia_En el Cerro Catedral_Bariloche.jpg' title='TDO-017_Patagonia_En el Cerro Catedral_Bariloche.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-017_Patagonia_En el Cerro Catedral_Bariloche.jpg' alt='TDO-017_Patagonia_En el Cerro Catedral_Bariloche.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-017_Patagonia_En el Cerro Catedral_Bariloche.jpg' title='17_Patagonia_En el Cerro Catedral_Bariloche'>
+        <img src='/images/collections-thumbs/TDO/TDO-017_Patagonia_En el Cerro Catedral_Bariloche.jpg' alt='17_Patagonia_En el Cerro Catedral_Bariloche'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-019_Patagonia_Lago Natacion_refugio Natacion_Rio Negro.jpg' title='TDO-019_Patagonia_Lago Natacion_refugio Natacion_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-019_Patagonia_Lago Natacion_refugio Natacion_Rio Negro.jpg' alt='TDO-019_Patagonia_Lago Natacion_refugio Natacion_Rio Negro.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-019_Patagonia_Lago Natacion_refugio Natacion_Rio Negro.jpg' title='19_Patagonia_Lago Natacion_refugio Natacion_Rio Negro'>
+        <img src='/images/collections-thumbs/TDO/TDO-019_Patagonia_Lago Natacion_refugio Natacion_Rio Negro.jpg' alt='19_Patagonia_Lago Natacion_refugio Natacion_Rio Negro'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-020_Patagonia_Parapente en el Piltriquitron_El Bolson.jpg' title='TDO-020_Patagonia_Parapente en el Piltriquitron_El Bolson.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-020_Patagonia_Parapente en el Piltriquitron_El Bolson.jpg' alt='TDO-020_Patagonia_Parapente en el Piltriquitron_El Bolson.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-020_Patagonia_Parapente en el Piltriquitron_El Bolson.jpg' title='20_Patagonia_Parapente en el Piltriquitron_El Bolson'>
+        <img src='/images/collections-thumbs/TDO/TDO-020_Patagonia_Parapente en el Piltriquitron_El Bolson.jpg' alt='20_Patagonia_Parapente en el Piltriquitron_El Bolson'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-021_Patagonia_Pesca en el rio Quillen_Neuquen.jpg' title='TDO-021_Patagonia_Pesca en el rio Quillen_Neuquen.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-021_Patagonia_Pesca en el rio Quillen_Neuquen.jpg' alt='TDO-021_Patagonia_Pesca en el rio Quillen_Neuquen.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-021_Patagonia_Pesca en el rio Quillen_Neuquen.jpg' title='21_Patagonia_Pesca en el rio Quillen_Neuquen'>
+        <img src='/images/collections-thumbs/TDO/TDO-021_Patagonia_Pesca en el rio Quillen_Neuquen.jpg' alt='21_Patagonia_Pesca en el rio Quillen_Neuquen'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-022_Patagonia_Rafting en el rio Manso inferior_Rio Negro.jpg' title='TDO-022_Patagonia_Rafting en el rio Manso inferior_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-022_Patagonia_Rafting en el rio Manso inferior_Rio Negro.jpg' alt='TDO-022_Patagonia_Rafting en el rio Manso inferior_Rio Negro.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-022_Patagonia_Rafting en el rio Manso inferior_Rio Negro.jpg' title='22_Patagonia_Rafting en el rio Manso inferior_Rio Negro'>
+        <img src='/images/collections-thumbs/TDO/TDO-022_Patagonia_Rafting en el rio Manso inferior_Rio Negro.jpg' alt='22_Patagonia_Rafting en el rio Manso inferior_Rio Negro'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-023_Patagonia_Trucha arcoiris capturada con mosca seca_R.jpg' title='TDO-023_Patagonia_Trucha arcoiris capturada con mosca seca_R.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-023_Patagonia_Trucha arcoiris capturada con mosca seca_R.jpg' alt='TDO-023_Patagonia_Trucha arcoiris capturada con mosca seca_R.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-023_Patagonia_Trucha arcoiris capturada con mosca seca_R.jpg' title='23_Patagonia_Trucha arcoiris capturada con mosca seca_R'>
+        <img src='/images/collections-thumbs/TDO/TDO-023_Patagonia_Trucha arcoiris capturada con mosca seca_R.jpg' alt='23_Patagonia_Trucha arcoiris capturada con mosca seca_R'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-024_Patagonia_Trucha capturada en el río Quillén_Neuquen.jpg' title='TDO-024_Patagonia_Trucha capturada en el río Quillén_Neuquen.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-024_Patagonia_Trucha capturada en el río Quillén_Neuquen.jpg' alt='TDO-024_Patagonia_Trucha capturada en el río Quillén_Neuquen.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-024_Patagonia_Trucha capturada en el río Quillén_Neuquen.jpg' title='24_Patagonia_Trucha capturada en el río Quillén_Neuquen'>
+        <img src='/images/collections-thumbs/TDO/TDO-024_Patagonia_Trucha capturada en el río Quillén_Neuquen.jpg' alt='24_Patagonia_Trucha capturada en el río Quillén_Neuquen'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-025_Patagonia_avistaje de elefantes marinos_Peninsula Va.jpg' title='TDO-025_Patagonia_avistaje de elefantes marinos_Peninsula Va.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-025_Patagonia_avistaje de elefantes marinos_Peninsula Va.jpg' alt='TDO-025_Patagonia_avistaje de elefantes marinos_Peninsula Va.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-025_Patagonia_avistaje de elefantes marinos_Peninsula Va.jpg' title='25_Patagonia_avistaje de elefantes marinos_Peninsula Va'>
+        <img src='/images/collections-thumbs/TDO/TDO-025_Patagonia_avistaje de elefantes marinos_Peninsula Va.jpg' alt='25_Patagonia_avistaje de elefantes marinos_Peninsula Va'>
       </a>
-      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-026_Patagonia_travesia en 4 X 4 en El Calafate_Santa Cru.jpg' title='TDO-026_Patagonia_travesia en 4 X 4 en El Calafate_Santa Cru.jpg'>
-        <img src='/images/collections-thumbs/TDO/TDO-026_Patagonia_travesia en 4 X 4 en El Calafate_Santa Cru.jpg' alt='TDO-026_Patagonia_travesia en 4 X 4 en El Calafate_Santa Cru.jpg'>
+      <a href='/images/collections/TDO_Trekking-y-Deportes-Outdoor/TDO-026_Patagonia_travesia en 4 X 4 en El Calafate_Santa Cru.jpg' title='26_Patagonia_travesia en 4 X 4 en El Calafate_Santa Cru'>
+        <img src='/images/collections-thumbs/TDO/TDO-026_Patagonia_travesia en 4 X 4 en El Calafate_Santa Cru.jpg' alt='26_Patagonia_travesia en 4 X 4 en El Calafate_Santa Cru'>
       </a>
     </div>
 

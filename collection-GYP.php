@@ -3,8 +3,6 @@
 <!--- here goes meta.php -->
 <?php include "components/php/meta.php"; ?>
 
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
-
     <title>Patagonia Images |   Gente y Paisajes   </title>
 
     <!-- Bootstrap core CSS -->
@@ -113,77 +111,77 @@
 <!-- ++ nuevos links ---------------------------------------->
 
     <div id='links'>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-001_Patagonia_Valle del Rio Azul_El Bolson_Rio Negro.jpg' title='GYP-001_Patagonia_Valle del Rio Azul_El Bolson_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-001_Patagonia_Valle del Rio Azul_El Bolson_Rio Negro.jpg' alt='GYP-001_Patagonia_Valle del Rio Azul_El Bolson_Rio Negro.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-001_Patagonia_Valle del Rio Azul_El Bolson_Rio Negro.jpg' title='01_Patagonia_Valle del Rio Azul_El Bolson_Rio Negro'>
+        <img src='/images/collections-thumbs/GYP/GYP-001_Patagonia_Valle del Rio Azul_El Bolson_Rio Negro.jpg' alt='01_Patagonia_Valle del Rio Azul_El Bolson_Rio Negro'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-002_Patagonia_avistaje de ballenas_Puerto Piramides_Chub.jpg' title='GYP-002_Patagonia_avistaje de ballenas_Puerto Piramides_Chub.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-002_Patagonia_avistaje de ballenas_Puerto Piramides_Chub.jpg' alt='GYP-002_Patagonia_avistaje de ballenas_Puerto Piramides_Chub.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-002_Patagonia_avistaje de ballenas_Puerto Piramides_Chub.jpg' title='02_Patagonia_avistaje de ballenas_Puerto Piramides_Chub'>
+        <img src='/images/collections-thumbs/GYP/GYP-002_Patagonia_avistaje de ballenas_Puerto Piramides_Chub.jpg' alt='02_Patagonia_avistaje de ballenas_Puerto Piramides_Chub'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-003_Patagonia_bañistas cerca del Cajon del Azul_El Bolso.jpg' title='GYP-003_Patagonia_bañistas cerca del Cajon del Azul_El Bolso.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-003_Patagonia_bañistas cerca del Cajon del Azul_El Bolso.jpg' alt='GYP-003_Patagonia_bañistas cerca del Cajon del Azul_El Bolso.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-003_Patagonia_bañistas cerca del Cajon del Azul_El Bolso.jpg' title='03_Patagonia_bañistas cerca del Cajon del Azul_El Bolso'>
+        <img src='/images/collections-thumbs/GYP/GYP-003_Patagonia_bañistas cerca del Cajon del Azul_El Bolso.jpg' alt='03_Patagonia_bañistas cerca del Cajon del Azul_El Bolso'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-004_Patagonia_Cerro Campanario_Bariloche.jpg' title='GYP-004_Patagonia_Cerro Campanario_Bariloche.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-004_Patagonia_Cerro Campanario_Bariloche.jpg' alt='GYP-004_Patagonia_Cerro Campanario_Bariloche.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-004_Patagonia_Cerro Campanario_Bariloche.jpg' title='04_Patagonia_Cerro Campanario_Bariloche'>
+        <img src='/images/collections-thumbs/GYP/GYP-004_Patagonia_Cerro Campanario_Bariloche.jpg' alt='04_Patagonia_Cerro Campanario_Bariloche'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-005_Patagonia_Glaciar Spegazzini_Lago Argentino_Santa Cr.jpg' title='GYP-005_Patagonia_Glaciar Spegazzini_Lago Argentino_Santa Cr.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-005_Patagonia_Glaciar Spegazzini_Lago Argentino_Santa Cr.jpg' alt='GYP-005_Patagonia_Glaciar Spegazzini_Lago Argentino_Santa Cr.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-005_Patagonia_Glaciar Spegazzini_Lago Argentino_Santa Cr.jpg' title='05_Patagonia_Glaciar Spegazzini_Lago Argentino_Santa Cr'>
+        <img src='/images/collections-thumbs/GYP/GYP-005_Patagonia_Glaciar Spegazzini_Lago Argentino_Santa Cr.jpg' alt='05_Patagonia_Glaciar Spegazzini_Lago Argentino_Santa Cr'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-006_Patagonia_Punta Tombo_Chubut.jpg' title='GYP-006_Patagonia_Punta Tombo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-006_Patagonia_Punta Tombo_Chubut.jpg' alt='GYP-006_Patagonia_Punta Tombo_Chubut.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-006_Patagonia_Punta Tombo_Chubut.jpg' title='06_Patagonia_Punta Tombo_Chubut'>
+        <img src='/images/collections-thumbs/GYP/GYP-006_Patagonia_Punta Tombo_Chubut.jpg' alt='06_Patagonia_Punta Tombo_Chubut'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-007_Patagonia_En el filo del Cerro Lopez_Bariloche.jpg' title='GYP-007_Patagonia_En el filo del Cerro Lopez_Bariloche.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-007_Patagonia_En el filo del Cerro Lopez_Bariloche.jpg' alt='GYP-007_Patagonia_En el filo del Cerro Lopez_Bariloche.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-007_Patagonia_En el filo del Cerro Lopez_Bariloche.jpg' title='07_Patagonia_En el filo del Cerro Lopez_Bariloche'>
+        <img src='/images/collections-thumbs/GYP/GYP-007_Patagonia_En el filo del Cerro Lopez_Bariloche.jpg' alt='07_Patagonia_En el filo del Cerro Lopez_Bariloche'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-008_Patagonia_Playa Bonita_Bariloche.jpg' title='GYP-008_Patagonia_Playa Bonita_Bariloche.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-008_Patagonia_Playa Bonita_Bariloche.jpg' alt='GYP-008_Patagonia_Playa Bonita_Bariloche.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-008_Patagonia_Playa Bonita_Bariloche.jpg' title='08_Patagonia_Playa Bonita_Bariloche'>
+        <img src='/images/collections-thumbs/GYP/GYP-008_Patagonia_Playa Bonita_Bariloche.jpg' alt='08_Patagonia_Playa Bonita_Bariloche'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-009_Patagonia_navegacion en el Lago Puelo_Chubut.jpg' title='GYP-009_Patagonia_navegacion en el Lago Puelo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-009_Patagonia_navegacion en el Lago Puelo_Chubut.jpg' alt='GYP-009_Patagonia_navegacion en el Lago Puelo_Chubut.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-009_Patagonia_navegacion en el Lago Puelo_Chubut.jpg' title='09_Patagonia_navegacion en el Lago Puelo_Chubut'>
+        <img src='/images/collections-thumbs/GYP/GYP-009_Patagonia_navegacion en el Lago Puelo_Chubut.jpg' alt='09_Patagonia_navegacion en el Lago Puelo_Chubut'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-010_Patagonia_Cerro Campanario en invierno_Bariloche.jpg' title='GYP-010_Patagonia_Cerro Campanario en invierno_Bariloche.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-010_Patagonia_Cerro Campanario en invierno_Bariloche.jpg' alt='GYP-010_Patagonia_Cerro Campanario en invierno_Bariloche.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-010_Patagonia_Cerro Campanario en invierno_Bariloche.jpg' title='10_Patagonia_Cerro Campanario en invierno_Bariloche'>
+        <img src='/images/collections-thumbs/GYP/GYP-010_Patagonia_Cerro Campanario en invierno_Bariloche.jpg' alt='10_Patagonia_Cerro Campanario en invierno_Bariloche'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-011_Patagonia_El Campanario y confiteria_Bariloche en In.jpg' title='GYP-011_Patagonia_El Campanario y confiteria_Bariloche en In.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-011_Patagonia_El Campanario y confiteria_Bariloche en In.jpg' alt='GYP-011_Patagonia_El Campanario y confiteria_Bariloche en In.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-011_Patagonia_El Campanario y confiteria_Bariloche en In.jpg' title='11_Patagonia_El Campanario y confiteria_Bariloche en In'>
+        <img src='/images/collections-thumbs/GYP/GYP-011_Patagonia_El Campanario y confiteria_Bariloche en In.jpg' alt='11_Patagonia_El Campanario y confiteria_Bariloche en In'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-012_Patagonia_vista desde el Cerro Saturnino_El Bolson_C.jpg' title='GYP-012_Patagonia_vista desde el Cerro Saturnino_El Bolson_C.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-012_Patagonia_vista desde el Cerro Saturnino_El Bolson_C.jpg' alt='GYP-012_Patagonia_vista desde el Cerro Saturnino_El Bolson_C.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-012_Patagonia_vista desde el Cerro Saturnino_El Bolson_C.jpg' title='12_Patagonia_vista desde el Cerro Saturnino_El Bolson_C'>
+        <img src='/images/collections-thumbs/GYP/GYP-012_Patagonia_vista desde el Cerro Saturnino_El Bolson_C.jpg' alt='12_Patagonia_vista desde el Cerro Saturnino_El Bolson_C'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-013_Patagonia_el Fitz Roy desde la Laguna Capri_PN Los G.jpg' title='GYP-013_Patagonia_el Fitz Roy desde la Laguna Capri_PN Los G.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-013_Patagonia_el Fitz Roy desde la Laguna Capri_PN Los G.jpg' alt='GYP-013_Patagonia_el Fitz Roy desde la Laguna Capri_PN Los G.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-013_Patagonia_el Fitz Roy desde la Laguna Capri_PN Los G.jpg' title='13_Patagonia_el Fitz Roy desde la Laguna Capri_PN Los G'>
+        <img src='/images/collections-thumbs/GYP/GYP-013_Patagonia_el Fitz Roy desde la Laguna Capri_PN Los G.jpg' alt='13_Patagonia_el Fitz Roy desde la Laguna Capri_PN Los G'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-014_Patagonia_bañistas en el rio Azul_ Camping del Rio A.jpg' title='GYP-014_Patagonia_bañistas en el rio Azul_ Camping del Rio A.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-014_Patagonia_bañistas en el rio Azul_ Camping del Rio A.jpg' alt='GYP-014_Patagonia_bañistas en el rio Azul_ Camping del Rio A.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-014_Patagonia_bañistas en el rio Azul_ Camping del Rio A.jpg' title='14_Patagonia_bañistas en el rio Azul_ Camping del Rio A'>
+        <img src='/images/collections-thumbs/GYP/GYP-014_Patagonia_bañistas en el rio Azul_ Camping del Rio A.jpg' alt='14_Patagonia_bañistas en el rio Azul_ Camping del Rio A'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-015_Patagonia_pesca embarcada_Lago Quillen_Neuquen.jpg' title='GYP-015_Patagonia_pesca embarcada_Lago Quillen_Neuquen.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-015_Patagonia_pesca embarcada_Lago Quillen_Neuquen.jpg' alt='GYP-015_Patagonia_pesca embarcada_Lago Quillen_Neuquen.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-015_Patagonia_pesca embarcada_Lago Quillen_Neuquen.jpg' title='15_Patagonia_pesca embarcada_Lago Quillen_Neuquen'>
+        <img src='/images/collections-thumbs/GYP/GYP-015_Patagonia_pesca embarcada_Lago Quillen_Neuquen.jpg' alt='15_Patagonia_pesca embarcada_Lago Quillen_Neuquen'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-016_Patagonia_Portal Norte de entrada al PN Lanin_Neuque.jpg' title='GYP-016_Patagonia_Portal Norte de entrada al PN Lanin_Neuque.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-016_Patagonia_Portal Norte de entrada al PN Lanin_Neuque.jpg' alt='GYP-016_Patagonia_Portal Norte de entrada al PN Lanin_Neuque.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-016_Patagonia_Portal Norte de entrada al PN Lanin_Neuque.jpg' title='16_Patagonia_Portal Norte de entrada al PN Lanin_Neuque'>
+        <img src='/images/collections-thumbs/GYP/GYP-016_Patagonia_Portal Norte de entrada al PN Lanin_Neuque.jpg' alt='16_Patagonia_Portal Norte de entrada al PN Lanin_Neuque'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-017_Patagonia_kayaks de travesia_Lago Puelo_Chubut.jpg' title='GYP-017_Patagonia_kayaks de travesia_Lago Puelo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-017_Patagonia_kayaks de travesia_Lago Puelo_Chubut.jpg' alt='GYP-017_Patagonia_kayaks de travesia_Lago Puelo_Chubut.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-017_Patagonia_kayaks de travesia_Lago Puelo_Chubut.jpg' title='17_Patagonia_kayaks de travesia_Lago Puelo_Chubut'>
+        <img src='/images/collections-thumbs/GYP/GYP-017_Patagonia_kayaks de travesia_Lago Puelo_Chubut.jpg' alt='17_Patagonia_kayaks de travesia_Lago Puelo_Chubut'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-018_Patagonia_Land Rovers en el bosque_Rio Negro.jpg' title='GYP-018_Patagonia_Land Rovers en el bosque_Rio Negro.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-018_Patagonia_Land Rovers en el bosque_Rio Negro.jpg' alt='GYP-018_Patagonia_Land Rovers en el bosque_Rio Negro.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-018_Patagonia_Land Rovers en el bosque_Rio Negro.jpg' title='18_Patagonia_Land Rovers en el bosque_Rio Negro'>
+        <img src='/images/collections-thumbs/GYP/GYP-018_Patagonia_Land Rovers en el bosque_Rio Negro.jpg' alt='18_Patagonia_Land Rovers en el bosque_Rio Negro'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-019_Patagonia_Minitrekking sobre el glaciar Moreno_Santa.jpg' title='GYP-019_Patagonia_Minitrekking sobre el glaciar Moreno_Santa.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-019_Patagonia_Minitrekking sobre el glaciar Moreno_Santa.jpg' alt='GYP-019_Patagonia_Minitrekking sobre el glaciar Moreno_Santa.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-019_Patagonia_Minitrekking sobre el glaciar Moreno_Santa.jpg' title='19_Patagonia_Minitrekking sobre el glaciar Moreno_Santa'>
+        <img src='/images/collections-thumbs/GYP/GYP-019_Patagonia_Minitrekking sobre el glaciar Moreno_Santa.jpg' alt='19_Patagonia_Minitrekking sobre el glaciar Moreno_Santa'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-020_Patagonia_Muchachos disfrutando en el mirador del La.jpg' title='GYP-020_Patagonia_Muchachos disfrutando en el mirador del La.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-020_Patagonia_Muchachos disfrutando en el mirador del La.jpg' alt='GYP-020_Patagonia_Muchachos disfrutando en el mirador del La.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-020_Patagonia_Muchachos disfrutando en el mirador del La.jpg' title='20_Patagonia_Muchachos disfrutando en el mirador del La'>
+        <img src='/images/collections-thumbs/GYP/GYP-020_Patagonia_Muchachos disfrutando en el mirador del La.jpg' alt='20_Patagonia_Muchachos disfrutando en el mirador del La'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-021_Patagonia_rumbo al glaciar Upsala_Santa Cruz.jpg' title='GYP-021_Patagonia_rumbo al glaciar Upsala_Santa Cruz.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-021_Patagonia_rumbo al glaciar Upsala_Santa Cruz.jpg' alt='GYP-021_Patagonia_rumbo al glaciar Upsala_Santa Cruz.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-021_Patagonia_rumbo al glaciar Upsala_Santa Cruz.jpg' title='21_Patagonia_rumbo al glaciar Upsala_Santa Cruz'>
+        <img src='/images/collections-thumbs/GYP/GYP-021_Patagonia_rumbo al glaciar Upsala_Santa Cruz.jpg' alt='21_Patagonia_rumbo al glaciar Upsala_Santa Cruz'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-022_Patagonia_En el Punto Panoramico_Circuito Chico_Bari.jpg' title='GYP-022_Patagonia_En el Punto Panoramico_Circuito Chico_Bari.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-022_Patagonia_En el Punto Panoramico_Circuito Chico_Bari.jpg' alt='GYP-022_Patagonia_En el Punto Panoramico_Circuito Chico_Bari.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-022_Patagonia_En el Punto Panoramico_Circuito Chico_Bari.jpg' title='22_Patagonia_En el Punto Panoramico_Circuito Chico_Bari'>
+        <img src='/images/collections-thumbs/GYP/GYP-022_Patagonia_En el Punto Panoramico_Circuito Chico_Bari.jpg' alt='22_Patagonia_En el Punto Panoramico_Circuito Chico_Bari'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-023_Patagonia_cabalgata a orillas del mar_Punta Delgada_.jpg' title='GYP-023_Patagonia_cabalgata a orillas del mar_Punta Delgada_.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-023_Patagonia_cabalgata a orillas del mar_Punta Delgada_.jpg' alt='GYP-023_Patagonia_cabalgata a orillas del mar_Punta Delgada_.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-023_Patagonia_cabalgata a orillas del mar_Punta Delgada_.jpg' title='23_Patagonia_cabalgata a orillas del mar_Punta Delgada_'>
+        <img src='/images/collections-thumbs/GYP/GYP-023_Patagonia_cabalgata a orillas del mar_Punta Delgada_.jpg' alt='23_Patagonia_cabalgata a orillas del mar_Punta Delgada_'>
       </a>
-      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-024_Patagonia_Punta Tombo_Chubut.jpg' title='GYP-024_Patagonia_Punta Tombo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/GYP/GYP-024_Patagonia_Punta Tombo_Chubut.jpg' alt='GYP-024_Patagonia_Punta Tombo_Chubut.jpg'>
+      <a href='/images/collections/GYP_Gentes-y-Paisajes/GYP-024_Patagonia_Punta Tombo_Chubut.jpg' title='24_Patagonia_Punta Tombo_Chubut'>
+        <img src='/images/collections-thumbs/GYP/GYP-024_Patagonia_Punta Tombo_Chubut.jpg' alt='24_Patagonia_Punta Tombo_Chubut'>
       </a>
     </div>
 

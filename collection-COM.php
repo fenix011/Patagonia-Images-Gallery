@@ -3,8 +3,6 @@
 <!--- here goes meta.php -->
 <?php include "components/php/meta.php"; ?>
 
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
-
     <title>Patagonia Images |   Costa MArina   </title>
 
     <!-- Bootstrap core CSS -->
@@ -114,65 +112,65 @@
 <!--  new links --------------------------------------------->
 
     <div id='links'>
-      <a href='/images/collections/COM_Costa-Marina/COM-001_Patagonia_Pinguino regresando al mar_Cubut.jpg' title='COM-001_Patagonia_Pinguino regresando al mar_Cubut.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-001_Patagonia_Pinguino regresando al mar_Cubut.jpg' alt='COM-001_Patagonia_Pinguino regresando al mar_Cubut.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-001_Patagonia_Pinguino regresando al mar_Cubut.jpg' title='01_Patagonia_Pinguino regresando al mar_Cubut'>
+        <img src='/images/collections-thumbs/COM/COM-001_Patagonia_Pinguino regresando al mar_Cubut.jpg' alt='01_Patagonia_Pinguino regresando al mar_Cubut'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-002_Patagonia_Rompientes en Punta Colombo_Peninsula Vald.jpg' title='COM-002_Patagonia_Rompientes en Punta Colombo_Peninsula Vald.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-002_Patagonia_Rompientes en Punta Colombo_Peninsula Vald.jpg' alt='COM-002_Patagonia_Rompientes en Punta Colombo_Peninsula Vald.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-002_Patagonia_Rompientes en Punta Colombo_Peninsula Vald.jpg' title='02_Patagonia_Rompientes en Punta Colombo_Peninsula Vald'>
+        <img src='/images/collections-thumbs/COM/COM-002_Patagonia_Rompientes en Punta Colombo_Peninsula Vald.jpg' alt='02_Patagonia_Rompientes en Punta Colombo_Peninsula Vald'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-003_Patagonia_Fin de la Sudestada_Puerto Piramides.jpg' title='COM-003_Patagonia_Fin de la Sudestada_Puerto Piramides.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-003_Patagonia_Fin de la Sudestada_Puerto Piramides.jpg' alt='COM-003_Patagonia_Fin de la Sudestada_Puerto Piramides.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-003_Patagonia_Fin de la Sudestada_Puerto Piramides.jpg' title='03_Patagonia_Fin de la Sudestada_Puerto Piramides'>
+        <img src='/images/collections-thumbs/COM/COM-003_Patagonia_Fin de la Sudestada_Puerto Piramides.jpg' alt='03_Patagonia_Fin de la Sudestada_Puerto Piramides'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-004_Patagonia_ Acantilados en el area de Punta Quiroga_C.jpg' title='COM-004_Patagonia_ Acantilados en el area de Punta Quiroga_C.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-004_Patagonia_ Acantilados en el area de Punta Quiroga_C.jpg' alt='COM-004_Patagonia_ Acantilados en el area de Punta Quiroga_C.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-004_Patagonia_ Acantilados en el area de Punta Quiroga_C.jpg' title='04_Patagonia_ Acantilados en el area de Punta Quiroga_C'>
+        <img src='/images/collections-thumbs/COM/COM-004_Patagonia_ Acantilados en el area de Punta Quiroga_C.jpg' alt='04_Patagonia_ Acantilados en el area de Punta Quiroga_C'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-005_Patagonia_Conchillas caracoles y vieyras.jpg' title='COM-005_Patagonia_Conchillas caracoles y vieyras.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-005_Patagonia_Conchillas caracoles y vieyras.jpg' alt='COM-005_Patagonia_Conchillas caracoles y vieyras.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-005_Patagonia_Conchillas caracoles y vieyras.jpg' title='05_Patagonia_Conchillas caracoles y vieyras'>
+        <img src='/images/collections-thumbs/COM/COM-005_Patagonia_Conchillas caracoles y vieyras.jpg' alt='05_Patagonia_Conchillas caracoles y vieyras'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-006_Patagonia_La costa marina vista desde el faro de Pun.jpg' title='COM-006_Patagonia_La costa marina vista desde el faro de Pun.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-006_Patagonia_La costa marina vista desde el faro de Pun.jpg' alt='COM-006_Patagonia_La costa marina vista desde el faro de Pun.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-006_Patagonia_La costa marina vista desde el faro de Pun.jpg' title='06_Patagonia_La costa marina vista desde el faro de Pun'>
+        <img src='/images/collections-thumbs/COM/COM-006_Patagonia_La costa marina vista desde el faro de Pun.jpg' alt='06_Patagonia_La costa marina vista desde el faro de Pun'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-007_Patagonia_La furia de una tormenta del Sur_ Punta De.jpg' title='COM-007_Patagonia_La furia de una tormenta del Sur_ Punta De.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-007_Patagonia_La furia de una tormenta del Sur_ Punta De.jpg' alt='COM-007_Patagonia_La furia de una tormenta del Sur_ Punta De.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-007_Patagonia_La furia de una tormenta del Sur_ Punta De.jpg' title='07_Patagonia_La furia de una tormenta del Sur_ Punta De'>
+        <img src='/images/collections-thumbs/COM/COM-007_Patagonia_La furia de una tormenta del Sur_ Punta De.jpg' alt='07_Patagonia_La furia de una tormenta del Sur_ Punta De'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-008_Patagonia_Punta Ameghino_Peninsula Valdes-Chubut.jpg' title='COM-008_Patagonia_Punta Ameghino_Peninsula Valdes-Chubut.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-008_Patagonia_Punta Ameghino_Peninsula Valdes-Chubut.jpg' alt='COM-008_Patagonia_Punta Ameghino_Peninsula Valdes-Chubut.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-008_Patagonia_Punta Ameghino_Peninsula Valdes-Chubut.jpg' title='08_Patagonia_Punta Ameghino_Peninsula Valdes-Chubut'>
+        <img src='/images/collections-thumbs/COM/COM-008_Patagonia_Punta Ameghino_Peninsula Valdes-Chubut.jpg' alt='08_Patagonia_Punta Ameghino_Peninsula Valdes-Chubut'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-009_Patagonia_bajamar_cerca de Puerto Piramides.jpg' title='COM-009_Patagonia_bajamar_cerca de Puerto Piramides.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-009_Patagonia_bajamar_cerca de Puerto Piramides.jpg' alt='COM-009_Patagonia_bajamar_cerca de Puerto Piramides.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-009_Patagonia_bajamar_cerca de Puerto Piramides.jpg' title='09_Patagonia_bajamar_cerca de Puerto Piramides'>
+        <img src='/images/collections-thumbs/COM/COM-009_Patagonia_bajamar_cerca de Puerto Piramides.jpg' alt='09_Patagonia_bajamar_cerca de Puerto Piramides'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-010_Patagonia_El Atlantico_Peninsula Valdes.jpg' title='COM-010_Patagonia_El Atlantico_Peninsula Valdes.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-010_Patagonia_El Atlantico_Peninsula Valdes.jpg' alt='COM-010_Patagonia_El Atlantico_Peninsula Valdes.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-010_Patagonia_El Atlantico_Peninsula Valdes.jpg' title='10_Patagonia_El Atlantico_Peninsula Valdes'>
+        <img src='/images/collections-thumbs/COM/COM-010_Patagonia_El Atlantico_Peninsula Valdes.jpg' alt='10_Patagonia_El Atlantico_Peninsula Valdes'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-011_Patagonia_Rompientes en Punta Colombo_Peninsula Vald.jpg' title='COM-011_Patagonia_Rompientes en Punta Colombo_Peninsula Vald.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-011_Patagonia_Rompientes en Punta Colombo_Peninsula Vald.jpg' alt='COM-011_Patagonia_Rompientes en Punta Colombo_Peninsula Vald.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-011_Patagonia_Rompientes en Punta Colombo_Peninsula Vald.jpg' title='11_Patagonia_Rompientes en Punta Colombo_Peninsula Vald'>
+        <img src='/images/collections-thumbs/COM/COM-011_Patagonia_Rompientes en Punta Colombo_Peninsula Vald.jpg' alt='11_Patagonia_Rompientes en Punta Colombo_Peninsula Vald'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-012_Patagonia_El mar y la estepa_Peninsula Valdes.jpg' title='COM-012_Patagonia_El mar y la estepa_Peninsula Valdes.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-012_Patagonia_El mar y la estepa_Peninsula Valdes.jpg' alt='COM-012_Patagonia_El mar y la estepa_Peninsula Valdes.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-012_Patagonia_El mar y la estepa_Peninsula Valdes.jpg' title='12_Patagonia_El mar y la estepa_Peninsula Valdes'>
+        <img src='/images/collections-thumbs/COM/COM-012_Patagonia_El mar y la estepa_Peninsula Valdes.jpg' alt='12_Patagonia_El mar y la estepa_Peninsula Valdes'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-013_Patagonia_el oceano embravecido_Peninsula Valdes.jpg' title='COM-013_Patagonia_el oceano embravecido_Peninsula Valdes.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-013_Patagonia_el oceano embravecido_Peninsula Valdes.jpg' alt='COM-013_Patagonia_el oceano embravecido_Peninsula Valdes.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-013_Patagonia_el oceano embravecido_Peninsula Valdes.jpg' title='13_Patagonia_el oceano embravecido_Peninsula Valdes'>
+        <img src='/images/collections-thumbs/COM/COM-013_Patagonia_el oceano embravecido_Peninsula Valdes.jpg' alt='13_Patagonia_el oceano embravecido_Peninsula Valdes'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-014_Patagonia_la estepa y el mar_Puerto Piramides.jpg' title='COM-014_Patagonia_la estepa y el mar_Puerto Piramides.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-014_Patagonia_la estepa y el mar_Puerto Piramides.jpg' alt='COM-014_Patagonia_la estepa y el mar_Puerto Piramides.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-014_Patagonia_la estepa y el mar_Puerto Piramides.jpg' title='14_Patagonia_la estepa y el mar_Puerto Piramides'>
+        <img src='/images/collections-thumbs/COM/COM-014_Patagonia_la estepa y el mar_Puerto Piramides.jpg' alt='14_Patagonia_la estepa y el mar_Puerto Piramides'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-015_Patagonia_el oceano_Punta Tombo_Chubut.jpg' title='COM-015_Patagonia_el oceano_Punta Tombo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-015_Patagonia_el oceano_Punta Tombo_Chubut.jpg' alt='COM-015_Patagonia_el oceano_Punta Tombo_Chubut.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-015_Patagonia_el oceano_Punta Tombo_Chubut.jpg' title='15_Patagonia_el oceano_Punta Tombo_Chubut'>
+        <img src='/images/collections-thumbs/COM/COM-015_Patagonia_el oceano_Punta Tombo_Chubut.jpg' alt='15_Patagonia_el oceano_Punta Tombo_Chubut'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-016_Patagonia_Punta Piramides_Peninsula Valdes.jpg' title='COM-016_Patagonia_Punta Piramides_Peninsula Valdes.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-016_Patagonia_Punta Piramides_Peninsula Valdes.jpg' alt='COM-016_Patagonia_Punta Piramides_Peninsula Valdes.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-016_Patagonia_Punta Piramides_Peninsula Valdes.jpg' title='16_Patagonia_Punta Piramides_Peninsula Valdes'>
+        <img src='/images/collections-thumbs/COM/COM-016_Patagonia_Punta Piramides_Peninsula Valdes.jpg' alt='16_Patagonia_Punta Piramides_Peninsula Valdes'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-018_Golfo San Jose_Peninsula Valdes.jpg' title='COM-018_Golfo San Jose_Peninsula Valdes.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-018_Golfo San Jose_Peninsula Valdes.jpg' alt='COM-018_Golfo San Jose_Peninsula Valdes.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-018_Golfo San Jose_Peninsula Valdes.jpg' title='18_Golfo San Jose_Peninsula Valdes'>
+        <img src='/images/collections-thumbs/COM/COM-018_Golfo San Jose_Peninsula Valdes.jpg' alt='18_Golfo San Jose_Peninsula Valdes'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-019_Patagonia_Costa acantilada_Punta Quiroga.jpg' title='COM-019_Patagonia_Costa acantilada_Punta Quiroga.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-019_Patagonia_Costa acantilada_Punta Quiroga.jpg' alt='COM-019_Patagonia_Costa acantilada_Punta Quiroga.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-019_Patagonia_Costa acantilada_Punta Quiroga.jpg' title='19_Patagonia_Costa acantilada_Punta Quiroga'>
+        <img src='/images/collections-thumbs/COM/COM-019_Patagonia_Costa acantilada_Punta Quiroga.jpg' alt='19_Patagonia_Costa acantilada_Punta Quiroga'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-020_Patagonia_rastros de la bajante_Peninsula Valdes.jpg' title='COM-020_Patagonia_rastros de la bajante_Peninsula Valdes.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-020_Patagonia_rastros de la bajante_Peninsula Valdes.jpg' alt='COM-020_Patagonia_rastros de la bajante_Peninsula Valdes.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-020_Patagonia_rastros de la bajante_Peninsula Valdes.jpg' title='20_Patagonia_rastros de la bajante_Peninsula Valdes'>
+        <img src='/images/collections-thumbs/COM/COM-020_Patagonia_rastros de la bajante_Peninsula Valdes.jpg' alt='20_Patagonia_rastros de la bajante_Peninsula Valdes'>
       </a>
-      <a href='/images/collections/COM_Costa-Marina/COM-021_Patagonia_Cangrejo en una poza de marea_Peninsula Va.jpg' title='COM-021_Patagonia_Cangrejo en una poza de marea_Peninsula Va.jpg'>
-        <img src='/images/collections-thumbs/COM/COM-021_Patagonia_Cangrejo en una poza de marea_Peninsula Va.jpg' alt='COM-021_Patagonia_Cangrejo en una poza de marea_Peninsula Va.jpg'>
+      <a href='/images/collections/COM_Costa-Marina/COM-021_Patagonia_Cangrejo en una poza de marea_Peninsula Valdes.jpg' title='21_Patagonia_Cangrejo en una poza de marea_Peninsula Valdes'>
+        <img src='/images/collections-thumbs/COM/COM-021_Patagonia_Cangrejo en una poza de marea_Peninsula Valdes.jpg' alt='21_Patagonia_Cangrejo en una poza de marea_Peninsula Valdes'>
       </a>
     </div>
 
