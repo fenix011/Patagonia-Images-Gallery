@@ -3,8 +3,6 @@
 <!--- here goes meta.php -->
 <?php include "components/php/meta.php"; ?>
 
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
-
     <title>Patagonia Images |   Pingüino de Magallanes   </title>
 
     <!-- Bootstrap core CSS -->
@@ -113,41 +111,41 @@
 
 <!-- nuevos links ------------------------------------------->
     <div id='links'>
-      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-001_Patagonia_Pinguino en nido con su pichon_Punta Tombo.jpg' title='PIN-001_Patagonia_Pinguino en nido con su pichon_Punta Tombo.jpg'>
-        <img src='/images/collections-thumbs/PIN/PIN-001_Patagonia_Pinguino en nido con su pichon_Punta Tombo.jpg' alt='PIN-001_Patagonia_Pinguino en nido con su pichon_Punta Tombo.jpg'>
+      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-001_Patagonia_Pinguino en nido con su pichon_Punta Tombo.jpg' title='01_Patagonia_Pinguino en nido con su pichon_Punta Tombo'>
+        <img src='/images/collections-thumbs/PIN/PIN-001_Patagonia_Pinguino en nido con su pichon_Punta Tombo.jpg' alt='01_Patagonia_Pinguino en nido con su pichon_Punta Tombo'>
       </a>
-      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-002_Patagonia_Pinguinos nadando_Punta Tombo_Chubut.jpg' title='PIN-002_Patagonia_Pinguinos nadando_Punta Tombo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/PIN/PIN-002_Patagonia_Pinguinos nadando_Punta Tombo_Chubut.jpg' alt='PIN-002_Patagonia_Pinguinos nadando_Punta Tombo_Chubut.jpg'>
+      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-002_Patagonia_Pinguinos nadando_Punta Tombo_Chubut.jpg' title='02_Patagonia_Pinguinos nadando_Punta Tombo_Chubut'>
+        <img src='/images/collections-thumbs/PIN/PIN-002_Patagonia_Pinguinos nadando_Punta Tombo_Chubut.jpg' alt='02_Patagonia_Pinguinos nadando_Punta Tombo_Chubut'>
       </a>
-      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-003_Patagonia_Pinguino refrigerandose_ea San Lorenzo_Chu.jpg' title='PIN-003_Patagonia_Pinguino refrigerandose_ea San Lorenzo_Chu.jpg'>
-        <img src='/images/collections-thumbs/PIN/PIN-003_Patagonia_Pinguino refrigerandose_ea San Lorenzo_Chu.jpg' alt='PIN-003_Patagonia_Pinguino refrigerandose_ea San Lorenzo_Chu.jpg'>
+      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-003_Patagonia_Pinguino refrigerandose_ea San Lorenzo_Chu.jpg' title='03_Patagonia_Pinguino refrigerandose_ea San Lorenzo_Chu'>
+        <img src='/images/collections-thumbs/PIN/PIN-003_Patagonia_Pinguino refrigerandose_ea San Lorenzo_Chu.jpg' alt='03_Patagonia_Pinguino refrigerandose_ea San Lorenzo_Chu'>
       </a>
-      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-004_Patagonia_Pinguino y su pichon_Punta Tombo_Chubut.jpg' title='PIN-004_Patagonia_Pinguino y su pichon_Punta Tombo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/PIN/PIN-004_Patagonia_Pinguino y su pichon_Punta Tombo_Chubut.jpg' alt='PIN-004_Patagonia_Pinguino y su pichon_Punta Tombo_Chubut.jpg'>
+      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-004_Patagonia_Pinguino y su pichon_Punta Tombo_Chubut.jpg' title='04_Patagonia_Pinguino y su pichon_Punta Tombo_Chubut'>
+        <img src='/images/collections-thumbs/PIN/PIN-004_Patagonia_Pinguino y su pichon_Punta Tombo_Chubut.jpg' alt='04_Patagonia_Pinguino y su pichon_Punta Tombo_Chubut'>
       </a>
-      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-005_Patagonia_viajera observando un pinguino_Ea San Lore.jpg' title='PIN-005_Patagonia_viajera observando un pinguino_Ea San Lore.jpg'>
-        <img src='/images/collections-thumbs/PIN/PIN-005_Patagonia_viajera observando un pinguino_Ea San Lore.jpg' alt='PIN-005_Patagonia_viajera observando un pinguino_Ea San Lore.jpg'>
+      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-005_Patagonia_viajera observando un pinguino_Ea San Lore.jpg' title='05_Patagonia_viajera observando un pinguino_Ea San Lore'>
+        <img src='/images/collections-thumbs/PIN/PIN-005_Patagonia_viajera observando un pinguino_Ea San Lore.jpg' alt='05_Patagonia_viajera observando un pinguino_Ea San Lore'>
       </a>
-      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-006_Patagonia_Playa principal 1_Punta Tombo_Chubut.jpg' title='PIN-006_Patagonia_Playa principal 1_Punta Tombo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/PIN/PIN-006_Patagonia_Playa principal 1_Punta Tombo_Chubut.jpg' alt='PIN-006_Patagonia_Playa principal 1_Punta Tombo_Chubut.jpg'>
+      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-006_Patagonia_Playa principal 1_Punta Tombo_Chubut.jpg' title='06_Patagonia_Playa principal 1_Punta Tombo_Chubut'>
+        <img src='/images/collections-thumbs/PIN/PIN-006_Patagonia_Playa principal 1_Punta Tombo_Chubut.jpg' alt='06_Patagonia_Playa principal 1_Punta Tombo_Chubut'>
       </a>
-      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-007_Patagonia_Guardafauna controlando_Punta Tombo_Chubut.jpg' title='PIN-007_Patagonia_Guardafauna controlando_Punta Tombo_Chubut.jpg'>
-        <img src='/images/collections-thumbs/PIN/PIN-007_Patagonia_Guardafauna controlando_Punta Tombo_Chubut.jpg' alt='PIN-007_Patagonia_Guardafauna controlando_Punta Tombo_Chubut.jpg'>
+      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-007_Patagonia_Guardafauna controlando_Punta Tombo_Chubut.jpg' title='07_Patagonia_Guardafauna controlando_Punta Tombo_Chubut'>
+        <img src='/images/collections-thumbs/PIN/PIN-007_Patagonia_Guardafauna controlando_Punta Tombo_Chubut.jpg' alt='07_Patagonia_Guardafauna controlando_Punta Tombo_Chubut'>
       </a>
-      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-008_Patagonia_pinguino asomando de su nido_Ea San Lorenz.jpg' title='PIN-008_Patagonia_pinguino asomando de su nido_Ea San Lorenz.jpg'>
-        <img src='/images/collections-thumbs/PIN/PIN-008_Patagonia_pinguino asomando de su nido_Ea San Lorenz.jpg' alt='PIN-008_Patagonia_pinguino asomando de su nido_Ea San Lorenz.jpg'>
+      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-008_Patagonia_pinguino asomando de su nido_Ea San Lorenz.jpg' title='08_Patagonia_pinguino asomando de su nido_Ea San Lorenz'>
+        <img src='/images/collections-thumbs/PIN/PIN-008_Patagonia_pinguino asomando de su nido_Ea San Lorenz.jpg' alt='08_Patagonia_pinguino asomando de su nido_Ea San Lorenz'>
       </a>
-      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-009_Patagonia_Playa principal plano general_Punta Tombo_.jpg' title='PIN-009_Patagonia_Playa principal plano general_Punta Tombo_.jpg'>
-        <img src='/images/collections-thumbs/PIN/PIN-009_Patagonia_Playa principal plano general_Punta Tombo_.jpg' alt='PIN-009_Patagonia_Playa principal plano general_Punta Tombo_.jpg'>
+      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-009_Patagonia_Playa principal plano general_Punta Tombo_.jpg' title='09_Patagonia_Playa principal plano general_Punta Tombo_'>
+        <img src='/images/collections-thumbs/PIN/PIN-009_Patagonia_Playa principal plano general_Punta Tombo_.jpg' alt='09_Patagonia_Playa principal plano general_Punta Tombo_'>
       </a>
-      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-010_Patagonia_Pinguinos apareandose_Ea San Lorenzo_Penin.jpg' title='PIN-010_Patagonia_Pinguinos apareandose_Ea San Lorenzo_Penin.jpg'>
-        <img src='/images/collections-thumbs/PIN/PIN-010_Patagonia_Pinguinos apareandose_Ea San Lorenzo_Penin.jpg' alt='PIN-010_Patagonia_Pinguinos apareandose_Ea San Lorenzo_Penin.jpg'>
+      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-010_Patagonia_Pinguinos apareandose_Ea San Lorenzo_Penin.jpg' title='10_Patagonia_Pinguinos apareandose_Ea San Lorenzo_Penin'>
+        <img src='/images/collections-thumbs/PIN/PIN-010_Patagonia_Pinguinos apareandose_Ea San Lorenzo_Penin.jpg' alt='10_Patagonia_Pinguinos apareandose_Ea San Lorenzo_Penin'>
       </a>
-      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-011_Patagonia_Panoramica playa principal_Punta Tombo_Chu.jpg' title='PIN-011_Patagonia_Panoramica playa principal_Punta Tombo_Chu.jpg'>
-        <img src='/images/collections-thumbs/PIN/PIN-011_Patagonia_Panoramica playa principal_Punta Tombo_Chu.jpg' alt='PIN-011_Patagonia_Panoramica playa principal_Punta Tombo_Chu.jpg'>
+      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-011_Patagonia_Panoramica playa principal_Punta Tombo_Chu.jpg' title='11_Patagonia_Panoramica playa principal_Punta Tombo_Chu'>
+        <img src='/images/collections-thumbs/PIN/PIN-011_Patagonia_Panoramica playa principal_Punta Tombo_Chu.jpg' alt='11_Patagonia_Panoramica playa principal_Punta Tombo_Chu'>
       </a>
-      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-012_Patagonia_Pinguino pichon_Cabo Dos Bahias_Chubut.jpg' title='PIN-012_Patagonia_Pinguino pichon_Cabo Dos Bahias_Chubut.jpg'>
-        <img src='/images/collections-thumbs/PIN/PIN-012_Patagonia_Pinguino pichon_Cabo Dos Bahias_Chubut.jpg' alt='PIN-012_Patagonia_Pinguino pichon_Cabo Dos Bahias_Chubut.jpg'>
+      <a href='/images/collections/PIN_Pinguino-de-Magallanes/PIN-012_Patagonia_Pinguino pichon_Cabo Dos Bahias_Chubut.jpg' title='12_Patagonia_Pinguino pichon_Cabo Dos Bahias_Chubut'>
+        <img src='/images/collections-thumbs/PIN/PIN-012_Patagonia_Pinguino pichon_Cabo Dos Bahias_Chubut.jpg' alt='12_Patagonia_Pinguino pichon_Cabo Dos Bahias_Chubut'>
       </a>
     </div>
 
