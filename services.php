@@ -57,7 +57,7 @@
         border-radius: 15px;
         -border-radius: 3px;
         -webkit-border-radius: 10px;
-        box-shadow: 5px 5px 10px #999;
+        box-shadow: 5px 5px 10px #111;
 
       }
     </style>
