@@ -50,15 +50,14 @@
         width: 100%;
         margin: 0 auto;
         padding: 10px;
-        background-color: #f8f8f8;
-        background-color: rgba(50, 50, 50,.8);
+        background-color: #4e9258;
 
         border: 1px solid #999;
         padding: 10px;
         border-radius: 15px;
         -border-radius: 3px;
         -webkit-border-radius: 10px;
-        box-shadow: 5px 5px 10px #999;
+        box-shadow: 5px 5px 10px #111;
 
       }
     </style>
@@ -72,7 +71,6 @@
 	    <section class="container">
 
 	      <div class="row">
-		<div class="col-md-9"></div>
 		<div class="col-md-3">
 		  <div id="content">
 		    <h2>Servicios</h2>
@@ -82,6 +80,7 @@
     <p><a class="btn" href="collections-index.php">Ir a Galerías... »</a></p>
 	          </div>
 		</div>
+		<div class="col-md-9"></div>
 	      </div>
 
     <!-- Bootstrap core JavaScript
