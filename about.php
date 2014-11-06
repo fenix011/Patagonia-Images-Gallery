@@ -64,9 +64,6 @@
 	    <section class="container">
 
 	      <div class="row">
-		<div class="col-md-7">
-
-		</div>
 		<div class="col-md-5">
 		  <div id="content">
 		    <figure><IMG class="centeredImage" src="img/foto_quiensoy.jpg" width="376" height="256" alt="" title="foto de autor" />
@@ -85,10 +82,10 @@
 	      </div>
 
 
+		<div class="col-md-7">
 
-
-	      <!-- here goes main-content.php comp. -->
-
+		</div>
+   </section>
 
 
     <!-- Bootstrap core JavaScript

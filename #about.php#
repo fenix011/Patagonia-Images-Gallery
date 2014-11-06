@@ -3,7 +3,9 @@
 <!--- here goes meta.php -->
 <?php include "components/php/meta.php"; ?>
 
-    <title>Patagonia Images |   Servicios  </title>
+    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
+
+    <title>Patagonia Images |   Quién Soy   </title>
 
     <!-- Bootstrap core CSS -->
     <link href="grid-template_files/bootstrap.css" rel="stylesheet">
@@ -27,12 +29,19 @@
 
     <style type="text/css">
       body {
+
         padding-top: 60px;
         padding-bottom: 40px;
-        background: url(img/TEX-012_Patagonia_hielo_1920x.jpg);
+        background: url(img/las-huellas-del-invierno.jpg);
         background-size: cover;
-        background-repeat:no-repeatdisplay: compact;
-      }
+        background-repeat:no-repeatdisplay: compact;        
+        }
+<!-- ex-backg     {
+        padding-top: 60px;
+        padding-bottom: 40px;
+        background-color: #C2C2C2;
+
+      } -->
 
       [class*="col-"] {
         background-color: rgba(86, 61, 124, 0.0);
@@ -40,8 +49,12 @@
         padding-bottom: 15px;
         padding-top: 15px;
       }
+      
+     
+}
+</style>
 
-       </style>
+    </style>
 
   </head>
 
@@ -52,17 +65,29 @@
 	    <section class="container">
 
 	      <div class="row">
-		<div class="col-md-3">
+		<div class="col-md-5">
 		  <div id="content">
-		    <h2>Servicios</h2>
-		    <p> Servicios de fotografía y video simultáneos </p>
-		    <p>Una característica que destaco de mi trabajo es que produzco simultáneamente archivos de imágenes fotográficas y de televisión en el terreno, en las montañas y desiertos, desde el aire y bajo el agua, brindando así un gran espectro de posibilidades de aplicación de estas imágenes.</p> 
-		    <p>Junto a mi equipo en <a href="http://tierraviva.tv">TierraViva.tv</a> , realizamos las ediciones de video orientados a proyectos educativos y de divulgación de la Naturaleza en multiplataforma y de productos audiovisuales para museos y centros de visitantes </p>
-    <p><a class="btn" href="collections-index.php">Ir a Galerías... »</a></p>
+		    <figure><IMG class="centeredImage" src="img/foto_quiensoy.jpg" width="376" height="256" alt="" title="foto de autor" />
+         		  <figcaption><h6>Tomando fotografías con una cámara de gran formato, en el Parque Nacional Torres del Paine, Chile, 1991</h6></figcaption>
+		  </figure></p>
+
+
+		    <h2>Quién Soy</h2>
+		    <p> Soy  fotógrafo documentalista, explorador y realizador de televisión de naturaleza, y he dedicado mi vida a la exploración y la documentación en imágenes de la Patagonia.</p>
+		    <p>Me gusta estar en el campo produciendo solo, en contacto intimo y personal con la Naturaleza y al momento de editar, de desarrollar una idea, me gusta aun mas trabajar en equipo. A mi entender, una edición dice mucho mas que una colección de imágenes separadas</p> 
+		    <p> Las imágenes que realice en estos 37 años estuvieron desde un principio, pensadas para publicar  y por esto he investigado, ideado y sostenido una estructura documental en mis producciones.</p>
+		    <p>Como autor también estoy trabajando activamente en la <a href="http://tierraviva.tv"> Televisión Documental</a> , realizamos las ediciones de video orientados a proyectos educativos y de divulgación de la Naturaleza en multiplataforma y de productos audiovisuales para museos. </p>
+<p><a class="btn" href="collections-index.php">Ir a Galerías... »</a></p>
 	          </div>
 		</div>
-		<div class="col-md-9"></div>
 	      </div>
+
+
+		<div class="col-md-7">
+
+		</div>
+   </section>
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
