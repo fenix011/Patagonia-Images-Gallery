@@ -33,7 +33,7 @@
   z-index: 999999;
   overflow: hidden;
   background: #000;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.8);
   opacity: 0;
   display: none;
   direction: ltr;
