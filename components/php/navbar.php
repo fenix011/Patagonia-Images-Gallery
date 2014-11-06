@@ -18,18 +18,17 @@
               <li><a href="mision.php">Misión</a></li>
               <li><a href="contact.php">Contacto</a></li>
 
-              <!-- as per getboostrap../components/#navbar-forms  --->
+              <!-- as per getboostrap../components/#navbar-forms  TipueSearch wrapper - Removed !
 
 	      <form class="navbar-form navbar-left" role="search" action="search.php">
 	        <div class="form-group">
 		    <span class="glyphicon glyphicon-search"></span>
 		        <input type="text" class="form-control" placeholder="Ejemplo: ballenas,flores..." name="q" id="tipue_search_input" autocomplete="off" required>
-			   <!-- /tipue -->
 	        </div>
 		<button type="submit" class="btn btn-default">Buscar</button>
                </form>
 
-                <!-- / getbs -->
+                / Tipuesearch wrapper -->
 
 
 
