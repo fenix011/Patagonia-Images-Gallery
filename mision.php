@@ -43,26 +43,6 @@
         padding-top: 15px;
       }
 
-
-
-      div#content {
-      
-
-        color: #D6D6D6;
-        width: 100%;
-        margin: 0 auto;
-        padding: 10px;
-        background-color: #f8f8f8;
-        background-color: rgba(50, 50, 50,.6);
-
-        border: 1px solid #999;
-        padding: 10px;
-        border-radius: 15px;
-        -border-radius: 3px;
-        -webkit-border-radius: 10px;
-        box-shadow: 5px 5px 10px #999;
-
-      }
     </style>
 
   </head>
@@ -74,7 +54,6 @@
 	    <section class="container">
 
 	      <div class="row">
-		<div class="col-md-9"></div>
 		<div class="col-md-3">
 		  <div id="content">
 		    <h2>La divulgación de la naturaleza es mi Misión</h2>
@@ -86,6 +65,7 @@
 
 	          </div>
 		</div>
+		<div class="col-md-9"></div>
 	      </div>
 
 

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
-	<title>Patagonia  Images | Listado de Contenidos</title>
+	<title>Patagonia  Images | Listado de Contenidos </title>
 	<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0" />
 
     <!-- Bootstrap core CSS -->
