@@ -170,7 +170,7 @@
         <img src='/images/collections-thumbs/COM/COM-020_Patagonia_rastros de la bajante_Peninsula Valdes.jpg' alt='20_Patagonia_rastros de la bajante_Peninsula Valdes'>
       </a>
       <a href='/images/collections/COM_Costa-Marina/COM-021_Patagonia_Cangrejo en una poza de marea_Peninsula Valdes.jpg' title='21_Patagonia_Cangrejo en una poza de marea_Peninsula Valdes'>
-        <img src='/images/collections-thumbs/COM/COM-021_Patagonia_Cangrejo en una poza de marea_Peninsula Valdes.jpg' alt='21_Patagonia_Cangrejo en una poza de marea_Peninsula Valdes'>
+        <img src='/images/collections-thumbs/COM/COM-021_Patagonia_Cangrejo en una poza de marea_Peninsula Va.jpg' alt='21_Patagonia_Cangrejo en una poza de marea_Peninsula Valdes'>
       </a>
     </div>
 
