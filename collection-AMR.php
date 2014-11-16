@@ -148,11 +148,12 @@
       <a href='/images/collections/AMR_Aves-Marinas/AMR_010_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi.jpg' title='10_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi'>
         <img src='/images/collections-thumbs/AMR/AMR_010_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi.jpg' alt='10_Patagonia_Colonia de Cormoranes Bigua_Caleta Malaspi'>
       </a>
-      <a href='/images/collections/AMR_Aves-Marinas/AMR-011_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut.jpg' title='11_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut'>
-        <img src='/images/collections-thumbs/AMR/AMR-011_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut.jpg' alt='11_Patagonia_Gaviotas Cocineras_Punta Tombo_Chubut'>
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-011_Patagonia_Pareja de pinguinos de Magallanes en La Caleta_Peninsula Valdes.jpg' title='11_Patagonia_Pareja de pinguinos de Magallanes en La Caleta_Peninsula Valdes'>
+        <img src='/images/collections-thumbs/AMR/AMR-011_Patagonia_Pareja de pinguinos de Magallanes en La Caleta_Peninsula Valdes.jpg' alt='11_Patagonia_Pareja de pingüinos de Magallanes en La Caleta_Peninsula Valdes'>
       </a>
-      <a href='/images/collections/AMR_Aves-Marinas/AMR-012_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal.jpg' title='12_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal'>
-        <img src='/images/collections-thumbs/AMR/AMR-012_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal.jpg' alt='12_Patagonia_Gaviotas Cangrejeras o de Orlog_Caleta Mal'>
+
+      <a href='/images/collections/AMR_Aves-Marinas/AMR-012_Patagonia_Pinguino de Magallanes regresando al mar_Chubut.jpg' title='012_Patagonia_Pinguino de Magallanes regresando al mar_Chubut'>
+        <img src='/images/collections-thumbs/AMR/AMR-012_Patagonia_Pinguino de Magallanes regresando al mar_Chubut.jpg' alt='AMR-012_Patagonia_Pinguino de Magallanes regresando al mar_Chubut'>
       </a>
     </div>
 
