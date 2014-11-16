@@ -133,12 +133,15 @@
       <a href='/images/collections/CIE_Cielos-y-luces/CIE-007_Patagonia_Nubes lenticulares en la estepa_Rio Negro.jpg' title='07_Patagonia_Nubes lenticulares en la estepa_Rio Negro'>
         <img src='/images/collections-thumbs/CIE/CIE-007_Patagonia_Nubes lenticulares en la estepa_Rio Negro.jpg' alt='07_Patagonia_Nubes lenticulares en la estepa_Rio Negro'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-008_Patagonia-nubes sobre el glaciar Upsala_Santa Cruz.jpg' title='08_Patagonia-nubes sobre el glaciar Upsala_Santa Cruz'>
-        <img src='/images/collections-thumbs/CIE/CIE-008_Patagonia-nubes sobre el glaciar Upsala_Santa Cruz.jpg' alt='08_Patagonia-nubes sobre el glaciar Upsala_Santa Cruz'>
+
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-008_Patagonia_cielo diafano despues de la nevada_Bariloche_Rio negro.jpg' title='08_Patagonia_cielo diafano despues de la nevada_Bariloche_Rio negro'>
+        <img src='/images/collections-thumbs/CIE/CIE-008_Patagonia_cielo diafano despues de la nevada_Bariloche_Rio negro.jpg' alt='08_Patagonia_cielo diafano despues de la nevada_Bariloche_Rio negro'>
       </a>
-      <a href='/images/collections/CIE_Cielos-y-luces/CIE-009_Patagonia_sol sobre el lago Argentino_Santa Cruz.jpg' title='09_Patagonia_sol sobre el lago Argentino_Santa Cruz'>
-        <img src='/images/collections-thumbs/CIE/CIE-009_Patagonia_sol sobre el lago Argentino_Santa Cruz.jpg' alt='09_Patagonia_sol sobre el lago Argentino_Santa Cruz'>
+
+      <a href='/images/collections/CIE_Cielos-y-luces/CIE-009Patagonia_Cielo con nubes lenticulares-Estepa precordillerana_Ruta 40.jpg' title='CIE-009Patagonia_Cielo con nubes lenticulares-Estepa precordillerana_Ruta 40'>
+        <img src='/images/collections-thumbs/CIE/CIE-009Patagonia_Cielo con nubes lenticulares-Estepa precordillerana_Ruta 40.jpg' alt='CIE-009Patagonia_Cielo con nubes lenticulares-Estepa precordillerana_Ruta 40.jpg'>
       </a>
+
       <a href='/images/collections/CIE_Cielos-y-luces/CIE-010_Patagonia-Nubes sobre el oceano_Punta Tombo.jpg' title='10_Patagonia-Nubes sobre el oceano_Punta Tombo'>
         <img src='/images/collections-thumbs/CIE/CIE-010_Patagonia-Nubes sobre el oceano_Punta Tombo.jpg' alt='10_Patagonia-Nubes sobre el oceano_Punta Tombo'>
       </a>
