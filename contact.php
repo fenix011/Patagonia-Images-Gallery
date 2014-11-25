@@ -88,8 +88,10 @@
         <div class="col-md-2"></div>
         <div class="col-md-8">
 	  <div id="content">
-          <h3>Correo electrónico</h3>
+          <h3>Correo electrónico:</h3>
           <p>info⊚Patagonia-Images.com </p>
+          <h3>Teléfono:</h3>
+          <p> +54 (11) 500 46301</p>
           </div>
         </div><!--/span-->
         <div class="col-md-2"></div>
