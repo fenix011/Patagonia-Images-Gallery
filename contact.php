@@ -3,12 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A contact form using the Bootstrap 3 framework.">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="../../components/ico/favicon.png">
+
     <title>Patagonia Images | Contacta</title>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" >
-    <link rel="stylesheet" href="components/vender/intl-tel-input/css/intlTelInput.css">
+
 
 
     <!--Bootstrap core CSS -->
@@ -103,10 +101,6 @@
 
     </section><!--/.container-->
     <!-- <======= UP TO HERE -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-    <script src="components/vender/intl-tel-input/js/intlTelInput.min.js"></script>
-    <script src="components/js/contact-form.js"></script>
   </body>
 </html>
 
