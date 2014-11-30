@@ -1,20 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html lang="en"><head>
+<!--- here goes meta.php -->
+<?php include "components/php/meta.php"; ?>
 
-    <title>Patagonia Images | Contacta</title>
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" >
+    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
 
+    <title>Patagonia Images |   Quién Soy   </title>
 
-
-    <!--Bootstrap core CSS -->
+    <!-- Bootstrap core CSS -->
     <link href="grid-template_files/bootstrap.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-<link href="grid-template_files/grid.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
+    <link href="grid-template_files/grid.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -29,80 +27,73 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-
-
-    <!-- EXTRACT ADDITIONAL STYLING HERE =======> -->
-    <style>
+    <style type="text/css">
       body {
-        background-color: #4e9258;
+
+        padding-top: 60px;
+        padding-bottom: 40px;
+        }
+<!-- ex-backg     {
+        padding-top: 60px;
+        padding-bottom: 40px;
+        background-color: #C2C2C2;
+
+      } -->
+
+      [class*="col-"] {
+        background-color: rgba(86, 61, 124, 0.0);
+        border: 1px solid rgba(86, 61, 124, 0.0);
+        padding-bottom: 15px;
+        padding-top: 15px;
       }
-
-      .container {
-        width: auto;
-        max-width: 100%;
-      }
-      .form-group {
-        margin-bottom: 8px;
-      }
-      #feedbackForm {
-        font-size: 12px;
-      }
-
-      div#contact_form {
-      
-
-        color: #D6D6D6;
-        width: 100%;
-        margin: 0 auto;
-        padding: 10px;
-        background-color: #f8f8f8;
-        background-color: rgba(50, 50, 50,.1);
-
-        border: 1px solid #999;
-        padding: 10px;
-        border-radius: 15px;
-        -border-radius: 3px;
-        -webkit-border-radius: 10px;
-        box-shadow: 5px 5px 10px #999;
-
-      }
-
+     
+}
+</style>
 
     </style>
-    <!-- <======= UP TO HERE -->
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="components/vender/bootstrap/components/js/html5shiv.js"></script>
-      <script src="components/vender/bootstrap/components/js/respond.min.js"></script>
-    <![endif]-->
+
   </head>
-  <body id="contact">
-    <!-- EXTRACT FORM HERE =======> -->
 
-  <!--navbar comp.-->
-  <?php include "components/php/navbar.php"; ?>
+  <body id="home">
+
+	<!-- { navbar-->
+	<?php include "components/php/navbar.php"; ?>
+	    <section class="container">
+
+	      <div class="row">
+
+                <div class="col-md-4">
+
+		</div>
+
+		<div class="col-md-4">
+		  <div id="content">
+		    <figure><IMG class="centeredImage" src="img/email.png"  alt="" title="bla" />
+         		  <figcaption><h6>Tomando fotografías con una cámara de gran formato, en el Parque Nacional Torres del Paine, Chile, 1991</h6></figcaption>
+		  </figure></p>
 
 
-    <section style="margin-top: 100px" class="container">
-      <div id="contact_form" class="row">
-        <div class="col-md-2"></div>
-        <div class="col-md-8">
-	  <div id="content">
-          <h3>Correo electrónico:</h3>
-          <p>info⊚Patagonia-Images.com </p>
-          <h3>Teléfono:</h3>
-          <p> +54 (11) 500 46301</p>
-          </div>
-        </div><!--/span-->
-        <div class="col-md-2"></div>
-      </div><!--/row-->
+		    <h2>Quién Soy</h2>
+		    <p> Soy  fotógrafo documentalista, explorador y realizador de televisión de naturaleza, y he dedicado mi vida a la exploración y la documentación en imágenes de la Patagonia.</p>
+		    <p>Me gusta estar en el campo produciendo solo, en contacto intimo y personal con la Naturaleza y al momento de editar, de desarrollar una idea, me gusta aun mas trabajar en equipo. A mi entender, una edición dice mucho mas que una colección de imágenes separadas</p> 
+		    <p> Las imágenes que realice en estos 37 años estuvieron desde un principio, pensadas para publicar  y por esto he investigado, ideado y sostenido una estructura documental en mis producciones.</p>
+		    <p>Como autor también estoy trabajando activamente en la <a href="http://tierraviva.tv"> Televisión Documental</a> , realizamos las ediciones de video orientados a proyectos educativos y de divulgación de la Naturaleza en multiplataforma y de productos audiovisuales para museos. </p>
+<p><a class="btn" href="collections-index.php">Ir a Galerías... »</a></p>
+	          </div>
+		</div>
+	      </div>
 
-<footer style="margin-top: 300px"> <!-- /container -->
+
+		<div class="col-md-4">
+
+		</div>
+   </section>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+ 
+
+    <!-- footer comp. -->
 	      <?php include "components/php/footer.php"; ?>
-</footer> <!-- /container -->
-
-    </section><!--/.container-->
-    <!-- <======= UP TO HERE -->
-  </body>
-</html>
-
