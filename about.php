@@ -85,13 +85,13 @@
 		<div class="col-md-7">
 
 		</div>
-   </section>
 
+    </section>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
  
-
-    <!-- footer comp. -->
+    <footer> <!-- /container -->
 	      <?php include "components/php/footer.php"; ?>
+    </footer> <!-- /container -->
