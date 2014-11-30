@@ -32,13 +32,9 @@
 
         padding-top: 60px;
         padding-bottom: 40px;
+        background-color: #4e9258;
         }
-<!-- ex-backg     {
-        padding-top: 60px;
-        padding-bottom: 40px;
-        background-color: #C2C2C2;
 
-      } -->
 
       [class*="col-"] {
         background-color: rgba(86, 61, 124, 0.0);
@@ -68,17 +64,11 @@
 
 		<div class="col-md-4">
 		  <div id="content">
-		    <figure><IMG class="centeredImage" src="img/email.png"  alt="" title="bla" />
-         		  <figcaption><h6>Tomando fotografías con una cámara de gran formato, en el Parque Nacional Torres del Paine, Chile, 1991</h6></figcaption>
-		  </figure></p>
+         	
+		    <h3>Correo electrónico y teléfono:</h3>
 
-
-		    <h2>Quién Soy</h2>
-		    <p> Soy  fotógrafo documentalista, explorador y realizador de televisión de naturaleza, y he dedicado mi vida a la exploración y la documentación en imágenes de la Patagonia.</p>
-		    <p>Me gusta estar en el campo produciendo solo, en contacto intimo y personal con la Naturaleza y al momento de editar, de desarrollar una idea, me gusta aun mas trabajar en equipo. A mi entender, una edición dice mucho mas que una colección de imágenes separadas</p> 
-		    <p> Las imágenes que realice en estos 37 años estuvieron desde un principio, pensadas para publicar  y por esto he investigado, ideado y sostenido una estructura documental en mis producciones.</p>
-		    <p>Como autor también estoy trabajando activamente en la <a href="http://tierraviva.tv"> Televisión Documental</a> , realizamos las ediciones de video orientados a proyectos educativos y de divulgación de la Naturaleza en multiplataforma y de productos audiovisuales para museos. </p>
-<p><a class="btn" href="collections-index.php">Ir a Galerías... »</a></p>
+		   <img class="centeredImage" src="img/email.png"  alt="" title="bla" />
+		    <p><a class="btn" href="collections-index.php">Proseguir el viaje... »</a></p>
 	          </div>
 		</div>
 	      </div>
